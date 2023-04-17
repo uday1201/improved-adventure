@@ -1,0 +1,109 @@
+Received: by 2002:a05:7300:3b85:b0:6d:41b1:89b5 with SMTP id d5csp535572dys;
+        Thu, 18 Aug 2022 11:44:24 -0700 (PDT)
+Received: from mail-relay3-cse1.blackboard.com (mail-relay3-cse1.blackboard.com. [69.196.242.133])
+        by mx.google.com with ESMTPS id l19-20020ac848d3000000b0031f3aacd56bsi1100555qtr.258.2022.08.18.11.44.24
+        (version=TLS1_2 cipher=ECDHE-ECDSA-AES128-GCM-SHA256 bits=128/128);
+        Thu, 18 Aug 2022 11:44:24 -0700 (PDT)
+Received: from smtp2-aws1-2.bbnotify.net (smtp2-aws1-2.bbnotify.net [52.33.56.235])
+	by mail-relay1-cse1.blackboard.com (Sentrion-MTA-4.5.7/Sentrion-MTA-4.5.7) with ESMTPS id 27IIiGRq014268
+	(version=TLSv1.2 cipher=ECDHE-RSA-AES256-GCM-SHA384 bits=256 verify=NO);
+	Thu, 18 Aug 2022 18:44:17 GMT
+Received: from ip-10-146-99-27.us-west-2.compute.internal ([10.146.99.27]:42666 helo=UHURA)
+	by smtp2-aws1-2.bbnotify.net with esmtp (Exim 4.92)
+	(envelope-from <noreply@tenafly.k12.nj.us>)
+	id 1oOkUS-0007RB-L1; Thu, 18 Aug 2022 18:43:36 +0000
+Reply-To: "Tenafly Schools" <noreply@tenafly.k12.nj.us>
+From: "Tenafly Schools" <noreply@tenafly.k12.nj.us>
+To: "Tenafly Middle School Recipients" <recipients@tenafly.parentlink.net>
+Subject: From TMS: Back-to-School Night
+Date: Thu, 18 Aug 2022 11:43:35 -0700
+Message-ID: <E1oOkUS-0007RB-L1@bbnotify.net>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_029F_01D96D65.192267F0"
+X-Priority: =?utf-8?q?3_=28normal=29?=
+X-Mailer: =?utf-8?q?UHURA?=
+Thread-Index: AQLVEsjpj7yh15XJ2XoSAAx/N5HP7A==
+X-Google-Smtp-Source: AA6agR4ZMaFrQ/zjUF2ACYQd/mN40NeEFUZrE04E8z4EnkscWmGkF8xqZgL/+8uNK4BFtcYaVm4w
+X-Received: by 2002:ac8:5704:0:b0:343:55eb:acf with SMTP id 4-20020ac85704000000b0034355eb0acfmr3915708qtw.322.1660848264799;
+        Thu, 18 Aug 2022 11:44:24 -0700 (PDT)
+Authentication-Results: mx.google.com;
+       spf=pass (google.com: domain of noreply@tenafly.k12.nj.us designates 69.196.242.133 as permitted sender) smtp.mailfrom=noreply@tenafly.k12.nj.us;
+       dmarc=pass (p=REJECT sp=NONE dis=NONE) header.from=tenafly.k12.nj.us
+X-BatchID: =?utf-8?q?4442077?=
+X-Job-ID: =?utf-8?q?=3C20220818184335=2EUHURA=2Eb2822360-303b-48d6-9f85-7?=
+ =?utf-8?q?eabf60bae9f=2EWylSymvmYI=40mail1=2Elocaldomain=3E?=
+
+This is a multipart message in MIME format.
+
+------=_NextPart_000_029F_01D96D65.192267F0
+Content-Type: text/plain;
+	charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+  =
+<https://storage.googleapis.com/pt04-1/images/tinymce/8951500cc722927ae5a=
+cebd4464dfed7/TMS_Logo_Winner_Letterhead_for_Bb.jpg> =09
+
+Sorry for the typo! TMS Back-to-School night is September 21 at 6:30 - =
+not on the first.
+
+Thank you,
+
+John Fabbo
+Principal, Tenafly Middle School
+
+  _____ =20
+
+You are receiving this email because of your relationship with Tenafly =
+Middle School. If you wish to stop receiving email updates sent through =
+the Blackboard service, please unsubscribe =
+<https://tenafly.parentlink.net/main/unsubscribe?a=3Dall&d=3DNDQ0MjA3Nw%3=
+D%3D%0A> .
+Tenafly Middle School | 10 Sunset Lane, Tenafly, NJ 07670 | 201-816-4900
+
+------=_NextPart_000_029F_01D96D65.192267F0
+Content-Type: text/html;
+	boundary="----=_NextPart_000_03B7_01D8DA3A.59075240";
+	charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+<html><head>
+<META HTTP-EQUIV=3D"Content-Type" CONTENT=3D"text/html; =
+charset=3DUTF-8">
+<link rel=3D"stylesheet" type=3D"text/css" =
+href=3D"https://storage.googleapis.com/static_pl/css/email.min.css"/><tit=
+le>Message</title></head><body><table class=3D"wsite-multicol-table" =
+style=3D"border-collapse: collapse; width: 105%; margin-left: auto; =
+margin-right: auto;" border=3D"0" cellspacing=3D"1" cellpadding=3D"1">
+<tbody class=3D"wsite-multicol-tbody">
+<tr class=3D"wsite-multicol-tr">
+<td style=3D"text-align: center; width: 100%;"><img style=3D"float: =
+left;" =
+src=3D"https://storage.googleapis.com/pt04-1/images/tinymce/8951500cc7229=
+27ae5acebd4464dfed7/TMS_Logo_Winner_Letterhead_for_Bb.jpg" alt=3D"TMS =
+Logo" width=3D"110%" /></td>
+</tr>
+<tr class=3D"wsite-multicol-tr" style=3D"height: 10px;">
+<td style=3D"width: 80%; text-align: left;">
+<p><span style=3D"font-family: tahoma, arial, helvetica, sans-serif; =
+font-size: 12pt;">Sorry for the typo! TMS Back-to-School night is =
+<strong>September 21 at 6:30</strong> - not on the first.</span></p>
+<p><span style=3D"font-family: tahoma, arial, helvetica, sans-serif; =
+font-size: 12pt;"><span style=3D"font-family: tahoma, arial, helvetica, =
+sans-serif;">Thank you,</span></span></p>
+<p><span style=3D"font-family: tahoma, arial, helvetica, sans-serif; =
+font-size: 12pt;">John Fabbo</span><br /><span style=3D"font-family: =
+tahoma, arial, helvetica, sans-serif; font-size: 12pt;"> Principal, =
+Tenafly Middle School</span></p>
+</td>
+</tr>
+</tbody>
+</table><div style=3D"font-size:11px;color:#888"><hr>You are receiving =
+this email because of your relationship with Tenafly Middle School. If =
+you wish to stop receiving email updates sent through the Blackboard =
+service, please <a =
+href=3D"https://tenafly.parentlink.net/main/unsubscribe?a=3Dall&d=3DNDQ0M=
+jA3Nw%3D%3D%0A">unsubscribe</a>.<br>Tenafly Middle School | 10 Sunset =
+Lane, Tenafly, NJ 07670 | 201-816-4900</div></body></html>
+------=_NextPart_000_029F_01D96D65.192267F0--

@@ -1,0 +1,259 @@
+Received: by 2002:a05:7300:3b85:b0:6d:41b1:89b5 with SMTP id d5csp531231dys;
+        Thu, 18 Aug 2022 11:33:28 -0700 (PDT)
+Received: from mail-relay23-cse1.blackboard.com (mail-relay23-cse1.blackboard.com. [192.230.230.23])
+        by mx.google.com with ESMTPS id bs34-20020a05620a472200b006b5f70826dfsi1347818qkb.760.2022.08.18.11.33.27
+        (version=TLS1_2 cipher=ECDHE-ECDSA-AES128-GCM-SHA256 bits=128/128);
+        Thu, 18 Aug 2022 11:33:27 -0700 (PDT)
+Received: from smtp1-aws1-2.bbnotify.net (smtp1-aws1-2.bbnotify.net [35.163.176.222])
+	by mail-relay21-cse1.blackboard.com (Sentrion-MTA-4.5.7/Sentrion-MTA-4.5.7) with ESMTPS id 27IIXIVj019723
+	(version=TLSv1.2 cipher=ECDHE-RSA-AES256-GCM-SHA384 bits=256 verify=NO);
+	Thu, 18 Aug 2022 18:33:19 GMT
+Received: from ip-10-146-99-27.us-west-2.compute.internal ([10.146.99.27]:46710 helo=UHURA)
+	by smtp1-aws1-2.bbnotify.net with esmtp (Exim 4.92)
+	(envelope-from <noreply@tenafly.k12.nj.us>)
+	id 1oOkHL-0007Cs-Mf; Thu, 18 Aug 2022 18:30:03 +0000
+Reply-To: "Tenafly Schools" <noreply@tenafly.k12.nj.us>
+From: "Tenafly Schools" <noreply@tenafly.k12.nj.us>
+To: "Tenafly Middle School Recipients" <recipients@tenafly.parentlink.net>
+Subject: From TMS: Welcome Back! Info & Forms
+Date: Thu, 18 Aug 2022 11:30:02 -0700
+Message-ID: <E1oOkHL-0007Cs-Mf@bbnotify.net>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_02A3_01D96D65.19235250"
+X-Priority: =?utf-8?q?3_=28normal=29?=
+X-Mailer: =?utf-8?q?UHURA?=
+Thread-Index: AQFFZH2PJc9Bx0ZpEM0oa3ziN4pLLA==
+X-Google-Smtp-Source: AA6agR4XbAa0/7d74cWg/p0OWExqbKcd+dB5DwEaJocpyas8yeY7y6nWqdbjsDyfdXlboagcBBXr
+X-Received: by 2002:a05:620a:1513:b0:6ba:e66b:726d with SMTP id i19-20020a05620a151300b006bae66b726dmr3099839qkk.692.1660847608016;
+        Thu, 18 Aug 2022 11:33:28 -0700 (PDT)
+Authentication-Results: mx.google.com;
+       spf=pass (google.com: domain of noreply@tenafly.k12.nj.us designates 192.230.230.23 as permitted sender) smtp.mailfrom=noreply@tenafly.k12.nj.us;
+       dmarc=pass (p=REJECT sp=NONE dis=NONE) header.from=tenafly.k12.nj.us
+X-BatchID: =?utf-8?q?4442012?=
+X-Job-ID: =?utf-8?q?=3C20220818183002=2EUHURA=2E6f7cbd6a-800e-410e-87dc-8?=
+ =?utf-8?q?7db04f1bf14=2EG4XGqidiEG=40mail1=2Elocaldomain=3E?=
+
+This is a multipart message in MIME format.
+
+------=_NextPart_000_02A3_01D96D65.19235250
+Content-Type: text/plain;
+	charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+  =
+<https://storage.googleapis.com/pt04-1/images/tinymce/8951500cc722927ae5a=
+cebd4464dfed7/TMS_Logo_Winner_Letterhead_for_Bb.jpg> =09
+
+Dear Tenafly Middle School Parents and Guardians, =20
+
+Welcome to the 2022-2023 school year at TMS! Mr. Comey, Ms. Paz and I =
+are looking forward to welcoming almost 900 students (888 as of today) =
+and 140 staff members. We are excited to kick off a new school year =
+filled with learning, socializing, and growth. School is the greatest =
+place in the world and we are ready to make this an amazing year.=20
+
+ <https://www.tenaflyschools.org/Page/15632> Please click here for the =
+Welcome Back Packet with everything you=E2=80=99ll need to know to get =
+ready for the upcoming school year.  =20
+
+Students will be getting their schedules on the first day of school, =
+September 6th!  Remember that the first day is a half day for students =
+so that we can focus only on our 6th graders in the morning.  Seventh =
+and eighth graders come in the afternoon. Lunch service will begin on =
+the second day.=20
+
+For all returning families, welcome back to Tenafly Middle School.  For =
+all new families including new sixth graders (THS Class of 2029!) and =
+new-to-Tenafly people, welcome to our wonderful school.  We are =
+confident that in a few weeks you will feel the magic, spirit, and =
+positive energy that make our school one of the best anywhere.
+
+Some other things to consider and upcoming events=20
+
+*	Drive Slowly and Safely when You are Near the School!!!
+*	Review and update your settings for receiving  =
+<https://www.tenaflyschools.org/Page/18385> Blackboard notifications.
+*	Grade 6 Meet and Greet for students is August 30 at 10:00 AM.
+*	New-to-Tenafly orientation is August 30 at 2:00 PM.
+*	Back-to-School Night is September 1 at 6:30 PM.
+*	Picture Day is September 23.
+*	Schools are closed September 26 and 27 in observance of Rosh Hashanah.
+*	The Club Fair for students will be held after school on September 29.
+*	October 11 is a Professional Day for staff, no school for students.
+*	October 12 is our 6th Grade Reach Out Trip.
+
+*	Reach Out is now an extended day trip to Club Getaway in Kent, CT.
+*	We leave TMS at 7:30 AM and return at 8:30 PM.
+*	Team-building and meeting new friends are the goals for the day so =
+that all of our students feel comfortable, safe and connected during the =
+year-more information to come.
+
+Call for Parent/Guardian Volunteers
+
+This year, we are instituting a Parent/Guardian Support Team focused on =
+building a positive climate and improving student behavior and use of =
+language. After COVID, we need to help students rebuild and strengthen =
+their filters. When one enters a public space, a filter should snap into =
+place that changes how one behaves and speaks. Last year, we noticed =
+that some of these filters were nonexistent. Students need our help to =
+reinstall the school filter. With feedback and support from our parent =
+community, we know this effort will be successful. Email Ms. Saxenian at =
+ <mailto:lsaxenian@tenafly.k12.nj.us> lsaxenian@tenafly.k12.nj.us if you =
+are interested in being on this team.
+
+  _____ =20
+
+You are receiving this email because of your relationship with Tenafly =
+Middle School. If you wish to stop receiving email updates sent through =
+the Blackboard service, please unsubscribe =
+<https://tenafly.parentlink.net/main/unsubscribe?a=3Dall&d=3DNDQ0MjAxMg%3=
+D%3D%0A> .
+Tenafly Middle School | 10 Sunset Lane, Tenafly, NJ 07670 | 201-816-4900
+
+------=_NextPart_000_02A3_01D96D65.19235250
+Content-Type: text/html;
+	boundary="----=_NextPart_000_03BB_01D8DA3A.5907A060";
+	charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+<html><head>
+<META HTTP-EQUIV=3D"Content-Type" CONTENT=3D"text/html; =
+charset=3DUTF-8">
+<link rel=3D"stylesheet" type=3D"text/css" =
+href=3D"https://storage.googleapis.com/static_pl/css/email.min.css"/><tit=
+le>Message</title></head><body><table class=3D"wsite-multicol-table" =
+style=3D"border-collapse: collapse; width: 105%; margin-left: auto; =
+margin-right: auto;" border=3D"0" cellspacing=3D"1" cellpadding=3D"1">
+<tbody class=3D"wsite-multicol-tbody">
+<tr class=3D"wsite-multicol-tr">
+<td style=3D"text-align: center; width: 100%;"><img style=3D"float: =
+left;" =
+src=3D"https://storage.googleapis.com/pt04-1/images/tinymce/8951500cc7229=
+27ae5acebd4464dfed7/TMS_Logo_Winner_Letterhead_for_Bb.jpg" alt=3D"TMS =
+Logo" width=3D"110%" /></td>
+</tr>
+<tr class=3D"wsite-multicol-tr" style=3D"height: 10px;">
+<td style=3D"width: 80%; text-align: left;">
+<p><span style=3D"font-family: tahoma, arial, helvetica, sans-serif; =
+font-size: 12pt;"><span style=3D"font-weight: 400;">Dear Tenafly Middle =
+School Parents and Guardians, </span> <span style=3D"font-weight: =
+400;">=C2=A0</span></span></p>
+<p><span style=3D"font-family: tahoma, arial, helvetica, sans-serif; =
+font-size: 12pt;"><span style=3D"font-weight: 400;">Welcome to the =
+2022-2023 school year at TMS! Mr. Comey, Ms. Paz and I are looking =
+forward to welcoming almost 900 students (888 as of today) and 140 staff =
+members. We are excited to kick off a new school year filled with =
+learning, socializing, and growth. School is the greatest place in the =
+world and we are ready to make this an amazing =
+year.=C2=A0</span></span></p>
+<p><span style=3D"font-family: tahoma, arial, helvetica, sans-serif; =
+font-size: 12pt;"><a =
+href=3D"https://www.tenaflyschools.org/Page/15632"><span =
+style=3D"font-weight: 400;">Please click here for the Welcome Back =
+Packet </span></a><span style=3D"font-weight: 400;">with everything =
+you=E2=80=99ll need to know to get ready for the upcoming school =
+year.=C2=A0=C2=A0=C2=A0</span></span></p>
+<p><span style=3D"font-weight: 400; font-family: tahoma, arial, =
+helvetica, sans-serif; font-size: 12pt;">Students will be getting their =
+schedules on the first day of school, September 6th!=C2=A0 Remember that =
+the first day is a half day for students so that we can focus only on =
+our 6th graders in the morning.=C2=A0 Seventh and eighth graders come in =
+the afternoon. Lunch service will begin on the second =
+day.=C2=A0</span></p>
+<p><span style=3D"font-weight: 400; font-family: tahoma, arial, =
+helvetica, sans-serif; font-size: 12pt;">For all returning families, =
+welcome back to Tenafly Middle School.=C2=A0 For all new families =
+including new sixth graders (THS Class of 2029!) and new-to-Tenafly =
+people, welcome to our wonderful school.=C2=A0 We are confident that in =
+a few weeks you will feel the magic, spirit, and positive energy that =
+make our school one of the best anywhere.</span></p>
+<p><span style=3D"font-family: tahoma, arial, helvetica, sans-serif; =
+font-size: 12pt;"><strong>Some other things to consider and upcoming =
+events=C2=A0</strong></span></p>
+<ul>
+<li style=3D"font-weight: 400;" aria-level=3D"1"><span =
+style=3D"font-weight: 400; font-family: tahoma, arial, helvetica, =
+sans-serif; font-size: 12pt;">Drive Slowly and Safely when You are Near =
+the School!!!</span></li>
+<li style=3D"font-weight: 400;" aria-level=3D"1"><span =
+style=3D"font-family: tahoma, arial, helvetica, sans-serif; font-size: =
+12pt;"><span style=3D"font-weight: 400;">Review and update your settings =
+for receiving </span><a =
+href=3D"https://www.tenaflyschools.org/Page/18385"><span =
+style=3D"font-weight: 400;">Blackboard </span></a><span =
+style=3D"font-weight: 400;">notifications.</span></span></li>
+<li style=3D"font-weight: 400;" aria-level=3D"1"><span =
+style=3D"font-weight: 400; font-family: tahoma, arial, helvetica, =
+sans-serif; font-size: 12pt;">Grade 6 Meet and Greet for students is =
+August 30 at 10:00 AM.</span></li>
+<li style=3D"font-weight: 400;" aria-level=3D"1"><span =
+style=3D"font-weight: 400; font-family: tahoma, arial, helvetica, =
+sans-serif; font-size: 12pt;">New-to-Tenafly orientation is August 30 at =
+2:00 PM.</span></li>
+<li style=3D"font-weight: 400;" aria-level=3D"1"><span =
+style=3D"font-weight: 400; font-family: tahoma, arial, helvetica, =
+sans-serif; font-size: 12pt;">Back-to-School Night is September 1 at =
+6:30 PM.</span></li>
+<li style=3D"font-weight: 400;" aria-level=3D"1"><span =
+style=3D"font-weight: 400; font-family: tahoma, arial, helvetica, =
+sans-serif; font-size: 12pt;">Picture Day is September 23.</span></li>
+<li style=3D"font-weight: 400;" aria-level=3D"1"><span =
+style=3D"font-weight: 400; font-family: tahoma, arial, helvetica, =
+sans-serif; font-size: 12pt;">Schools are closed September 26 and 27 in =
+observance of Rosh Hashanah.</span></li>
+<li style=3D"font-weight: 400;" aria-level=3D"1"><span =
+style=3D"font-weight: 400; font-family: tahoma, arial, helvetica, =
+sans-serif; font-size: 12pt;">The Club Fair for students will be held =
+after school on September 29.</span></li>
+<li style=3D"font-weight: 400;" aria-level=3D"1"><span =
+style=3D"font-weight: 400; font-family: tahoma, arial, helvetica, =
+sans-serif; font-size: 12pt;">October 11 is a Professional Day for =
+staff, no school for students.</span></li>
+<li style=3D"font-weight: 400;" aria-level=3D"1"><span =
+style=3D"font-weight: 400; font-family: tahoma, arial, helvetica, =
+sans-serif; font-size: 12pt;">October 12 is our 6th Grade Reach Out =
+Trip.</span></li>
+<ul>
+<li style=3D"font-weight: 400;" aria-level=3D"2"><span =
+style=3D"font-weight: 400; font-family: tahoma, arial, helvetica, =
+sans-serif; font-size: 12pt;">Reach Out is now an extended day trip to =
+Club Getaway in Kent, CT.</span></li>
+<li style=3D"font-weight: 400;" aria-level=3D"2"><span =
+style=3D"font-weight: 400; font-family: tahoma, arial, helvetica, =
+sans-serif; font-size: 12pt;">We leave TMS at 7:30 AM and return at 8:30 =
+PM.</span></li>
+<li style=3D"font-weight: 400;" aria-level=3D"2"><span =
+style=3D"font-weight: 400; font-family: tahoma, arial, helvetica, =
+sans-serif; font-size: 12pt;">Team-building and meeting new friends are =
+the goals for the day so that all of our students feel comfortable, safe =
+and connected during the year-more information to come.</span></li>
+</ul>
+</ul>
+<p><span style=3D"font-family: tahoma, arial, helvetica, sans-serif; =
+font-size: 12pt;"><strong>Call for Parent/Guardian =
+Volunteers</strong></span></p>
+<p><span style=3D"font-family: tahoma, arial, helvetica, sans-serif; =
+font-size: 12pt;"><span style=3D"font-weight: 400;">This year, we are =
+instituting a Parent/Guardian Support Team focused on building a =
+positive climate and improving student behavior and use of language. =
+After COVID, we need to help students rebuild and strengthen their =
+filters. When one enters a public space, a filter should snap into place =
+that changes how one behaves and speaks. Last year, we noticed that some =
+of these filters were nonexistent. Students need our help to reinstall =
+the school filter. With feedback and support from our parent community, =
+we know this effort will be successful. Email Ms. Saxenian at </span><a =
+href=3D"mailto:lsaxenian@tenafly.k12.nj.us"><span style=3D"font-weight: =
+400;">lsaxenian@tenafly.k12.nj.us</span></a><span style=3D"font-weight: =
+400;"> if you are interested in being on this team.</span></span></p>
+</td>
+</tr>
+</tbody>
+</table><div style=3D"font-size:11px;color:#888"><hr>You are receiving =
+this email because of your relationship with Tenafly Middle School. If =
+you wish to stop receiving email updates sent through the Blackboard =
+service, please <a =
+href=3D"https://tenafly.parentlink.net/main/unsubscribe?a=3Dall&d=3DNDQ0M=
+jAxMg%3D%3D%0A">unsubscribe</a>.<br>Tenafly Middle School | 10 Sunset =
+Lane, Tenafly, NJ 07670 | 201-816-4900</div></body></html>
+------=_NextPart_000_02A3_01D96D65.19235250--

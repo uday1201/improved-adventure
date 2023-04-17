@@ -1,0 +1,1124 @@
+Received: from [127.0.0.1] (localhost [127.0.0.1])
+	by ip-172-31-45-82.localdomain (Postfix) with ESMTP id 04AFD61080
+	for <lihilutan@gmail.com>; Sun, 26 Jun 2022 15:00:29 +0000 (UTC)
+Received: from o2.email.membershiptoolkit.com (o2.email.membershiptoolkit.com. [167.89.109.54])
+        by mx.google.com with ESMTPS id c5-20020a630d05000000b003fabebb91b0si11143991pgl.753.2022.06.26.08.00.30
+        for <lihilutan@gmail.com>
+        (version=TLS1_3 cipher=TLS_AES_128_GCM_SHA256 bits=128/128);
+        Sun, 26 Jun 2022 08:00:30 -0700 (PDT)
+Received: by 2002:a05:7300:e009:b0:69:4fc5:7345 with SMTP id gl9csp1438379dyb;
+        Sun, 26 Jun 2022 08:00:31 -0700 (PDT)
+Received: from ip-172-31-45-82.localdomain (unknown)
+	by geopod-ismtpd-1-1 (SG) with ESMTP id 6dYQXelqQlO6f8EWv5Yf3w
+	for <lihilutan@gmail.com>; Sun, 26 Jun 2022 15:00:29.095 +0000 (UTC)
+Received: by filterdrecv-5cfc8dbc8c-66kq8 with SMTP id filterdrecv-5cfc8dbc8c-66kq8-1-62B8748D-1A
+        2022-06-26 15:00:29.16205175 +0000 UTC m=+1546317.479681219
+Reply-To: "Tenafly Middle School HSA" <tmshsa17@gmail.com>
+From: "Tenafly Middle School HSA" <notify@membershiptoolkit.com>
+To: <lihilutan@gmail.com>
+Subject: TMS END OF YEAR LETTER TO FAMILIES - JUNE 2022
+Date: Sun, 26 Jun 2022 08:00:29 -0700
+Message-ID: <1656255629.62b8748d03934@swift.generated>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_025D_01D96D65.19085040"
+X-Mailer: Microsoft Outlook 16.0
+Thread-Index: AQLOaLzo1mv5P8OJ9wcT7JiPDRRccQ==
+X-Google-Smtp-Source: AGRyM1uT3Eku4bqYR9HcZaT+VHTEMPIW8jETGeTqivJNbncOL5jF9hPIkRqCdaBDimSsYDjQzhkt
+X-Received: by 2002:a17:90b:4b51:b0:1ec:f991:baaf with SMTP id mi17-20020a17090b4b5100b001ecf991baafmr10459529pjb.186.1656255630930;
+        Sun, 26 Jun 2022 08:00:30 -0700 (PDT)
+Authentication-Results: mx.google.com;
+       dkim=pass header.i=@membershiptoolkit.com header.s=s1 header.b="Ufgv/uxU";
+       dkim=pass header.i=@sendgrid.info header.s=smtpapi header.b=bfdgLVFU;
+       spf=pass (google.com: domain of bounces+216760-fded-lihilutan=gmail.com@em.membershiptoolkit.com designates 167.89.109.54 as permitted sender) smtp.mailfrom="bounces+216760-fded-lihilutan=gmail.com@em.membershiptoolkit.com";
+       dmarc=pass (p=NONE sp=NONE dis=NONE) header.from=membershiptoolkit.com
+List-Unsubscribe: <https://tenaflymshsa.membershiptoolkit.com/unsubscribe/04963-20220626150028-092929300-989059646>,<mailto:unsub+04963-20220626150028-092929300-989059646@r.membershiptoolkit.com?subject=unsubscribe>
+X-Feedback-ID: 216760:SG
+X-SG-EID: =?us-ascii?Q?5h6jJ6pbP=2FwWz8JkLRSOkL14qoWIBC=2F6dwMcu4unUVBch0ww+sslX04v4sDTfW?=
+ =?us-ascii?Q?zUxNzn8+vlhh+oYOizutViLVn7YKYAqapu2GV1g?=
+ =?us-ascii?Q?PL6RqiUUjMH8oJw9QfczQlhIqOrL5wBrGsC15ND?=
+ =?us-ascii?Q?a9d4tI=2FsdnFJ8xYAScu5zj+XH2b7ADwoS7Z=2FqU=2F?=
+ =?us-ascii?Q?aPwZ0JkVn3S1VftxMFn0z7EsoUdcsFNr7gdj6sR?=
+ =?us-ascii?Q?jwgjoFv80eo4oO3Yz1L+HbfhbvOtVA7QTWU+5tD?=
+ =?us-ascii?Q?kLsYgft0dCzxC=2Fiuc9GbQ=3D=3D?=
+X-SG-ID: =?us-ascii?Q?N2C25iY2uzGMFz6rgvQsbz3FovL+H+pWiZQamwTaGdgvR4kmiXu8INHFmnZW2e?=
+ =?us-ascii?Q?djW9Pits7liHVJAJenvS=2Fz0G4YFMYEoKfGkMW=2FH?=
+ =?us-ascii?Q?bcpV6PkD4wTLx=2FyEQ6RXhf3X3PYPjw4uzIUBLOU?=
+ =?us-ascii?Q?huR8VHgs1OtYW4cVfyROthVBby=2FYaoPjHVgyzfz?=
+ =?us-ascii?Q?cfKFGBiPCipho?=
+X-Entity-ID: gE4tiG3tuUeuk3m4i9/GVg==
+X-Auto-Response-Suppress: OOF, AutoReply
+X-newsletter-id: 04963-NL20220618192828-009814500-124006972
+X-Tag: newsletter
+X-Uid: 04963-20220626150028-092929300-989059646
+X-internalmsgid: 04963-20220626150028-092929300-989059646
+X-recipient-id: 13206531
+
+This is a multipart message in MIME format.
+
+------=_NextPart_000_025D_01D96D65.19085040
+Content-Type: text/plain;
+	charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+
+To view this email as a web page, click here
+
+
+
+
+  =
+<https://tenaflymshsa.membershiptoolkit.com/assets/04963/TemplateHeaders/=
+MTK_Header.jpg> =09
+
+
+
+
+TMS END-OF-YEAR LETTER TO FAMILIES - JUNE 2022
+
+
+
+
+
+  <https://tenaflymshsa.membershiptoolkit.com/assets/04963/IMG-3635.jpg> =
+=09
+
+=09
+
+
+Dear Tenafly Middle School Families,
+
+We hope you had a wonderful and productive year.
+
+We want to congratulate our 8th graders and wish them the best as they =
+move onto high school =E2=80=93 The Class of 2026.
+
+Thank you Mr. Fabbo, Mr. Comey, teachers, faculty, & custodians! Without =
+your help and support year-round, the HSA would not be able to do what =
+we do.
+
+As the year has come to an end, we want to acknowledge the following =
+officers who will be leaving TMS.  They=E2=80=99ve given countless hours =
+of their time over the years.  =20
+
+=20
+
+Lynda Baldini, Co-President.  Thank you for your leadership and =
+incredible dedication to making a difference at TMS for the last three =
+years. Best wishes on your future endeavors!
+
+Mai Abe-Levin, Co-Treasurer.  Thank you for not just being an amazing =
+treasurer and staying in front of the ins and outs of everyday finances =
+including financial reporting, budgeting, and forecasting but also =
+jumping in to help whenever and wherever needed. Your contributions to =
+TMS over the last 3 years have been incredible.  Best of luck to you =
+with everything you do!
+
+Dianna Sarran, VP of Hospitality. Thank you for your time and devotion =
+to making every staff and teacher event welcoming, beautiful and =
+delicious and for your time and effort assisting in thanking and =
+appreciating our teachers and staff.  You will be missed.  Best of luck =
+in your future endeavors. =20
+
+Ariella Shoham, VP of Communications.  Thank you for creating the =
+connection between TMS administration, TMS families, TMS communities, =
+and TMS students through your efforts in the e-newsletter. Best of luck =
+to you on your next journey!
+
+Senada Suma,  Secretary. Thank you for keeping our Board minutes and =
+participating in our Board discussions and decisions.  Best of luck in =
+the future.=20
+
+
+
+
+
+
+
+
+A Huge Thank you to All TMS Parents:
+
+On behalf of the HSA, we want to thank all the parents for two important =
+contributions to making the HSA successful:
+
+Volunteering: Thank you to all the parents who have volunteered their =
+time as well as those who supported our fundraisers and events. =
+Volunteering makes our events a great success.=20
+
+Annual Dues: Thank you for your dues and donations. The annual dues make =
+it possible for us to run planned activities throughout the school year. =
+Specially this year as we treaded through the path to returning to =
+normal, we can't thank you enough for your financial support.
+
+We encourage and sincerely request you to continue to support the HSA =
+with your volunteering time and annual dues.
+
+The following is a partial list of special projects, programs, and =
+resources that were sponsored/organized by your HSA:
+
+*	Student Planners - (This is one of HSA's biggest contributions and =
+partnerships with the school and is distributed to every student during =
+the first week of school)
+*	Movie Night=20
+*	Skate Night=20
+*	Bingo Night
+*	6th Grade Halloween Party
+*	ReadAThon=20
+*	Book Fairs
+*	Support Year-End Parties with Pizza, Drinks, and Ice Cream (e.g., Food =
+and Drinks for 6th and 7th Grade Swim Parties and 8th Grade Yearbook =
+Signing)
+*	Two new outside Picnic Tables=20
+*	Support of TMS' Production of "The Addams Family" via proceeds from =
+the Playbill=20
+*	Classroom Stipends
+*	Staff Appreciation events (lunches, breakfasts, treats, and coffee =
+supplies)
+*	Online Membership Toolkit Directory
+*	HSA e-newsletter
+*	Water in the Nurse's Office
+
+Without your contributions, these events are not possible!
+
+ =20
+
+As we look forward to the 2022-2022 school year, the following will be =
+your new HSA Board members:=20
+
+Co- Presidents  =E2=80=93 Hema Santosh & Anitha Thirunavukarasu
+
+Treasurer =E2=80=93 Belkis deCastro & Yoonmi Lee
+
+VP, Fundraising =E2=80=93 Cathy Cruz-Levine & Susie Bae
+
+VP, Communications =E2=80=93 TBD
+
+VP, Hospitality =E2=80=93 TBD
+
+Secretary - TBD =20
+
+VP, Mobile Directory =E2=80=93  Michal Berson
+
+VP, Technology -- Jesse Bayer
+
+
+
+
+If you would like to get involved with the HSA for next year,  we would =
+love to talk to you about volunteer opportunities.  =EF=BB=BFWe are =
+looking for a=20
+
+- 6th Grade Parent for a third Co-President =20
+
+- Secretary,=20
+
+- VP, Hospitality=20
+
+- VP, Communication
+
+- PASET parent liaison
+
+Please reach out at tmshsa17@gmail.com if you are interested in helping =
+in any capacity.=20
+
+=20
+Have a great summer and we look forward to seeing you in September!
+
+
+
+
+
+
+
+
+=09
+
+IMPORTANT LINKS
+
+
+https://tenaflymshsa.membershiptoolkit.com/home
+
+
+
+ =09
+
+=09
+
+
+Follow TMS @ tenaflymiddle
+
+
+
+ =09
+
+
+Smile.amazon.com
+
+
+
+ =
+<http://url4609.membershiptoolkit.com/ls/click?upn=3DQ0h9AF9WS0-2FKEGgGPq=
+TEjCXvfivPsnd2D0kP4FuipbU-3D9t4h_Zn5vtI38bqRJt32aFGYAnKKsT2RsCAqkttCkj0wD=
+2UFwvLmJ0EIw9cSTwXi9WKeGwTdfz5PZQgYEOUzQ7cmjz5GUr-2B8C1zswe7bSff7zZyXNwSe=
+CLG4CQZBBXLzMJhgzscWCicSlxROjuwma7qGULrdq63zZhGmpkJrsRuy73xMvsnmo1iHO1gEJ=
+V3aWLxoSqeoiitfJOZBCPHQ5uyeqNQ-2FUsTsQg7YaVwS-2F1TDmJLNd77ye7n83ThJ5UNGSG=
+3NeTjlIQcSmeAvMrZF0Hg4zvTqsAwqHc16G13JM-2FHPDV7m4y1IWppB6YlBb-2BGbaSslzuD=
+kXoyCU-2B7zIfKX0F1i9Wn-2BgKWOSrtY-2BBxETpjvBKgkNkVblQCNTHpaDUN6ZVjKs>  =09
+
+=09
+
+
+TMS HSA
+
+
+
+
+We hope you found this email alert helpful and encourage everyone to get =
+involved in the HSA. We can't make a difference without you! If you have =
+any questions, comments or suggestions, please send us an email at =
+TMSHSA17@gmail.com <mailto:TMSHSA17@gmail.com> .=20
+
+
+
+
+Tenafly Middle School HSA=20
+
+10 Sunset Lane
+
+Tenafly, NJ 07670
+
+(201) 816-4900
+
+
+=09
+
+This message was sent to lihilutan@gmail.com from Tenafly Middle School =
+HSA. To unsubscribe from this list, click here. If you would like to =
+manage your subscriptions, please visit =
+https://tenaflymshsa.membershiptoolkit.com/user_subscriptions
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+  =
+<http://url4609.membershiptoolkit.com/wf/open?upn=3DJ-2Fm4-2BtnPJ5cBe-2Fi=
+tORAYql9O5xAzKMpWuTgId1-2FZ85jepBbqVfUJGblGprZNCoKDyyYdpfGS5NQanzhlnWgF6T=
+-2FbqbrbVzq-2FGq3wmmHWGvHLgbgozrUW9c4zmtHZpLe9sbAX14oEiuQlvEhCBF26nSxGzv6=
+widGFi7KDLkd93gbTc2UOCPM0ETICGhch1cD-2BjBkG2SSQNYuewBVoerQPYHvHgeTKhAcm2A=
+xrPfG-2FvL3L-2F5dyR6RuepSZppI5-2F9a9uGagbtvv0zJfZZ3TM7rteiG7uZXOoPdEXyb4d=
+AKfXpajqH0bt3rqYueVUObI1G-2FvTdnpr3Cmbe-2FpOVhOVWxxXLxuaBoUcN0GGBJL6o8t0A=
+oJ3yHc1wZrheb59lWDt9dc>=20
+
+------=_NextPart_000_025D_01D96D65.19085040
+Content-Type: text/html;
+	boundary="----=_NextPart_000_0375_01D8DA3A.59015ED0";
+	charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE html>
+<html>
+<head>
+<META HTTP-EQUIV=3D"Content-Type" CONTENT=3D"text/html; =
+charset=3DUTF-8">
+
+<meta name=3D"viewport" content=3D"width=3Ddevice-width, =
+initial-scale=3D1.0">
+<style type=3D"text/css">
+    @media screen and (max-width: 480px) {
+		.mtk-nl-wrapper {
+			width: 100% !important;
+		}
+		.mtk-nl-sm-100w {
+			width: 100% !important;
+			display: block !important;
+			padding-left: 0 !important;
+			padding-right: 0 !important;
+		}
+		.mtk-nl-sm-pad10 {
+			padding-left: 10px !important;
+			padding-right: 10px !important;
+		}
+		.mtk-nl-sm-padtop10 {
+			padding-top: 10px !important;
+		}
+		img {
+			display: block;
+			margin: 0 auto;
+			width: 100% !important;
+			height: auto !important;
+		}
+	img#nle-block-2797764--img {
+		max-width: 630px !important;
+	}
+	img#nle-block-2797776--img {
+		max-width: 346px !important;
+	}
+	img#nle-block-2797779--img {
+		max-width: 132px !important;
+	}
+	img#nle-block-2797781--img {
+		max-width: 132px !important;
+	}
+	img#nle-block-2797785--img {
+		max-width: 630px !important;
+	}
+	}
+	body {
+		-webkit-font-smoothing: antialiased;
+		-moz-osx-font-smoothing: grayscale;
+		-webkit-text-size-adjust: 100%;
+		-ms-text-size-adjust: 100%;
+	}
+	table {
+		mso-table-lspace: 0pt;
+		mso-table-rspace: 0pt;
+	}
+	th {
+		font-weight: normal;
+	}
+	img {
+		-ms-interpolation-mode: bicubic;
+		height: auto !important;
+		max-width: 100%;
+	}
+	.ExternalClass {
+		width: 100%;
+	}
+	p, ul, ol {
+		margin-top: .5em;
+		margin-bottom: .5em;
+	}
+	* {
+		box-sizing: border-box;
+	}
+	.inner-table-600 table {
+		max-width: 600px !important;
+	}
+</style>
+</head>
+<body leftmargin=3D"0" marginwidth=3D"0" topmargin=3D"0" =
+marginheight=3D"0" offset=3D"0" bgcolor=3D"#ffffff" style=3D"width: 100% =
+!important; margin: 0; padding: 0; background-color: #ffffff;">
+<!--REMOVE:START--><table width=3D"100%"><tr><td><div =
+style=3D"font-size: 14px;">To view this email as a web page, click <a =
+href=3D"http://url4609.membershiptoolkit.com/ls/click?upn=3DLYmqzTSKcpY5a=
+DMeytfM-2FQqY14fQhaKtH21LQj3DpnYObT717d9z5iglkh19wbNW2BqfPz-2FIUGsRtC5x1i=
+el-2BZem5a7JSw5ZrKKcChCB7d46VosF20GutZm8ubwPlw1mv06xOYO5XmNl9yebtX1C-2BQ-=
+3D-3DqNUE_Zn5vtI38bqRJt32aFGYAnKKsT2RsCAqkttCkj0wD2UFwvLmJ0EIw9cSTwXi9WKe=
+GwTdfz5PZQgYEOUzQ7cmjz5GUr-2B8C1zswe7bSff7zZyXNwSeCLG4CQZBBXLzMJhgzscWCic=
+SlxROjuwma7qGULrdq63zZhGmpkJrsRuy73xMvsnmo1iHO1gEJV3aWLxoScxpDsfbnOdKz79c=
+yYOubvsnmOVP-2BiRgTgmy2GVuv7lEH2lYBBhJcAlCgnN-2B0VS1t8ZxTHIFqZ7AKk8eTTfux=
+DTaPPpN7LBOCJDm5-2Bnl3qZ8IUXzdP8REYUdzwfWEDe3XxnrezKcd6OgZ0EOqiKSSaI0zyz7=
+DsXMoDT44ELOfz7W2OWpbXU7taMAo-2BJzcOtJz">here</a></div></td></tr></table>=
+<!--REMOVE:END-->
+<table id=3D"mtk-nl-page" width=3D"100%" border=3D"0" cellspacing=3D"0" =
+cellpadding=3D"0" style=3D"background-color: #eeeeee;" =
+bgcolor=3D"#eeeeee">
+<tbody>
+<tr>
+<td valign=3D"top" width=3D"100%" align=3D"center" style=3D"padding: =
+10px 10px 0;" data-nle-template-section=3D"header">
+<table id=3D"mtk-nl-header" class=3D"mtk-nl-wrapper" width=3D"650" =
+border=3D"0" cellspacing=3D"0" cellpadding=3D"0" =
+style=3D"background-color: #999999;" bgcolor=3D"#999999">
+<tbody>
+<tr>
+<td valign=3D"top" width=3D"100%" style=3D"padding:0px 0px 0px;">
+<table width=3D"100%" border=3D"0" cellspacing=3D"0" cellpadding=3D"0">
+<tr>
+<td valign=3D"top" align=3D"center" width=3D"100%">
+<table class=3D"mtk-nl-wrapper" width=3D"650" border=3D"0" =
+cellspacing=3D"0" cellpadding=3D"0">
+<tr>
+<td valign=3D"top" align=3D"center" width=3D"100%">
+<table width=3D"100%" border=3D"0" cellspacing=3D"0" cellpadding=3D"0">
+<tr>
+<td valign=3D"top" align=3D"center" style=3D"background-color: =
+transparent; padding: 10px 10px 10px;">
+<img  id=3D"nle-block-2797785--img" =
+src=3D"https://tenaflymshsa.membershiptoolkit.com/assets/04963/TemplateHe=
+aders/MTK_Header.jpg" alt=3D"" border=3D"0" width=3D"630" style=3D" =
+width: 100%; max-width: 630px !important; height: auto;">
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr>
+<td valign=3D"top" width=3D"100%" align=3D"center" style=3D"padding: 0 =
+10px;" data-nle-template-section=3D"body">
+<table id=3D"mtk-nl-body" class=3D"mtk-nl-wrapper" width=3D"650" =
+border=3D"0" cellspacing=3D"0" cellpadding=3D"0" =
+style=3D"background-color: white;" bgcolor=3D"white">
+<tbody>
+<tr>
+<td valign=3D"top" width=3D"100%" style=3D"padding:10px 0px 10px;">
+<table width=3D"100%" border=3D"0" cellspacing=3D"0" cellpadding=3D"0">
+<tbody>
+<tr>
+<td valign=3D"top" align=3D"center" style=3D"background-color: =
+transparent; padding: 10px 10px 0px; word-break: break-word;">
+<div id=3D"nle-block-2797763--title-editable" style=3D"position: =
+relative; font-family: Arial, sans-serif; font-size: 30px; color: =
+#222222; font-weight: bold; font-style: normal; text-align: center; =
+line-height: normal; letter-spacing: normal; padding-bottom: 0px;">
+</div>
+<div id=3D"nle-block-2797763--rich-text-editable" =
+class=3D"mtk-nl-rich-text-editable" style=3D"position: relative; =
+font-family: Arial, sans-serif; font-size: 16px; color: #222222; =
+font-weight: normal; font-style: normal; text-align: left; line-height: =
+normal; letter-spacing: normal;">
+<p style=3D"text-align: center;"><strong><span style=3D"font-size: =
+24px;">TMS END-OF-YEAR LETTER TO FAMILIES - JUNE =
+2022</span></strong></p></div>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr>
+<td valign=3D"top" width=3D"100%" align=3D"center" style=3D"padding: 0 =
+10px 10px;" data-nle-template-section=3D"footer">
+<table id=3D"mtk-nl-footer" class=3D"mtk-nl-wrapper" width=3D"650" =
+border=3D"0" cellspacing=3D"0" cellpadding=3D"0" =
+style=3D"background-color: #999999;" bgcolor=3D"#999999">
+<tbody>
+<tr>
+<td valign=3D"top" width=3D"100%" style=3D"padding:10px 0px 10px;">
+<table width=3D"100%" border=3D"0" cellspacing=3D"0" cellpadding=3D"0">
+<tr>
+<td valign=3D"top" align=3D"center" width=3D"100%">
+<table class=3D"mtk-nl-wrapper" width=3D"650" border=3D"0" =
+cellspacing=3D"0" cellpadding=3D"0">
+<tr>
+<td valign=3D"top" align=3D"center" width=3D"100%">
+<table width=3D"100%" border=3D"0" cellspacing=3D"0" cellpadding=3D"0">
+<tr>
+<td valign=3D"top" align=3D"center" style=3D"background-color: =
+transparent; padding: 10px 10px 10px;">
+<img  id=3D"nle-block-2797764--img" =
+src=3D"https://tenaflymshsa.membershiptoolkit.com/assets/04963/IMG-3635.j=
+pg" alt=3D"" border=3D"0" width=3D"630" style=3D" width: 100%; =
+max-width: 630px !important; height: auto;">
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<table width=3D"100%" border=3D"0" cellspacing=3D"0" cellpadding=3D"0">
+<tr>
+<td valign=3D"top" align=3D"center" style=3D"background-color: =
+transparent; padding: 10px 10px 10px;">
+<table width=3D"100%" border=3D"0" cellspacing=3D"0" cellpadding=3D"0">
+<tr>
+<td width=3D"100%" style=3D" border-top: 5px solid black; font-size: =
+1px; line-height: 1px; height: 1px;" height=3D"1">
+<!--[if (gte mso 9)|(IE)]>&nbsp<![endif]-->
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<table width=3D"100%" border=3D"0" cellspacing=3D"0" cellpadding=3D"0">
+<tbody>
+<tr>
+<td valign=3D"top" align=3D"center" style=3D"background-color: white; =
+padding: 10px 10px 0px; word-break: break-word;">
+<div id=3D"nle-block-2797766--title-editable" style=3D"position: =
+relative; font-family: Arial, sans-serif; font-size: 30px; color: =
+#222222; font-weight: bold; font-style: normal; text-align: center; =
+line-height: normal; letter-spacing: normal; padding-bottom: 0px;">
+</div>
+<div id=3D"nle-block-2797766--rich-text-editable" =
+class=3D"mtk-nl-rich-text-editable" style=3D"position: relative; =
+font-family: Arial, sans-serif; font-size: 16px; color: #222222; =
+font-weight: normal; font-style: normal; text-align: left; line-height: =
+normal; letter-spacing: normal;">
+<p><span style=3D"font-size: 18px; font-family: Verdana, Geneva, =
+sans-serif;">Dear Tenafly Middle School Families,</span></p><p><span =
+style=3D"font-family: Verdana,Geneva,sans-serif;"><span =
+style=3D"font-size: 18px;">We hope you had a wonderful and productive =
+year.</span></span></p><p><span style=3D"font-family: =
+Verdana,Geneva,sans-serif;"><span style=3D"font-size: 18px;">We want to =
+congratulate our 8th graders and wish them the best as they move onto =
+high school &ndash; The Class of 2026.</span></span></p><p><span =
+style=3D"font-family: Verdana,Geneva,sans-serif;"><span =
+style=3D"font-size: 18px;">Thank you Mr. Fabbo, Mr. Comey, teachers, =
+faculty, &amp; custodians! Without your help and support year-round, the =
+HSA would not be able to do what we do.</span></span></p><p><span =
+style=3D"font-family: Verdana,Geneva,sans-serif;"><span =
+style=3D"font-size: 18px;">As the year has come to an end, we want to =
+acknowledge the following officers who will be leaving TMS. =
+&nbsp;They&rsquo;ve given countless hours of their time over the years. =
+&nbsp;&nbsp;</span></span></p><p><span style=3D"font-family: =
+Verdana,Geneva,sans-serif;"><span style=3D"font-size: =
+18px;">&nbsp;</span></span></p><p><span style=3D"font-family: =
+Verdana,Geneva,sans-serif;"><span style=3D"font-size: =
+18px;"><strong>Lynda Baldini, Co-President. &nbsp;</strong>Thank you for =
+your leadership and incredible dedication to making a difference at TMS =
+for the last three years. Best wishes on your future =
+endeavors!</span></span></p><p><span style=3D"font-family: =
+Verdana,Geneva,sans-serif;"><span style=3D"font-size: 18px;"><strong>Mai =
+Abe-Levin, Co-Treasurer. &nbsp;</strong>Thank you for not just being an =
+amazing treasurer and staying in front of the ins and outs of everyday =
+finances including financial reporting, budgeting, and forecasting but =
+also jumping in to help whenever and wherever needed. Your contributions =
+to TMS over the last 3 years have been incredible. &nbsp;Best of luck to =
+you with everything you do!</span></span></p><p><span =
+style=3D"font-family: Verdana,Geneva,sans-serif;"><span =
+style=3D"font-size: 18px;"><strong>Dianna Sarran, VP of =
+Hospitality.&nbsp;</strong>Thank you for your time and devotion to =
+making every staff and teacher event welcoming, beautiful and delicious =
+and for your time and effort assisting in thanking and appreciating our =
+teachers and staff. &nbsp;You will be missed. &nbsp;Best of luck in your =
+future endeavors. &nbsp;</span></span></p><p><span style=3D"font-family: =
+Verdana,Geneva,sans-serif;"><span style=3D"font-size: =
+18px;"><strong>Ariella Shoham, VP of Communications. =
+&nbsp;</strong>Thank you for creating the connection between TMS =
+administration, TMS families, TMS communities, and TMS students through =
+your efforts in the e-newsletter. Best of luck to you on your next =
+journey!</span></span></p><p><span style=3D"font-family: =
+Verdana,Geneva,sans-serif;"><span style=3D"font-size: =
+18px;"><strong>Senada Suma, &nbsp;Secretary.&nbsp;</strong>Thank you for =
+keeping our Board minutes and participating in our Board discussions and =
+decisions. &nbsp;Best of luck in the =
+future.&nbsp;</span><br></span></p><p><br></p><p><span =
+style=3D"font-family: =
+Verdana,Geneva,sans-serif;"><br></span></p><p><span =
+style=3D"font-family: Verdana,Geneva,sans-serif;"><span =
+style=3D"font-size: 18px; color: rgb(22, 83, 126);"><strong>A Huge Thank =
+you to All TMS Parents:</strong></span></span></p><p><span =
+style=3D"font-family: Verdana,Geneva,sans-serif;"><span =
+style=3D"font-size: 18px;">On behalf of the HSA, we want to thank all =
+the parents for two important contributions to making the HSA =
+successful:</span></span></p><p><span style=3D"font-family: =
+Verdana,Geneva,sans-serif;"><span style=3D"font-size: =
+18px;"><strong>Volunteering:</strong> Thank you to all the parents who =
+have volunteered their time as well as those who supported our =
+fundraisers and events. Volunteering makes our events a great =
+success.&nbsp;</span></span></p><p><span style=3D"font-family: =
+Verdana,Geneva,sans-serif;"><span style=3D"font-size: =
+18px;"><strong>Annual Dues:</strong> Thank you for your dues and =
+donations. The annual dues make it possible for us to run planned =
+activities throughout the school year. Specially this year as we treaded =
+through the path to returning to normal, we can&#39;t thank you enough =
+for your financial support.</span></span></p><p><span =
+style=3D"font-family: Verdana,Geneva,sans-serif;"><span =
+style=3D"font-size: 18px;">We encourage and sincerely request you to =
+continue to support the HSA with your volunteering time and annual =
+dues.</span></span></p><p><span style=3D"font-family: =
+Verdana,Geneva,sans-serif;"><span style=3D"font-size: 18px;">The =
+following is a partial list of special projects, programs, and resources =
+that were sponsored/organized by your =
+HSA:</span></span></p><ul><li><span style=3D"font-family: =
+Verdana,Geneva,sans-serif;"><span style=3D"font-size: 18px; color: =
+rgb(22, 83, 126);">Student Planners - (This is one of HSA&#39;s biggest =
+contributions and partnerships with the school and is distributed to =
+every student during the first week of =
+school)</span></span></li><li><span style=3D"color: #16537e;"><span =
+style=3D"font-family: Verdana,Geneva,sans-serif;"><span =
+style=3D"font-size: 18px;">Movie =
+Night&nbsp;</span></span></span></li><li><span style=3D"color: =
+#16537e;"><span style=3D"font-family: Verdana,Geneva,sans-serif;"><span =
+style=3D"font-size: 18px;">Skate =
+Night&nbsp;</span></span></span></li><li><span style=3D"color: =
+#16537e;"><span style=3D"font-family: Verdana,Geneva,sans-serif;"><span =
+style=3D"font-size: 18px;">Bingo =
+Night</span></span></span></li><li><span style=3D"color: #16537e;"><span =
+style=3D"font-family: Verdana,Geneva,sans-serif;"><span =
+style=3D"font-size: 18px;">6th Grade Halloween =
+Party</span></span></span></li><li><span style=3D"color: #16537e;"><span =
+style=3D"font-family: Verdana,Geneva,sans-serif;"><span =
+style=3D"font-size: =
+18px;">ReadAThon&nbsp;</span></span></span></li><li><span =
+style=3D"color: #16537e;"><span style=3D"font-family: =
+Verdana,Geneva,sans-serif;"><span style=3D"font-size: 18px;">Book =
+Fairs</span></span></span></li><li><span style=3D"color: #16537e;"><span =
+style=3D"font-family: Verdana,Geneva,sans-serif;"><span =
+style=3D"font-size: 18px;">Support Year-End Parties with Pizza, Drinks, =
+and Ice Cream (e.g., Food and Drinks for 6th and 7th Grade Swim Parties =
+and 8th Grade Yearbook Signing)</span></span></span></li><li><span =
+style=3D"color: #16537e;"><span style=3D"font-family: =
+Verdana,Geneva,sans-serif;"><span style=3D"font-size: 18px;">Two new =
+outside Picnic Tables&nbsp;</span></span></span></li><li><span =
+style=3D"color: #16537e;"><span style=3D"font-family: =
+Verdana,Geneva,sans-serif;"><span style=3D"font-size: 18px;">Support of =
+TMS&#39; Production of &quot;The Addams Family&quot; via proceeds from =
+the Playbill&nbsp;</span></span></span></li><li><span style=3D"color: =
+#16537e;"><span style=3D"font-family: Verdana,Geneva,sans-serif;"><span =
+style=3D"font-size: 18px;">Classroom =
+Stipends</span></span></span></li><li><span style=3D"color: =
+#16537e;"><span style=3D"font-family: Verdana,Geneva,sans-serif;"><span =
+style=3D"font-size: 18px;">Staff Appreciation events (lunches, =
+breakfasts, treats, and coffee =
+supplies)</span></span></span></li><li><span style=3D"color: =
+#16537e;"><span style=3D"font-family: Verdana,Geneva,sans-serif;"><span =
+style=3D"font-size: 18px;">Online Membership Toolkit =
+Directory</span></span></span></li><li><span style=3D"font-family: =
+Verdana,Geneva,sans-serif;"><span style=3D"font-size: 18px; color: =
+rgb(22, 83, 126);">HSA e-newsletter</span></span></li><li><span =
+style=3D"font-family: Verdana,Geneva,sans-serif;"><span =
+style=3D"font-size: 18px; color: rgb(22, 83, 126);">Water in the =
+Nurse&#39;s Office</span></span></li></ul><p><span style=3D"font-family: =
+Verdana,Geneva,sans-serif;"><span style=3D"font-size: 18px;">Without =
+your contributions, these events are not =
+possible!</span></span></p><p><span style=3D"font-family: =
+Verdana,Geneva,sans-serif;"><span style=3D"font-size: =
+18px;">&nbsp;&nbsp;</span></span></p><p><span style=3D"font-family: =
+Verdana,Geneva,sans-serif;"><span style=3D"font-size: 18px;">As we look =
+forward to the 2022-2022 school year, the following will be your new HSA =
+Board members:&nbsp;</span></span></p><p><span style=3D"font-family: =
+Verdana,Geneva,sans-serif;"><span style=3D"font-size: 18px;"><strong>Co- =
+Presidents &nbsp;&ndash;&nbsp;</strong>Hema Santosh &amp; Anitha =
+Thirunavukarasu</span></span></p><p><span style=3D"font-family: =
+Verdana,Geneva,sans-serif;"><span style=3D"font-size: =
+18px;"><strong>Treasurer</strong> &ndash; Belkis deCastro &amp; Yoonmi =
+Lee</span></span></p><p><span style=3D"font-family: =
+Verdana,Geneva,sans-serif;"><span style=3D"font-size: 18px;"><strong>VP, =
+Fundraising</strong> &ndash; Cathy Cruz-Levine &amp; Susie =
+Bae</span></span></p><p><span style=3D"font-size: 18px;"><span =
+style=3D"font-family: Verdana,Geneva,sans-serif;"><strong>VP, =
+Communications</strong> &ndash; TBD</span></span></p><p><span =
+style=3D"font-size: 18px;"><span style=3D"font-family: =
+Verdana,Geneva,sans-serif;"><strong>VP, Hospitality</strong> &ndash; =
+TBD</span></span></p><p><span style=3D"font-size: 18px;"><span =
+style=3D"font-family: =
+Verdana,Geneva,sans-serif;"><strong>Secretary</strong> - TBD =
+&nbsp;</span></span></p><p><span style=3D"font-size: 18px;"><span =
+style=3D"font-family: Verdana,Geneva,sans-serif;"><strong>VP, Mobile =
+Directory</strong> &ndash; &nbsp;Michal Berson</span></span></p><p><span =
+style=3D"font-size: 18px;"><span style=3D"font-family: =
+Verdana,Geneva,sans-serif;"><strong>VP, Technology&nbsp;</strong>-- =
+Jesse Bayer</span></span></p><p><span style=3D"font-size: =
+18px;"><br></span></p><p><span style=3D"font-family: =
+Verdana,Geneva,sans-serif;"><span style=3D"font-size: 18px;">If you =
+would like to get involved with the HSA for next year, &nbsp;we would =
+love to talk to you about volunteer opportunities. &nbsp;=EF=BB=BFWe are =
+looking for a&nbsp;</span></span></p><p><span style=3D"font-family: =
+Verdana,Geneva,sans-serif;"><span style=3D"font-size: 18px;"><strong>- =
+6th Grade Parent for a third Co-President</strong> =
+&nbsp;</span></span></p><p><span style=3D"font-family: =
+Verdana,Geneva,sans-serif;"><span style=3D"font-size: 18px;"><strong>- =
+Secretary,&nbsp;</strong></span></span></p><p><span =
+style=3D"font-family: Verdana,Geneva,sans-serif;"><span =
+style=3D"font-size: 18px;"><strong>- VP, =
+Hospitality&nbsp;</strong></span></span></p><p><span =
+style=3D"font-family: Verdana,Geneva,sans-serif;"><span =
+style=3D"font-size: 18px;"><strong>- VP, =
+Communication</strong></span></span></p><p><span style=3D"font-family: =
+Verdana,Geneva,sans-serif;"><span style=3D"font-size: 18px;"><strong>- =
+PASET parent liaison</strong></span></span></p><p><span =
+style=3D"font-family: Verdana,Geneva,sans-serif;"><span =
+style=3D"font-size: 18px;">Please reach out at =
+<strong>tmshsa17@gmail.com</strong> if you are interested in helping in =
+any capacity.&nbsp;</span></span></p><p><span style=3D"font-family: =
+Verdana,Geneva,sans-serif;"><span style=3D"font-size: =
+18px;">&nbsp;</span><br><span style=3D"font-size: 18px;">Have a great =
+summer and we look forward to seeing you in =
+September!</span></span></p><p><span style=3D"font-family: =
+Verdana,Geneva,sans-serif;"><br></span></p><p><br></p></div>
+</td>
+</tr>
+</tbody>
+</table>
+<table width=3D"100%" border=3D"0" cellspacing=3D"0" cellpadding=3D"0">
+<tr>
+<td valign=3D"top" align=3D"center" style=3D"background-color: =
+transparent; padding: 10px 10px 10px;">
+<table width=3D"100%" border=3D"0" cellspacing=3D"0" cellpadding=3D"0">
+<tr>
+<td width=3D"100%" style=3D" border-top: 5px solid black; font-size: =
+1px; line-height: 1px; height: 1px;" height=3D"1">
+<!--[if (gte mso 9)|(IE)]>&nbsp<![endif]-->
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<table width=3D"100%" border=3D"0" cellspacing=3D"0" cellpadding=3D"0">
+<tbody>
+<tr>
+<td valign=3D"top" align=3D"center" style=3D"background-color: white; =
+padding: 10px 10px 11px; word-break: break-word;">
+<div id=3D"nle-block-2797774--title-editable" style=3D"position: =
+relative; font-family: Arial, sans-serif; font-size: 24px; color: =
+#222222; font-weight: bold; font-style: normal; text-align: center; =
+line-height: normal; letter-spacing: normal;">
+IMPORTANT LINKS</div>
+</td>
+</tr>
+</tbody>
+</table>
+<table width=3D"100%" border=3D"0" cellspacing=3D"0" cellpadding=3D"0">
+<tbody>
+<tr>
+<td valign=3D"top" align=3D"center" style=3D"background-color: white; =
+padding: 10px 10px 0px; word-break: break-word;">
+<div id=3D"nle-block-2797775--title-editable" style=3D"position: =
+relative; font-family: Arial, sans-serif; font-size: 30px; color: =
+#222222; font-weight: bold; font-style: normal; text-align: center; =
+line-height: normal; letter-spacing: normal; padding-bottom: 0px;">
+</div>
+<div id=3D"nle-block-2797775--rich-text-editable" =
+class=3D"mtk-nl-rich-text-editable" style=3D"position: relative; =
+font-family: Arial, sans-serif; font-size: 16px; color: #222222; =
+font-weight: normal; font-style: normal; text-align: left; line-height: =
+normal; letter-spacing: normal;">
+<p style=3D"text-align: center;"><a =
+href=3D"http://url4609.membershiptoolkit.com/ls/click?upn=3DLYmqzTSKcpY5a=
+DMeytfM-2FQqY14fQhaKtH21LQj3DpnYObT717d9z5iglkh19wbNWhJlqNhWykSneTkzGkqw9=
+EA-3D-3DqGIF_Zn5vtI38bqRJt32aFGYAnKKsT2RsCAqkttCkj0wD2UFwvLmJ0EIw9cSTwXi9=
+WKeGwTdfz5PZQgYEOUzQ7cmjz5GUr-2B8C1zswe7bSff7zZyXNwSeCLG4CQZBBXLzMJhgzscW=
+CicSlxROjuwma7qGULrdq63zZhGmpkJrsRuy73xMvsnmo1iHO1gEJV3aWLxoSRs3wRAlZNNXG=
+O2ctAmGSgyzSfz0S9MIvwat-2F0613htPZ1p477UtJyT8HmHdcmtNzX7kwdTMaZsu6YpjqP0Z=
+4bp5daZD-2Fx8H59hQap1LsbhgtsWjbk0QdqUHsPxLVwBELxg9xI-2B7jSpYnAxoUXvFieg7G=
+47oZ-2BtbW16kxHeakJd61chLLVMwKHsyLAMC4zt8K">https://tenaflymshsa.<wbr>mem=
+bershiptoolkit.com/home</a></p></div>
+</td>
+</tr>
+</tbody>
+</table>
+<table width=3D"100%" border=3D"0" cellspacing=3D"0" cellpadding=3D"0">
+<tr>
+<td valign=3D"top" align=3D"center" width=3D"100%">
+<table class=3D"mtk-nl-wrapper" width=3D"650" border=3D"0" =
+cellspacing=3D"0" cellpadding=3D"0">
+<tr>
+<td valign=3D"top" align=3D"center" width=3D"100%">
+<table width=3D"100%" border=3D"0" cellspacing=3D"0" cellpadding=3D"0">
+<tr>
+<td valign=3D"top" align=3D"center" style=3D"background-color: white; =
+padding: 10px 10px 10px;">
+<a =
+href=3D"http://url4609.membershiptoolkit.com/ls/click?upn=3DLYmqzTSKcpY5a=
+DMeytfM-2FQqY14fQhaKtH21LQj3DpnYObT717d9z5iglkh19wbNWhJlqNhWykSneTkzGkqw9=
+EA-3D-3D8RUd_Zn5vtI38bqRJt32aFGYAnKKsT2RsCAqkttCkj0wD2UFwvLmJ0EIw9cSTwXi9=
+WKeGwTdfz5PZQgYEOUzQ7cmjz5GUr-2B8C1zswe7bSff7zZyXNwSeCLG4CQZBBXLzMJhgzscW=
+CicSlxROjuwma7qGULrdq63zZhGmpkJrsRuy73xMvsnmo1iHO1gEJV3aWLxoSWMAEB7pBl0n9=
+6yYtGGk18Yo7V2jw-2B0COM-2F3gF5-2BYQWG84RI0p4LlNIKo4sG21bZWRV99V6o7Zp-2Fdz=
+Jy6Mn-2Fi4mI7pt6t4P1xwkr-2BWAJ631waDFVFXG5af0s7iYHIAa1BKQczehD5VTYH2RtaXK=
+zmh2OVOj6szZ4T3UFaA6h9w-2BgUTahF6KxyvxcpdFCW-2Bd-2Fi">
+<img  id=3D"nle-block-2797776--img" =
+src=3D"https://tenaflymshsa.membershiptoolkit.com/assets/04963/IMG-3639.j=
+pg" alt=3D"" border=3D"0" width=3D"346" style=3D" width: 100%; =
+max-width: 346px !important; height: auto;">
+</a>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<table width=3D"100%" border=3D"0" cellspacing=3D"0" cellpadding=3D"0">
+<tr>
+<td valign=3D"top" align=3D"center" style=3D"background-color: =
+transparent; padding: 10px 10px 10px;">
+<table width=3D"100%" border=3D"0" cellspacing=3D"0" cellpadding=3D"0">
+<tr>
+<td width=3D"100%" style=3D" border-top: 5px solid black; font-size: =
+1px; line-height: 1px; height: 1px;" height=3D"1">
+<!--[if (gte mso 9)|(IE)]>&nbsp<![endif]-->
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<table width=3D"100%" border=3D"0" cellspacing=3D"0" cellpadding=3D"0">
+<tbody>
+<tr>
+<td valign=3D"top" align=3D"center" style=3D"background-color: white; =
+padding: 10px 10px 0px; word-break: break-word;">
+<div id=3D"nle-block-2797778--title-editable" style=3D"position: =
+relative; font-family: Arial, sans-serif; font-size: 30px; color: =
+#222222; font-weight: bold; font-style: normal; text-align: center; =
+line-height: normal; letter-spacing: normal; padding-bottom: 0px;">
+</div>
+<div id=3D"nle-block-2797778--rich-text-editable" =
+class=3D"mtk-nl-rich-text-editable" style=3D"position: relative; =
+font-family: Arial, sans-serif; font-size: 16px; color: #222222; =
+font-weight: normal; font-style: normal; text-align: left; line-height: =
+normal; letter-spacing: normal;">
+<p style=3D"text-align: center;"><a =
+href=3D"http://url4609.membershiptoolkit.com/ls/click?upn=3DB72UrwnK7gu6u=
+wDM-2BM-2F-2B-2BJVNRkfEou3hOgRY9ugd9zUj7Mb6midhmizMs9NHDZTmG-2Fj6l6E2TNv7=
+FrWJ3KsNQ95XCeIexGI4RIhdpdQemNZreJEdfbAxRrZePnc46D2cCWTNt5x6i2CiCmLVjIJTe=
+V1RDkYu1mmXcnENAM10Yho8obs-2FLv3BrF1guw-2BK8p-2BPiclvTL8liEJeq4foq0YT9XQl=
+TmE-2BRXE7AnMgWKEvkc2PinpJCrSb5KBhfxIImgEWPFypYa9QzAyFywLTkdKCocGfyp7O0J8=
+VzlZnwgx74mari8CMYHVKE5gFxLb6rS9x4nUWI3ST1bxbnnZUxIPmHkwpu-2BOEImrOhyXUc5=
+-2B8rOs-2FjdQ4eBJlrWHfkCWNeEwBZoWVMU02rZ2DfwhIZxxvYNMlOgF84l6bOH5C9qsXgLp=
+cFDohT0ypiimz1JCxfsbDkIyqF-2BCCRPKSk31M-2FZAi3lHVXpL0Pioy2r6PuDohzvw-3DXk=
+D0_Zn5vtI38bqRJt32aFGYAnKKsT2RsCAqkttCkj0wD2UFwvLmJ0EIw9cSTwXi9WKeGwTdfz5=
+PZQgYEOUzQ7cmjz5GUr-2B8C1zswe7bSff7zZyXNwSeCLG4CQZBBXLzMJhgzscWCicSlxROju=
+wma7qGULrdq63zZhGmpkJrsRuy73xMvsnmo1iHO1gEJV3aWLxoS6wCx5RA9VordUEXL42GFfF=
+TO-2FTpbvHkCiAXxeXZoHDZTSlt5JXrADLie5XBMxOgjJKiX-2FNLDTZvyOLrRLYt75XXZb6x=
+W2ZEGWoH7-2FmlpOIB8quJfeW5wZUDzbDukRTw3YSf3HdOJ0N1tLFG6TiQrtE80YkJqZg1wL-=
+2FuOnr-2B5coBPbtha0-2FafwLOmZ45-2BM-2F9e">Follow TMS @ =
+tenaflymiddle</a></p></div>
+</td>
+</tr>
+</tbody>
+</table>
+<table width=3D"100%" border=3D"0" cellspacing=3D"0" cellpadding=3D"0">
+<tr>
+<td valign=3D"top" align=3D"center" width=3D"100%">
+<table class=3D"mtk-nl-wrapper" width=3D"650" border=3D"0" =
+cellspacing=3D"0" cellpadding=3D"0">
+<tr>
+<td valign=3D"top" align=3D"center" width=3D"100%">
+<table width=3D"100%" border=3D"0" cellspacing=3D"0" cellpadding=3D"0">
+<tr>
+<td valign=3D"top" align=3D"center" style=3D"background-color: white; =
+padding: 10px 10px 10px;">
+<a =
+href=3D"http://url4609.membershiptoolkit.com/ls/click?upn=3DyxyNRSY1E6VmY=
+hxxJ3B8Wf1rKtYF8rzTjvj5D8-2ByRZzoNr3bKI3w-2BxH6F0Tm-2Bv-2F90iqs_Zn5vtI38b=
+qRJt32aFGYAnKKsT2RsCAqkttCkj0wD2UFwvLmJ0EIw9cSTwXi9WKeGwTdfz5PZQgYEOUzQ7c=
+mjz5GUr-2B8C1zswe7bSff7zZyXNwSeCLG4CQZBBXLzMJhgzscWCicSlxROjuwma7qGULrdq6=
+3zZhGmpkJrsRuy73xMvsnmo1iHO1gEJV3aWLxoSFTezUwZU7vs8ybS99UpRgL-2FjnUzFHnR9=
+n8GKTVJ-2FAZ-2FA9Fb54GevoL9PCoN2ouGLcqeC6g7GnR4BnVbO9CONabrwqYhsS6UfKoa-2=
+FMOsGPOZH5fSYjSTQnWuuxBTEWvIzLkjI4HAZDau-2F7qv2WJvqefGQsLxReTBHJ5pswIlutl=
+9qBh5gV0cZGlZxdWfx3c-2F1">
+<img  id=3D"nle-block-2797779--img" =
+src=3D"https://tenaflymshsa.membershiptoolkit.com/assets/04963/IMG-3654.p=
+ng" alt=3D"" border=3D"0" width=3D"132" style=3D" width: 100%; =
+max-width: 132px !important; height: auto;">
+</a>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<table width=3D"100%" border=3D"0" cellspacing=3D"0" cellpadding=3D"0">
+<tbody>
+<tr>
+<td valign=3D"top" align=3D"center" style=3D"background-color: white; =
+padding: 10px 10px 0px; word-break: break-word;">
+<div id=3D"nle-block-2797780--title-editable" style=3D"position: =
+relative; font-family: Arial, sans-serif; font-size: 30px; color: =
+#222222; font-weight: bold; font-style: normal; text-align: center; =
+line-height: normal; letter-spacing: normal; padding-bottom: 0px;">
+</div>
+<div id=3D"nle-block-2797780--rich-text-editable" =
+class=3D"mtk-nl-rich-text-editable" style=3D"position: relative; =
+font-family: Arial, sans-serif; font-size: 16px; color: #222222; =
+font-weight: normal; font-style: normal; text-align: left; line-height: =
+normal; letter-spacing: normal;">
+<p style=3D"text-align: center;"><a =
+href=3D"http://url4609.membershiptoolkit.com/ls/click?upn=3DB72UrwnK7gu6u=
+wDM-2BM-2F-2B-2BJVNRkfEou3hOgRY9ugd9zUj7Mb6midhmizMs9NHDZTmG-2Fj6l6E2TNv7=
+FrWJ3KsNQ95XCeIexGI4RIhdpdQemNaUQ-2Bo01QE7E3HaViD4k-2Br7fcVq2bpzprUIh-2FX=
+-2FNfKc4D4gMNlv0Z0FYii-2FwBMfCEGcgXAPFLJsMjGL7gaXj-2FbUQMdzfaWAzQN24-2Bdg=
+lQmYwMxTb6IHox35IdrNcjgRFkm9BBcrJc2vwqoJx2EsR1OBDvm-2BRdTJ-2FmmV6k54-2FKy=
+l2odFHSVxAElG4RnFRDZ0WX15mC4LksuKD7IEpF5mJ-2BDrgPbbQAxG-2FyewOyuXokcHmfs4=
+YVTzqhCLgv-2FnjTAk7cZ7v2uNqcskGLKHjCkEd36m0BYizhtDlyd3XloYIJdsD2bUeuG0REl=
+7zOdGez2RaXkR2lkK8dhKXxk5-2BPvvt2Ah7czmK3ZizZTCvX9MuXR6MTBUdJaGEm-2BYPbZr=
+M4xWbDGQ81DZmvR6xDw-2BHFUXR3nSHxg0fvgPq4syxXuE9-2BybjiOPIvrklGyuLiA-2BQg8=
+LYarAWo8bFwKYAVMOOHm-2FSP0F39wDN8dL2iQVEDZTypiRwMezt9uWUcyqcrt8JPDToiMxbv=
+ASbtDvmvdj-2FkkcBTz-2BMWT8x02msIVZBvVwTdzzccdKXsKVoraVxPl-2BGavxSdK68hyPJ=
+conRaavtLfwZ8A4UTYBqVhVwg9JnEUXkfJaU5U7ggAUSeakm67biqXSWd92-2BA416cca19CY=
+IVpQqsys8Ewm8wu2H7WRKCSnZIr42r9n3TpXY2cKywgfaiZlK11QQOO8gbbrW8UdJaz9aXmGp=
+ZQ-2B-2Fex0RMiCDV5sYIPiw7rqDcc088iP4e3qeLMxLDlo8YDYed99vxkI0oKWPTBcNtaAYH=
+yNhdAkdjv3k3X1tONKKoh2tNtXCjlQfbr8ZaibtVrbRhNf3XtuCenWr-2F-2FdTNNI0sNi76T=
+POOc3KshDhPPz3kvPPdRNnGqqIgehxWe8HX2dNVgGfGMshpDBUPaT3MtFPCS-2FNL8Yw6QaDM=
+xOkCTaxQfTghvmNauVZATnfHrY2hD859j9-2BQmFT2Z6ZMKi-2BnFVmFUIwxkwasF0jJZPwAi=
+FjPYiF9O-2BiRf8BZpjztjRsg6BVXha5A485fB45KDVTkizoKaFtxrCcAiC82AX-2F6GVMthx=
+MBtNyMfFUusAYdDiy0KNosNMlvYycuwMSGgPp3QrLnu7Fre1R-2FyYDpXmmCRrGA5GO6WWW-2=
+FNuBzHOHw8O-2Fv7YUiNjHsmFJgL87zNi0vSTuYqvfD9esA-2BzTZWvSG8ob9jHCoU8gj8z20=
+HU-2FX8SnTWPLl736zfXPSvsaiqMJ-2FkQ5ouxheHBbGrCjumWNStFhkfCOAF2IXwhSmrDLzh=
+kCleYpuat50h-2BAAfi1hMpmSArQj7rGCPZLYiFz31mOHTLGCSEuV2LDtg0AIIlOzwvrF-2Fp=
+PcvYTOQGfLKnHj-2BIQzdmv0IuutIc3QFz9OSXQR69a2vV9nGj8TCNgdg8QzxQa-2BdJMTGVv=
+QfvDELDt8s2numQohmBhfYK4kjvzyzg4AVr1sm-2BGYLxHtkqopWx4t0-3DojZN_Zn5vtI38b=
+qRJt32aFGYAnKKsT2RsCAqkttCkj0wD2UFwvLmJ0EIw9cSTwXi9WKeGwTdfz5PZQgYEOUzQ7c=
+mjz5GUr-2B8C1zswe7bSff7zZyXNwSeCLG4CQZBBXLzMJhgzscWCicSlxROjuwma7qGULrdq6=
+3zZhGmpkJrsRuy73xMvsnmo1iHO1gEJV3aWLxoSyMRfh7m-2BMCUguMC11L0CAvk2YWfI7B1O=
+EWMDr9mjhrWm-2BTLMwxRZtd1P3eiaDjgbTKGsLsNVLsxh43jPe65MzIv0AEewtZgyEOjrjoJ=
+qNatjXphhxcrSBf7hkiwouG-2F5V3LPgG3Jopwv0AkN5RQqDc-2FzcBP9cMhFR52aVHMMXkdL=
+YqK88NHmewMrL3sDmNGO">Smile.amazon.com</a></p></div>
+</td>
+</tr>
+</tbody>
+</table>
+<table width=3D"100%" border=3D"0" cellspacing=3D"0" cellpadding=3D"0">
+<tr>
+<td valign=3D"top" align=3D"center" width=3D"100%">
+<table class=3D"mtk-nl-wrapper" width=3D"650" border=3D"0" =
+cellspacing=3D"0" cellpadding=3D"0">
+<tr>
+<td valign=3D"top" align=3D"center" width=3D"100%">
+<table width=3D"100%" border=3D"0" cellspacing=3D"0" cellpadding=3D"0">
+<tr>
+<td valign=3D"top" align=3D"center" style=3D"background-color: white; =
+padding: 10px 10px 10px;">
+<a =
+href=3D"http://url4609.membershiptoolkit.com/ls/click?upn=3DQ0h9AF9WS0-2F=
+KEGgGPqTEjCXvfivPsnd2D0kP4FuipbU-3D9t4h_Zn5vtI38bqRJt32aFGYAnKKsT2RsCAqkt=
+tCkj0wD2UFwvLmJ0EIw9cSTwXi9WKeGwTdfz5PZQgYEOUzQ7cmjz5GUr-2B8C1zswe7bSff7z=
+ZyXNwSeCLG4CQZBBXLzMJhgzscWCicSlxROjuwma7qGULrdq63zZhGmpkJrsRuy73xMvsnmo1=
+iHO1gEJV3aWLxoSqeoiitfJOZBCPHQ5uyeqNQ-2FUsTsQg7YaVwS-2F1TDmJLNd77ye7n83Th=
+J5UNGSG3NeTjlIQcSmeAvMrZF0Hg4zvTqsAwqHc16G13JM-2FHPDV7m4y1IWppB6YlBb-2BGb=
+aSslzuDkXoyCU-2B7zIfKX0F1i9Wn-2BgKWOSrtY-2BBxETpjvBKgkNkVblQCNTHpaDUN6ZVj=
+Ks">
+<img  id=3D"nle-block-2797781--img" =
+src=3D"https://tenaflymshsa.membershiptoolkit.com/assets/04963/IMG-3653.p=
+ng" alt=3D"" border=3D"0" width=3D"132" style=3D" width: 100%; =
+max-width: 132px !important; height: auto;">
+</a>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<table width=3D"100%" border=3D"0" cellspacing=3D"0" cellpadding=3D"0">
+<tr>
+<td valign=3D"top" align=3D"center" style=3D"background-color: =
+transparent; padding: 10px 10px 10px;">
+<table width=3D"100%" border=3D"0" cellspacing=3D"0" cellpadding=3D"0">
+<tr>
+<td width=3D"100%" style=3D" border-top: 5px solid black; font-size: =
+1px; line-height: 1px; height: 1px;" height=3D"1">
+<!--[if (gte mso 9)|(IE)]>&nbsp<![endif]-->
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<table width=3D"100%" border=3D"0" cellspacing=3D"0" cellpadding=3D"0">
+<tbody>
+<tr>
+<td valign=3D"top" align=3D"center" style=3D"background-color: white; =
+padding: 10px 10px 0px; word-break: break-word;">
+<div id=3D"nle-block-2797783--title-editable" style=3D"position: =
+relative; font-family: Arial, sans-serif; font-size: 30px; color: =
+#222222; font-weight: bold; font-style: normal; text-align: center; =
+line-height: normal; letter-spacing: normal; padding-bottom: 0px;">
+</div>
+<div id=3D"nle-block-2797783--rich-text-editable" =
+class=3D"mtk-nl-rich-text-editable" style=3D"position: relative; =
+font-family: Arial, sans-serif; font-size: 16px; color: #222222; =
+font-weight: normal; font-style: normal; text-align: left; line-height: =
+normal; letter-spacing: normal;">
+<p style=3D"text-align: center;">TMS HSA</p><p><br></p><p>We hope you =
+found this email alert helpful and encourage everyone to get involved in =
+the HSA. We can&#39;t make a difference without you! If you have any =
+questions, comments or suggestions, please send us an email at <a =
+href=3D"mailto:TMSHSA17@gmail.com">TMSHSA17@gmail.com</a>.&nbsp;</p><p><b=
+r></p><p style=3D"text-align: center;"><a =
+href=3D"http://url4609.membershiptoolkit.com/ls/click?upn=3DDeRduW2Kd5aFS=
+TMtw5j75d89msS7U9DH-2BEpNjdw251vfD7LKFKyvxo-2FIQwyXFJkAWt-2BJm24O7wvvTEEF=
+RcvqPA-3D-3DPq9J_Zn5vtI38bqRJt32aFGYAnKKsT2RsCAqkttCkj0wD2UFwvLmJ0EIw9cST=
+wXi9WKeGwTdfz5PZQgYEOUzQ7cmjz5GUr-2B8C1zswe7bSff7zZyXNwSeCLG4CQZBBXLzMJhg=
+zscWCicSlxROjuwma7qGULrdq63zZhGmpkJrsRuy73xMvsnmo1iHO1gEJV3aWLxoS6bqKIwbO=
+q-2BszMMBwc43FtjF8uy-2BdksurNk5OqP-2Frnhj-2FoOcx282s0slgaBFDvHU8R4K0fb2NU=
+gND-2B2021Vv5rjc8eEez8Hj2Em5wBaswRZHkLR2YX3Fs31F9-2FinxKu0OuCNhjfK6f5N6zr=
+OsPf-2FKl98ZoUFH1naeMlvTkCy1QY-2BRh4yjGvGgzGYu739lNbHl">Tenafly Middle =
+School HSA&nbsp;</a></p><p style=3D"text-align: center;">10 Sunset =
+Lane</p><p style=3D"text-align: center;">Tenafly, NJ 07670</p><p =
+style=3D"text-align: center;">(201) 816-4900</p></div>
+</td>
+</tr>
+</tbody>
+</table>
+<table width=3D"100%" border=3D"0" cellspacing=3D"0" cellpadding=3D"0">
+<tr>
+<td valign=3D"top" align=3D"center" style=3D"background-color: =
+transparent; padding: 10px 10px 10px;">
+<table width=3D"100%" border=3D"0" cellspacing=3D"0" cellpadding=3D"0">
+<tr>
+<td width=3D"100%" style=3D" border-top: 5px solid black; font-size: =
+1px; line-height: 1px; height: 1px;" height=3D"1">
+<!--[if (gte mso 9)|(IE)]>&nbsp<![endif]-->
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+
+
+<!--REMOVE:START--><table width=3D"100%"><tr><td><div id=3D"optout" =
+style=3D"clear: both; width: 100%; display: block; margin-top: 10px; =
+margin-bottom: 10px; border: 1px solid #999; background-color: #eee; =
+font-family: arial; font-size: 8pt; color: #999; padding: 5px;">This =
+message was sent to lihilutan@gmail.com from Tenafly Middle School HSA.  =
+To unsubscribe from this list, click <a =
+href=3D"http://url4609.membershiptoolkit.com/ls/click?upn=3DLYmqzTSKcpY5a=
+DMeytfM-2FQqY14fQhaKtH21LQj3DpnYObT717d9z5iglkh19wbNW5C4wIRvplWFA4gsP-2BI=
+HRxLMrLGbiB42PNEEX1qvMF-2F2yUUYdKbQX7Eh73VXstWAmXgvnC5bnf-2BOF0St6MvfktA-=
+3D-3DRmBZ_Zn5vtI38bqRJt32aFGYAnKKsT2RsCAqkttCkj0wD2UFwvLmJ0EIw9cSTwXi9WKe=
+GwTdfz5PZQgYEOUzQ7cmjz5GUr-2B8C1zswe7bSff7zZyXNwSeCLG4CQZBBXLzMJhgzscWCic=
+SlxROjuwma7qGULrdq63zZhGmpkJrsRuy73xMvsnmo1iHO1gEJV3aWLxoSWk7Xm-2F0BUNhI0=
+pW5tJNZUordM3vsnu8P1SuXryno-2F9f6t8PfsM3bVEVRXkAcCiytzfTQLMnMWNjIt7uU0kGQ=
+6r-2B9pEaizoRQ2yIEmqwONGZAc-2FoRbJXrOHsq3hdRUZKE37ZUIw6R03KpHgxSZ4O6EPhvS=
+aGnx-2Bsfd0FJseu1RWEag1MClsCp-2F-2BIxQIr-2FnQl6">here</a>.  If you would =
+like to manage your subscriptions, please visit <a =
+href=3D"http://url4609.membershiptoolkit.com/ls/click?upn=3DLYmqzTSKcpY5a=
+DMeytfM-2FQqY14fQhaKtH21LQj3DpnYObT717d9z5iglkh19wbNWTJiQXT4LocTtzvmWe-2F=
+we6opWP-2F376edYTshYRX35ZYA-3DBa99_Zn5vtI38bqRJt32aFGYAnKKsT2RsCAqkttCkj0=
+wD2UFwvLmJ0EIw9cSTwXi9WKeGwTdfz5PZQgYEOUzQ7cmjz5GUr-2B8C1zswe7bSff7zZyXNw=
+SeCLG4CQZBBXLzMJhgzscWCicSlxROjuwma7qGULrdq63zZhGmpkJrsRuy73xMvsnmo1iHO1g=
+EJV3aWLxoS5CnelSAWG-2BlgpNgkXvdCGT2CXu2pXzLfK15nO-2F12tJtIGptco0sLLsdhwHF=
+pEHmPUJZJHHT1SprrkjxLr6sgqx-2BdLOn9oRoHJkR-2Fj6tOr81qhdd0SAr2D8sQMg9wtUq7=
+UYgY83o52tsY-2B6wCFftPv4xqHEfQBLSxpMrXNcNmx7DM5So6qAWjHaOb4dvmv5vk">https=
+://tenaflymshsa.membershiptoolkit.com/user_subscriptions</a></div></td></=
+tr></table><!--REMOVE:END-->
+
+<div style=3D"display:none !important; white-space:nowrap !important; =
+font:15px courier !important; color:#ffffff !important;">- - - - - - - - =
+- - - - - - - - - - - - - - - - - - - - - - - - -</div>
+<img =
+src=3D"http://url4609.membershiptoolkit.com/wf/open?upn=3DJ-2Fm4-2BtnPJ5c=
+Be-2FitORAYql9O5xAzKMpWuTgId1-2FZ85jepBbqVfUJGblGprZNCoKDyyYdpfGS5NQanzhl=
+nWgF6T-2FbqbrbVzq-2FGq3wmmHWGvHLgbgozrUW9c4zmtHZpLe9sbAX14oEiuQlvEhCBF26n=
+SxGzv6widGFi7KDLkd93gbTc2UOCPM0ETICGhch1cD-2BjBkG2SSQNYuewBVoerQPYHvHgeTK=
+hAcm2AxrPfG-2FvL3L-2F5dyR6RuepSZppI5-2F9a9uGagbtvv0zJfZZ3TM7rteiG7uZXOoPd=
+EXyb4dAKfXpajqH0bt3rqYueVUObI1G-2FvTdnpr3Cmbe-2FpOVhOVWxxXLxuaBoUcN0GGBJL=
+6o8t0AoJ3yHc1wZrheb59lWDt9dc" alt=3D"" width=3D"1" height=3D"1" =
+border=3D"0" style=3D"height:1px !important;width:1px =
+!important;border-width:0 !important;margin-top:0 =
+!important;margin-bottom:0 !important;margin-right:0 =
+!important;margin-left:0 !important;padding-top:0 =
+!important;padding-bottom:0 !important;padding-right:0 =
+!important;padding-left:0 !important;"/></body>
+</html>
+
+
+------=_NextPart_000_025D_01D96D65.19085040--

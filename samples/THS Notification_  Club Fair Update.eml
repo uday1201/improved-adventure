@@ -1,0 +1,120 @@
+Received: by 2002:a05:7300:4148:b0:79:6eb5:7f6c with SMTP id z8csp646334dyc;
+        Fri, 23 Sep 2022 13:06:17 -0700 (PDT)
+Received: from mail-relay3-cse1.blackboard.com (mail-relay3-cse1.blackboard.com. [69.196.242.133])
+        by mx.google.com with ESMTPS id x5-20020a05620a258500b006cf532a6f93si4280216qko.537.2022.09.23.13.06.16
+        (version=TLS1_2 cipher=ECDHE-ECDSA-AES128-GCM-SHA256 bits=128/128);
+        Fri, 23 Sep 2022 13:06:17 -0700 (PDT)
+Received: from smtp2-aws1-2.bbnotify.net (smtp2-aws1-2.bbnotify.net [52.33.56.235])
+	by mail-relay1-cse1.blackboard.com (Sentrion-MTA-4.5.7/Sentrion-MTA-4.5.7) with ESMTPS id 28NK6EHA002420
+	(version=TLSv1.2 cipher=ECDHE-RSA-AES256-GCM-SHA384 bits=256 verify=NO);
+	Fri, 23 Sep 2022 20:06:15 GMT
+Received: from ip-10-146-98-36.us-west-2.compute.internal ([10.146.98.36]:50946 helo=UHURA)
+	by smtp2-aws1-2.bbnotify.net with esmtp (Exim 4.92)
+	(envelope-from <noreply@tenafly.k12.nj.us>)
+	id 1oboqa-0003y0-1B; Fri, 23 Sep 2022 20:00:28 +0000
+Reply-To: "Tenafly Schools" <noreply@tenafly.k12.nj.us>
+From: "Tenafly Schools" <noreply@tenafly.k12.nj.us>
+To: "Tenafly High School Recipients" <recipients@tenafly.parentlink.net>
+Subject: THS Notification:  Club Fair Update
+Date: Fri, 23 Sep 2022 13:00:01 -0700
+Message-ID: <E1oboqa-0003y0-1B@bbnotify.net>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_0283_01D96D65.191A9FC0"
+X-Priority: =?utf-8?q?3_=28normal=29?=
+X-Mailer: =?utf-8?q?UHURA?=
+Thread-Index: AQI10rtHX7bpx7auDKfo8BHs6ili3Q==
+X-Google-Smtp-Source: AMsMyM7Jj7HVKY+ORIMH2mKQ3lhhK8FFbFcEX863ehh3Pn/kQU1LYehTfa0elvke4C0kerUEkPXU
+X-Received: by 2002:ac8:754c:0:b0:35c:caea:3e73 with SMTP id b12-20020ac8754c000000b0035ccaea3e73mr8836451qtr.504.1663963577388;
+        Fri, 23 Sep 2022 13:06:17 -0700 (PDT)
+Authentication-Results: mx.google.com;
+       spf=pass (google.com: domain of noreply@tenafly.k12.nj.us designates 69.196.242.133 as permitted sender) smtp.mailfrom=noreply@tenafly.k12.nj.us;
+       dmarc=pass (p=REJECT sp=NONE dis=NONE) header.from=tenafly.k12.nj.us
+X-BatchID: =?utf-8?q?4548633?=
+X-Job-ID: =?utf-8?q?=3C20220923200001=2EUHURA=2E088ebf47-b5f5-48a2-9ade-b?=
+ =?utf-8?q?d991186c1ae=2EbpCVkxNAc1=40mail3=2Elocaldomain=3E?=
+
+This is a multipart message in MIME format.
+
+------=_NextPart_000_0283_01D96D65.191A9FC0
+Content-Type: text/plain;
+	charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+  =
+<https://storage.googleapis.com/pt04-1/images/tinymce/29a1d91027d8a9a824f=
+0ee0f330cb132/THS_Letterhead.jpg>=20
+
+
+Dear THS Community,
+
+I wanted to provide a quick update on the Tenafly High School Club Fair. =
+Currently, THS has 26 clubs with paid stipends that are meeting. =
+Although our volunteer-run clubs are not meeting at this time, I am =
+hopeful that these clubs will resume soon. With this in mind, we plan to =
+hold our club fair in mid-October, highlighting all active clubs. Thank =
+you for your patience as we plan this highly-anticipated student =
+activity.
+
+Please feel free to reach out to me directly with any questions or =
+concerns.
+
+Jim Morrison
+Principal
+
+=20
+
+  _____ =20
+
+You are receiving this email because of your relationship with Tenafly =
+High School. If you wish to stop receiving email updates sent through =
+the Blackboard service, please unsubscribe =
+<https://tenafly.parentlink.net/main/unsubscribe?a=3Dall&d=3DNDU0ODYzMw%3=
+D%3D%0A> .
+Tenafly High School | 19 Columbus Drive, Tenafly, NJ 07670 | =
+201-816-6600
+
+------=_NextPart_000_0283_01D96D65.191A9FC0
+Content-Type: text/html;
+	boundary="----=_NextPart_000_039B_01D8DA3A.59052F60";
+	charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+<html><head>
+<META HTTP-EQUIV=3D"Content-Type" CONTENT=3D"text/html; =
+charset=3DUTF-8">
+<link rel=3D"stylesheet" type=3D"text/css" =
+href=3D"https://storage.googleapis.com/static_pl/css/email.min.css"/><tit=
+le>Message</title></head><body><p><img =
+src=3D"https://storage.googleapis.com/pt04-1/images/tinymce/29a1d91027d8a=
+9a824f0ee0f330cb132/THS_Letterhead.jpg" alt=3D"THS Letterhead" =
+width=3D"100%" /></p>
+<table class=3D"wsite-multicol-table" style=3D"border-collapse: =
+collapse; width: 90%; margin-left: auto; margin-right: auto;" =
+border=3D"0" cellspacing=3D"1" cellpadding=3D"1">
+<tbody class=3D"wsite-multicol-tbody">
+<tr class=3D"wsite-multicol-tr" style=3D"height: 10px;">
+<td style=3D"width: 80%; text-align: left;">
+<p>Dear THS Community,</p>
+<p>I wanted to provide a quick update on the Tenafly High School Club =
+Fair. Currently, THS has 26 clubs with paid stipends that are meeting. =
+Although our volunteer-run clubs are not meeting at this time, I am =
+hopeful that these clubs will resume soon. With this in mind, we plan to =
+hold our club fair in mid-October, highlighting all active clubs. Thank =
+you for your patience as we plan this highly-anticipated student =
+activity.</p>
+<p>Please feel free to reach out to me directly with any questions or =
+concerns.</p>
+<p>Jim Morrison<br />Principal</p>
+<p>=C2=A0</p>
+</td>
+</tr>
+</tbody>
+</table><div style=3D"font-size:11px;color:#888"><hr>You are receiving =
+this email because of your relationship with Tenafly High School. If you =
+wish to stop receiving email updates sent through the Blackboard =
+service, please <a =
+href=3D"https://tenafly.parentlink.net/main/unsubscribe?a=3Dall&d=3DNDU0O=
+DYzMw%3D%3D%0A">unsubscribe</a>.<br>Tenafly High School | 19 Columbus =
+Drive, Tenafly, NJ 07670 | 201-816-6600</div></body></html>
+------=_NextPart_000_0283_01D96D65.191A9FC0--

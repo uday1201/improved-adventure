@@ -1,0 +1,2824 @@
+Received: from sonic.gate.mail.ne1.yahoo.com by sonic317.consmr.mail.ne1.yahoo.com with HTTP; Tue, 27 Sep 2022 14:50:58 +0000
+Received: by hermes--production-gq1-7dfd88c84d-mvm5c (Yahoo Inc. Hermes SMTP Server) with ESMTPA ID 079d9cb6784f6297fd5b08bc3eacd779;
+          Tue, 27 Sep 2022 14:50:53 +0000 (UTC)
+Received: from DIR-05 ([10.50.14.195])
+	by localhost with LMTP
+	id uPhWNNoNM2OlAQAA0J78UA
+	(envelope-from <sumita_chauhan@yahoo.com>)
+	for <nesrivas@bytheveranda.com>; Tue, 27 Sep 2022 10:51:06 -0400
+Received: from mta-04.privateemail.com ([10.50.14.14])
+	by DIR-05 with LMTP
+	id yKADNNoNM2NTDgAA0YkaXQ
+	(envelope-from <sumita_chauhan@yahoo.com>)
+	for <nesrivas@bytheveranda.com>; Tue, 27 Sep 2022 10:51:06 -0400
+Received: from asp-relay-pe.jellyfish.systems (unknown [10.50.200.190])
+	by mta-04.privateemail.com (Postfix) with ESMTP id CF16218005CA
+	for <nesrivas@bytheveranda.com>; Tue, 27 Sep 2022 10:51:06 -0400 (EDT)
+Received: from sonic317-32.consmr.mail.ne1.yahoo.com (sonic317-32.consmr.mail.ne1.yahoo.com [66.163.184.43])
+	(using TLSv1.3 with cipher TLS_AES_256_GCM_SHA384 (256/256 bits)
+	 key-exchange X25519 server-signature RSA-PSS (2048 bits) server-digest SHA256)
+	(No client certificate requested)
+	by asp-relay-pe.jellyfish.systems (Postfix) with ESMTPS id 4McMxz5n9TzyPd
+	for <nesrivas@bytheveranda.com>; Tue, 27 Sep 2022 14:50:58 +0000 (UTC)
+From: "Sumita's Yahoo" <sumita_chauhan@yahoo.com>
+To: <nesrivas@bytheveranda.com>
+References: <20220916200020.0C0BCF0A244C@legacyapi-ad1-04-phx>
+Subject: Fwd: LWSD Connections - September 16, 2022: Happy first day of school and more!
+Date: Tue, 27 Sep 2022 07:50:51 -0700
+Message-ID: <9CD07BD3-13FE-49E5-BEA5-51D7607D4E38@yahoo.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_023A_01D96D65.18E95690"
+X-Mailer: iPhone Mail (19G82)
+Thread-Index: AQGY9J6lBiKD7bs12onsQMa1lx6CAgI5zd5d
+X-NCJF-Result: P9rE/obnltLZktYcsex+pIY1S81mzRvxBGPsbEEEH7Bb0oQ0GTq9YfE9eIeZaci
+	j09q6APKdl3Sk4793fQO4MzaM1EJ1E7z/2ehkyQK6m2po45+sJTuOxWiUhAS1++cCwKj8Bz4Tm9zYI
+	U8ZLEtC+2Bwv7HJAGgnAhVtpYFjqXrTu/AKj+sauwGk3tO3f1b0hiqZwKoOPjwDTEL5j0/0Bqg0uh6
+	/MPnoww1dWiTZk6QUV+yuB9ZSEy2nauOGWd7C9ZUvCLmaYseATYR6ldLPcF/5PqzG/BzpE/OToWxhA
+	6ztGT/z/93XGErAXnQGoqgkhnMeTs497+CGTJnTddR6aPiW6uAwEOjV/v+G9c3IogLsieUzqb4dr5H
+	I9yMBBNnsIXG5fJqf/wlK4XDXBQKZG7Xt6UN20iwhnrLm2m6bqjzUzv9iQY2CjdXJ0d889ZNSc0kWv
+	yZubsRwD8ceSVutUvM5oPBJ/W8qIHp2RE8ZTr3wokiWGnozgor5w5FeIrng1bOy3cx2V03AfuCoBLg
+	OMKzLv0J0R8SfMfSc4HYvCP83cmIEQbadTXQoVy3qAyTvudohtW0oSR9DJUjt2+E+H/GNuZ2Z15xjJ
+	J0GoZzpjt8b0kicJu/Ed9juuwQPErfJZiNhIng2OP7csrnn7hUDQG9K7MvT3GtZqZ/e4QtLtgN1R8C
+	TA9q2B2pUNyRaplw0UcMv91hnbT8vJ7ZAH4yEEs/Hl6ErryHk6h5R4xFxjZ8F/ZG7I4eRK0fnI3mCu
+	Wc5V0GgNnVgNELR8fYbL9waOxeIukA6bL2sLptCEgNGbTTty54X/8VazfvcloldBSWAYTP6VC0cnA3
+	g+kHXfzpF4niWwl9KzgHkfNEW3kntybvdVqRrpNrYPqHhuHMumqsuB+8H7i4QYFML3PwFzKCJ1Hp1m
+	ubvKU08QcBdwxwtjGw0q5jIGicCFC3iaONR5yRMoSMu
+	
+	Mc4pJJ10LcVXlrYrb5QyUExLg0gS+GFQPbO
+	DnGJnhHnUk8iYDQMRFOS3KyT1taIoXDeNZYrSo10qQBqi5QmFHke5GjFWFCekaJtNSuZrN6S0HxWBK
+	DxcbRIiOpqj5VAAkC4K8X6+VGWAoGTBu9Pkb/pvW1I0a7kiB+6lvkJA8QT6q5FyJC3yt66pf9iVaYY
+	hzOyHOUP11YnjEQovKSZWx09h4fbwFTJNMsLHCWcPVekNB+iTBTgcOGw+0MXufUsLozF8rs1LQKlbf
+	egROvfpmykh4jsSsqm0iqzYERZ46JPsmxZIsS/9rmxuSouv8B4F340/F+Df6iSiE9O4nmqdUd67soU
+	L6AGZoFPOKovluTSYSklkaoiw+qJj2COQC4jGzj5Bpz6iyw7AS2YMok7Ybp+ILNEzGw36+4O01FhGw
+	GDAuboOYN2P2/EYsMuiPnHcvVWVzwu9I6L7DYdDItiS2J03EQOemzPa7JHtv8WkEiU4BRQzmvp9CoN
+	UGgQGleAXhUVQIUPyVfqXoSog6/yHFQNGopdIpQG79l/nZgU9kHT0pHXQMsLvlzBuX06AvbFVGWxHR
+	IuIwvXp72/zieQL/P9Hw6AvHzrXKN1gQfWIzSqreNqnJTSkWRe80Uf4Z7FUlVFBdYm9eWvspdLHhX8
+	VGDB4uLshKqWdgdu58oXIj6vltAtiXSI/8d+BpEe3DdJqbBrnZfzxUy87yKit8r1nRRHc5TRlzT58c
+	ZmgvqZtlZHPrEkktxWD2aePhv6S4EJZz7BSlkiueVbPog/7U8OuHOhb9sqilS8/u7nDNPkzMtqGy9W
+	fKxxPcFxBOc3S72Lmrs9lSXpck/PQgOrDK4RmHA1VHulVvN/BOUnC5xHhJWr+yjvvGrbLY4ZEw3t3S
+	UbY7GtNwa0hIjpd6/7dR39JMjqRBPaU34y+mG0hPzcRB9kn/MdwTLoV05hiIEledYEA1
+	Pde
+	sCDOIfY
+	JCgb0CMFMC8ZkFSqeaC3LKY5ADmg66UoMGFeEcR/JWOfNwH9WdzSijVUyigCMPYsG7DLsZPDTkshFa
+	DWbpU+DIYJxlYPMW6t8OjqN68e9ze8Whzcgf8vpePhcsPQ/D8BEeunhWaTo4wsQTF5i/3WE53aeuwy
+	Vt7GA3URAGw1E8ONTOJZizaay8NRO3FtO1SVdIZQAvQbHp2HA/7knSu863kcltd8DB+M+oDvVnWfjz
+	Rf1i9SEkMnGkt4xPso7VQgZ1PZRX43DcofBzY7I5osAuFizuOUq37kLSE8yHH01mCj5iTDyUhvb9Jf
+	AqN9gCbAqSXh7rXsxQnQTtTbpxJ5l3GMzAP1VEXoSIOSlnvZmaYaGVn5Z9dp7nAYjsy2IiKHonCdmq
+	RsnlK+M1Qd+HkVRsiQs3qgtNN3TEFiIreLcSFqYMpz6o2rgNopfnnTBmpQkb8ljOMTn8XfzKzp87OB
+	2osR6FZ/PE3Tlqg3B8ugddIpb0GviKb/7/qlJp7vish6kFeU0W/J7FF1iuOzavfYZYPjsE2PHUOrFi
+	Iu2VQB7KpvI195gd45sFxFKFZHhlw5VJmge0pfqD4a/C4+L2ECA6pEXcAUXeTjFzG0lCd+jUXg/5mm
+	5QNE5n9TxdCKXcWC1V4FCFnQBydgun2awGq3Tg2MH6OcR/1ZXrHWse7wwohZKkEYnofUzMnVI9HpEs
+	VF7kBnMNVUeOIwqrIK9xvTQrxcKYOJKFFPMDo5xjpC6Xx/Xl9jCm7vriBYMLtm0Vl7FS8QwMJpMRTf
+	zluSfuPvFK7R4s/4d3wFiVNn5hsJrXYWXCYOe/w27cEOegNmk6BN9nanY4GmDTdcDVRr7lAjKl3hTA
+	rvUAAnBackmDqMDagLi82Y53fqESGG8kzPsb1/bkVxBPU98bg8aa4YOIrG7U3g8dkDRylggtlykYeN
+	0B0ynbxb4Tr4
+	1lTc7y
+	KnOyAM2uQ2WyHku1A08DrElxC/DeogladQvodam/hvRe9vIhRfa48pxHqXBb
+	7X5E6Foi9J/Ehgszt0lHbAscJHE4NkkLabWJa/tuDNr0xOJBOFiItpRtA3cFWMzNYFPfrK0dYt83vz
+	UmAIFZRQYUPYKqijuTYGSZ5e4DHFuhq1oyJLCMSVjBxiWe746I/8U8d08Lm8WoHN3PmStwnTTQxqaG
+	I4hzeyYTrzZUida/qpgsj+kjU15I7XHoZJIaY6vfu9vFWbQ7JkzRKVozyIjrqNz0bro0UjOiFOBrF4
+	zphHPf/pK9sJli7C7KGLt+vh2TO9+CaLJFMU5b2rDpHJtCwVT9c0audRdUYz2vCrmAXZTJR5rlbM1o
+	8Y2jWe18CX3nSDsW3L+xTms6JwgQ2seOd5e1iMK/PFGXGAfc8Q1XNYYp2yBk/Si6MmzN0oLpA9GonR
+	rMrG7IUn19l3jXXZcUPf28ghp+pKvNDehgaJIgxSa2eF+ifPORB9uF8G+VJJ83Fk+caN5jc1+esfTS
+	CjhE0U5o6j4J0fOc5+zOWCB97e2MWOlmgMz1N5Mji66PZ88qa59eUQZHobgZoSSpHZX06XQ+IoCg/0
+	TNyWuHybKjuXpmgf1a52luIW7ScF2uPKpqRlKzezHDUKSI29SRKOtjlJnRtwFBVZh7A1Uq3hNsyJpC
+	hXPVnwkv3SmsJBfF7h9LqSt8Yblz6ND1L0HCCi41UKWWvjrC/XCEALjXzcnG/Z0fWRvu5qyNeMwjlx
+	VTbvEjKWe8vOrTvPW1AD8plSgbZT2fa1D24L0YfbJiOPFfSQ1O7bsGnT/TryVSdcV9U8olFOVAbPKb
+	/p5Om6rZ3S/tmKjdbb4TzibMuKRLNWZM6xgTxkk/vOrfZvFkbaDERfoRCi/ggb2uYFXQGB+TUgeoI/
+	ws7aDBGAbL1yuQXM6Uksxvt6j3AuzIwgEMUYj
+	GcJCaBhqX
+	70KOlZv7eMQiEJoPMcfKOpMWYRfj0QKe
+	iul0WH1fZ8tyt8xWZA+bqpXWSNbOLeCesgv6HFSkMMDabfNEyc05dj3iUk91AP/Wgtc3bScvWvHUEm
+	EgrWqmciJEttBEVW7EOqLIuKrNiJJkUDQ7F0ngamL1JK4J0I0/kDbW1zv/sv6S4sk2tk0gaPpL5vCc
+	aGmJOMrzy7e9qkb7KgJpQNuG+KaIbaofhpxrydyQDKpaMQtmDEZ8YnbeNPPB8EJ6AuwEilc0OYPdVa
+	uL6Fc2/MYaSCuZ31bJv7Y2/dbE6EhnziGgU985EraC4tZEl3SS+60jBinS7CjEHi3VwmdV+8IJINIE
+	UoVgW0cqg4CBKygBKY7DZr1cT9918Tka2qOW7muHPfmzeStT4WIsuzJinuQ5w4rwiIluQRAnqA+Gky
+	hDpKvA2ep8R8HNw9QvniYDUdMbXetI8G/ksx6DtmVpdJuNkKq2EABBZ5sVayDTsR1GLHPzxbKfyFcj
+	SKze79MRxAcVwC18ve8lPCmlviya/ht3YhXNRGi4tcj5yIR+cVJWxH6WNkeTXV/lCLeqlyoJrbt6e8
+	oJOGDGVn4nlkGuhdhvcz8iuqqm3Xn3KJwQa8DoJpqvMZkkgO68769xGvdR+And/szz+kesmUCKA9Sj
+	v4SPG7Qr9Re7dx3UmTquISZsBiIrv6B7n4W1kRz3/KYDbddEhcjf/P9BBXQZpO680qa/KgddIk7Ysg
+	vI6f9IYNxNuclefQUMr8Yky/TG4/orHsTcj+pje/dv9t5bv1Ot4gZs3QMgfl9pw/f0fJkHCpEXnC6A
+	nBVn6Y1gWcytAQ3yCzIQP+ejeLJdFRoFpAfNLQdH4qa8iwvuDugX86rQsUukvF3lZEVLQ0dcJGHJrB
+	Ym1/piKW38D6DjViEdj2naMTWy6fohP1xsfse7bCGj8U6DAwGE0G90bSbTA9Rr
+	ufv+mMoI0C7Y
+	VV5t
+	hfOObULyGpvdDyosldpKxSi4VP4Mdif3Ctr0fBhY4+TCEjrmHGZ9UxBZq+Lktj+3arIuuK7k0q9Wj+
+	bZ20sKW56HyAT1CuohZHQy2DTmh6EOYPPKULlIGtJGYNWuzRTVE9mlANanm0GLWqjg8FG2KaOmQrzU
+	njg55OwrlN12Lf/ZgmGs9T4XNecyB8VdXsMnwOhNBLrE8tNKXpAwiycuemwYl2qM+2D+RPOyWVwzq+
+	u0rVp3/rD8nGegpaO4MMTNuNXougBZuIuA3Hoix8R0V9ZNeR6FVzpDFzAVN9cnDic8cjO0ND1PQyyr
+	iGiCF0Ki7st4BC9UmC/bN10Dr+JbIaVbojakPLIGU+8Y4K4LiT5xbvrqdq2DYyOAUJFDqXsM4YaCnj
+	mC8lNGgCWuDFoURsg6WMMWZFUTahf2182q5b83xgkIB1xT83VsXoFa9SYKW0uNv6d99NIRsHL6IfR3
+	YobjpUpmQraEoQPV6PmtjZvvMWILVqnXFeHlOnBldKYblkWfL0CM40VhzQ0hmvJGYxdcdtIKNSd/+x
+	nlcz98S+xBB4fQ1fbjcbHqTyUoFm7nqymwtZwth/caUqIxsMx6oHeD0p7zW4aGV+exi9uCNrBxq43s
+	OB6WtVdzLhn1iDDIFu2z0z7MXvctp1ntlse6+ylwQUcS2ZVGC7mlwRie8i/toVLo1ux2n7WP56WS61
+	SnOXikS1ucyuh0mkur0mkwhUsuRKwYgJLdvPFCbK5gdZ7M0hw0183xGw4fCkDCJSVUwdE/qXaX8Fi1
+	PSlZ8rFsrakyg98zmXlQXsKenXQGkVzgp/pmU7/ayEG/9XiRL7LHtwKbyiwc+0zLN7kiN2zaMdkLje
+	fg8EChUdbpoI70N1oE8yZH+eO/h/H/I3JeRMnaXXfYsFaE9Aq9KHr0XGMKDR8ZyvVn3Xu1QfB8GKih
+	bnxUVI
+	H+/P2CwE8y7WXIL
+	XU81POafVLs0xSeDJxtQ8qyyej3cSuXSLpUC07usyaUxmY3pUsHV0mTig
+	k6OTOtIYNCZ+3IhoJsoVs7ZGChDLTAnq7kA5R9RB9eJcFnybvrVgLMaxF/4WMnglkVgPl1uHk2wkR/
+	5KozkqkJoDMUMHOhLcyDeUOojzWb3pszuJK3boxD8NIbSTe9IV2EUAslMwUnH6YyuCdlt16lvvsqqr
+	MnB6xrLmsiGDkrSlLLyqiUofgFGyg6aQSheqXOUpkcz8hYIQF+9m2lzb11W+d9d0LuPSIKXJlwS6Gm
+	yxtJ6zQS7lEyVHAcNUVUfdYrFd8xKqLGskaG+uAcHGsMJoUtB7IyGqky30ZIklsqMCnb7Z7px4elT3
+	Pu973zjX8H27e8PTvfsS1pulx6GhQRYNY1Gs/SmLRm7ugNTnT70J3RpDPBEsNn1qTK2CkYYz9VHIu/
+	zGjp7x2dAnI4MaEdM9AwvErY+Q3UXu2W4eMMqp4oMzZ8+9o99QhFaQdabjlBpZIWAkBarnUwzVc4JX
+	CyYtPSP447gAs9SYRdHvLOYUNF2MdxIs9BQRBBtDGxy7iv8f61mJD558LMpg1+MHwQYOUZnJaME791
+	DF/jMCbZ2lDP26eLPk4SLfcLbP5nlRztXX0o9DEjBO8mEzmTbxr+0r9mp4gEjmEH/joFmkuDnnuLjG
+	0BIOLnGVdeOVVeMVe11W016ghRrhMMjwC6ULFZ7jDwB8Xx69jYlH70UFJL+cweesTCFuKKOJHgx1h0
+	OzfpG1D7HL6ifXlVVokWaEaEL+t1eOLmVlZCCvW0ARPMqn8NYx/KLA7hvMzcnlf7Rtv2FsXceTbkZw
+	uEwwdcaTHY2YsLMa44gcZDO6PrXUCJksJxuBL1G3CvqRx7TRa+dHmUI+Hm+npIUKOg7lubb9nRWrqn
+	mZX9MXf7zh7jQ2avGQ3CUpefCX41S91
+	XVPPEc2HhYyzMs58fi
+	m0pR1ffnyZnS91nvx0ETv2kX8mjl1
+	EWO6+wjTc6jZYvh6N7+iJtBwag2IsfK8mB5mFfmMQ64KtwPz6r24B3mNrR1r80a7lUfiguk4JzRT5O
+	Fd4JFIBM61R0/W5pJ4fY7YfTVFyYO1zhg+sYP06U2qPYy0TBaEebLVAPrr55w+N7ONSecdNkrWhyM3
+	tlkLMS6FrqB+IyulY1TNAXIhruA==
+X-NCJF-Version: 2
+Authentication-Results: asp-relay-pe.jellyfish.systems;
+	dkim=pass header.d=yahoo.com header.s=s2048 header.b=RpstOOYf;
+	dmarc=pass (policy=reject) header.from=yahoo.com;
+	spf=pass (asp-relay-pe.jellyfish.systems: domain of sumita_chauhan@yahoo.com designates 66.163.184.43 as permitted sender) smtp.mailfrom=sumita_chauhan@yahoo.com
+X-SONIC-DKIM-SIGN: v=1; a=rsa-sha256; c=relaxed/relaxed; d=yahoo.com; s=s2048; t=1664290258; bh=vifzv9t/2fPENcP1GyvShyQBb79xCTKZ7fN6IUFEiJC=; h=X-Sonic-MF:From:Date:Subject:To:From:Subject; b=WzU29hg9BjUEAGHW8v9/4WwbPlQwNr8bIX/MZkZzmM4ZdSopWkeioGt3LeZBbJLkN/kmEYnsuSRJ4eoNkEjsyb7k8yKWRxEwrQlNqRcfJxrIPEeoCpokMpAPo90qmnxoAoHCnDkrjHKBDtMt62WQtzL2O1Q+E5e+NQnwsSEBy3l7Oqr+R9CeXw67J4Nj0x0biA46tfYoV4B2NX9VSgXsK9qdOlUV0V5E++c6xJ+KHkJdZFWCaprz7hM4cFpkStrKMCB0hVDQBd+UEAglmJyyeXU3RVfMwXevglIe6AJW+aQfFq+lf0WzBy8P1wR6bT7vMV5sGnLtxxl2oCfPshmXbg==
+X-YMail-OSG: hVJ_T2QVM1lM91gQ1hXGA7zsmKzo.Qu4uREk4UcJeOjlbkkJesYky2GxSXYD5cS
+ JLe8IrApHsAksMbjkIhFDxOUy8zu.DzGs5Hj96Dh3pppPG6OGxYfbC9F3BGD73lo_s7zw0qWIHPt
+ B14IfMPUFk.yG7Ma0wWKJQy.af1rNpeFh_VDngHyKaAyfeRKWSlByj.xmoAqrzHCyiVH099AC9my
+ nmGuqeRZG5wtKN0cslBUt.yCg9DRIrOy09ZswgqCJqkfhHURgOLhiFn4sNDEu_PPNks2mxJafeiw
+ bZ8HZNy1rS329v_Tsat_2OI_atggLeWGeuANqhRwKkNWyyvq1NbRW78LlkVBEPLSKJj0E32Qx3tg
+ WUH6Tfh.AW_cNPHxYDzkrKwXGprHZtSFdv5zRZ_UEdRHe_2m4w3Y3fBkiCLJqI6L4vg3Hh7rre0G
+ oPyOTpqwwEnMJG8PFn2wpdFQMKk5uJJKAHppvrlMXtRGIg8vMvuAZaoF.huyfqST75AZzqN9xNQF
+ pNChY4FO5t8o48U4XN42.moD.BaNH9wHQoO56tgaanHJ8No59PBMemDMWKz5O4bqAnXCg4KB8Dsm
+ coVRY_q0mTN.cQy7sniIZp2COdGhjlSx4GeKj2jAo2IChk1UOCuP7OzhhrsjvTIWIq.6tOrSYYsy
+ PTbBtEiv51joYanwaQyFwXjkp8xobtrmh0SOKmswQuicGF.g.4JL2DvPlw85nHuc6NiLZuA8Y57E
+ I75z8mY.HPc4afTin_1BQrKrACSBerqvy46mcgMkcoZ4IbAxpbBK5BF2FWE_G65e3YX6qhdVjPoW
+ 9ZO.WeQslpXgvuj__rwUUibm_dJyxCSg8ONzwmWlCr_KJvJLFQzbt0iBt7X9q.G_LWT1MwjKLWT1
+ T_tCArcUyXh0Zk3FgY7Fherf0Jgq9hPw0tLomdPAFlwHuTDuPqEv6cr5zzsSGuiNg
+	
+	7v.UO.OAnwy
+ EeW2aN4CADjQXsuRjDQaMFNG7Nrins5IFBe6j7HyG4gRbOhpaAWk4bv_LlOVmWgOnhQTc3qnMxfp
+ snnv4lZQIN1Y53_.w4GwUpFPigD4S8NHpqxAZzhxeh5o5G98aK_btEy60vVxNUPp57KjlV8.vZIg
+ EL9tJ6K_gK9NSpJ3KY7PMw5_734w_V6EWczJImz8lAZUdZazUzqU1MQVYQN824RcpeGtuImz3eDh
+ _SECwoCG86SgTlUQ4TrNSvGC2weeyXR.jQUzpU7mCIBd5iFOaJ5tkv4MWRq_QlWXEuH04KmNPMQb
+ d5nEpqYFxly.b0T4jEctegwe73UQQAMk4A1b6ukWEmX7Snxxw7o8JwxM1cdeEbQDztP0nq6ShDSK
+ V2xfBaCTX1hFl.2IRC4cZBHmQ3oaLsGA_.K3_PL24xxbfD3v4Fb2AmJLMeekUJgwmDk.u37fB.st
+ WReDFXfElWO.HRqO2zwssMM1tY6yr8ZKvejzlgoRwkk5boWABpSzWAnH61clLUl2KL.LjVIr7ikA
+ SvKWwCE87nCif7CDtzF7r0iBEMlJ32eOMfq6VfjT3mS_qvvTZCGMt8sraHUhmFDn3clC4kLrq1H5
+ tCWh.r2tg9svUXsNQ1_oFO5l7jOJVtkWExE9Fy4LuGcbRxeBN025a2JU_7wYYSF9Q3g1hXdHJoOh
+ xZytm4wmXoYoe4kPd4wuGdzbWG1AaFwU6Y3oo34m0WXCffM2LWKyem.IWYCAH3ECqmzcvDIwSouN
+ 8vW_1HYNDHorzdDVCkvHBoCLSvVuoU2pNGjPJ_xqmBoYf4M90eFLu7_CtUNKHTLWA02uPfkcd4gf
+ iTFfqIff4c7DztubsvdKnepGVv1Z3dYHXc7p7IWpDN3EjSrLTXB6JwCYPNAT5yzl8eND_..kaSsV
+ zblXcgjHkAVKPVWkwuQOBlQXZ0rWYwUZNhx
+	fq5
+	KqW4I8UZO8EtkobGAPobDqPHtKzqDwBplZ4FDv
+ hZGgUGZ4XfONOvA0W7Ohm1CIS44T45ftR8b3k.O_HFxHo5Gv0bDwz3QJSW5F6rDHfxg68ndiAIgF
+ Aa8cSk9MBom4X99zS9FuHUArf2LVXp_9u2DG69XhAwGmzZlQyDNXYunz_WBDUfjdldiCy0h578h9
+ UAEnehiH1eifEbbQtikcZeb9icfZ0BItfLh5oZerB3TpLdW8y3Qxw23vZnO8SEfWzwfsO5EcZ45B
+ sPiWqUvhYx0nn_5xqCd1PNirEE227DejIcL6dbpL5wdxMioxvTe_pX940npslPRU4MFkSzUINkSV
+ LmzcsDg1ga_CmBIaZYsiGHijkmWSfboed9JcBQpl1gEQb5Y3lBAVfnpXVqCk_tIC9PVW5U3oEoY7
+ u
+X-Sonic-MF: <sumita_chauhan@yahoo.com>
+
+This is a multipart message in MIME format.
+
+------=_NextPart_000_023A_01D96D65.18E95690
+Content-Type: text/plain;
+	charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+
+
+Thanks,
+Sumita
+
+
+Begin forwarded message:
+
+
+
+From: LWSD Communications <communications@lwsd.org>
+Date: September 16, 2022 at 1:00:22 PM PDT
+To: sumita_chauhan@yahoo.com
+Subject: LWSD Connections - September 16, 2022: Happy first day of =
+school and more!
+
+
+
+=EF=BB=BF
+
+
+
+
+
+
+ =
+<http://link.email.dynect.net/link.php?DynEngagement=3Dtrue&H=3DZMyLy4zTj=
+FwvNxIiQxXYz7fICs325Rzf11BKq8bXyh%2F55Q8PbcAMCQLvlvNulLpdxHMqvH5TL7dnKsnZ=
+iG6p%2BHoYliIFbUqZnrVqFy%2FJNslNhOXeb8CQX2KQnzH0mFvh&G=3D0&R=3Dhttps%3A%2=
+F%2FJBPGGYZTANA.hatchbuck.com%2FTrackLinkClick%3FID2%3DoTSbP3ReaR0QQD9bfn=
+7b29hDCnar3TSZzAUhAPVoQGediGvQMTdLO7BldvrK9-Uh0&I=3D20220916200020.000000=
+7c04dd%40smtp-ad1-46-phx&X=3DMHwxMjY0OTIyOjI3NzE1MTI3OTg7MXwxMjY0OTIzOjIz=
+ODgxODkyMTs%3D&V=3D3&S=3Dne5USpBMQhw4zHjYE_zwWwyK2GQBCcnbotIBTi_ASdQ> =
+Read the website accessible version here
+
+
+
+
+  =
+<https://s3.hatchbuck.com/TemplateImage/202d251ce37beb2e195f1a89e76d8f716=
+7e6794ce59f63a592bc576991358d86.jpg>=20
+
+
+
+
+September 16, 2022
+
+
+
+Stay Connected!
+
+This newsletter is just one way to stay in touch with what is happening =
+in the district. Connect with us on Facebook =
+<http://link.email.dynect.net/link.php?DynEngagement=3Dtrue&H=3DZMyLy4zTj=
+FwvNxIiQxXYz7fICs325Rzf11BKq8bXyh%2F55Q8PbcAMCQLvlvNulLpdxHMqvH5TL7dnKsnZ=
+iG6p%2BHoYliIFbUqZnrVqFy%2FJNslNhOXeb8CQX2KQnzH0mFvh&G=3D0&R=3Dhttps%3A%2=
+F%2FJBPGGYZTANA.hatchbuck.com%2FTrackLinkClick%3FID2%3Djvy92GqRQTPV99FP_y=
+_2J3kYHSQv_RzX_3uOB6IVHMSQFAiGL4dzRiIDQCHSGhlo0&I=3D20220916200020.000000=
+7c04dd%40smtp-ad1-46-phx&X=3DMHwxMjY0OTIyOjI3NzE1MTI3OTg7MXwxMjY0OTIzOjIz=
+ODgxODkyMTs%3D&V=3D3&S=3Dq0PwJr365UrfuReXlZYpnbemkFmYXz5hvesSt-XueWA> , =
+Twitter =
+<http://link.email.dynect.net/link.php?DynEngagement=3Dtrue&H=3DZMyLy4zTj=
+FwvNxIiQxXYz7fICs325Rzf11BKq8bXyh%2F55Q8PbcAMCQLvlvNulLpdxHMqvH5TL7dnKsnZ=
+iG6p%2BHoYliIFbUqZnrVqFy%2FJNslNhOXeb8CQX2KQnzH0mFvh&G=3D0&R=3Dhttps%3A%2=
+F%2FJBPGGYZTANA.hatchbuck.com%2FTrackLinkClick%3FID2%3DaY2EDIs8g48P6TW9Xr=
+BXiHPcfHLWwCyHzH3rPgqu4o1a_dpiIZ3i9wDBtzCsm_mk0&I=3D20220916200020.000000=
+7c04dd%40smtp-ad1-46-phx&X=3DMHwxMjY0OTIyOjI3NzE1MTI3OTg7MXwxMjY0OTIzOjIz=
+ODgxODkyMTs%3D&V=3D3&S=3Dk3l8-1sejCt4OnR-trszSLgH6ilDHO8rQB_dFsk8UiU> , =
+Instagram =
+<http://link.email.dynect.net/link.php?DynEngagement=3Dtrue&H=3DZMyLy4zTj=
+FwvNxIiQxXYz7fICs325Rzf11BKq8bXyh%2F55Q8PbcAMCQLvlvNulLpdxHMqvH5TL7dnKsnZ=
+iG6p%2BHoYliIFbUqZnrVqFy%2FJNslNhOXeb8CQX2KQnzH0mFvh&G=3D0&R=3Dhttps%3A%2=
+F%2FJBPGGYZTANA.hatchbuck.com%2FTrackLinkClick%3FID2%3DWD_9OAVqJm1PSl5OM2=
+immleIvnxXOYQi49npITJGL9xOX9oW5E336V0rvw_R1JPh0&I=3D20220916200020.000000=
+7c04dd%40smtp-ad1-46-phx&X=3DMHwxMjY0OTIyOjI3NzE1MTI3OTg7MXwxMjY0OTIzOjIz=
+ODgxODkyMTs%3D&V=3D3&S=3DcjU3UjjzN6bg-mfs364UvAXjjsSDnsWOQUxlO51Yh9k>  =
+and YouTube =
+<http://link.email.dynect.net/link.php?DynEngagement=3Dtrue&H=3DZMyLy4zTj=
+FwvNxIiQxXYz7fICs325Rzf11BKq8bXyh%2F55Q8PbcAMCQLvlvNulLpdxHMqvH5TL7dnKsnZ=
+iG6p%2BHoYliIFbUqZnrVqFy%2FJNslNhOXeb8CQX2KQnzH0mFvh&G=3D0&R=3Dhttps%3A%2=
+F%2FJBPGGYZTANA.hatchbuck.com%2FTrackLinkClick%3FID2%3Do5ikRLArDgXUunwkVH=
+2wm1vB7XaJ2r_1PuRMagS2ZFzYBmS0pI7k5jfg2kYpKg840&I=3D20220916200020.000000=
+7c04dd%40smtp-ad1-46-phx&X=3DMHwxMjY0OTIyOjI3NzE1MTI3OTg7MXwxMjY0OTIzOjIz=
+ODgxODkyMTs%3D&V=3D3&S=3DxQSNdKlNU3UG7ZgpTUXmWJ2kdG_6zrxRzo9MKtvCLDs>  =
+for up-to-date news and information.
+
+
+
+In this Issue:
+
+*	New articles=20
+
+
+*	Happy first day of school!
+*	New website for Highly Capable division
+*	Sixty LWSD students named National Merit Semifinalists
+*	Two students selected as Student Representatives for Lake Washington =
+School Board
+*	New and International Families Welcome Event=20
+*	K-5 Social Studies Adoption Committee forming
+*	LWSD supports Spanish-speaking families through local partnership
+*	Register your child for a Kids Coming Together event!=20
+*	Building inclusive library collections in our schools - LWSF update=20
+*	Mentors needed for local students=20
+*	Building on Success=20
+*	Health first =E2=80=93 LWSD students place in top ten at national =
+health professionals competition
+
+*	Reminder and Updates=20
+
+
+*	Reminder: We=E2=80=99re Hiring! Consider a career in LWSD
+*	Reminder: 988 Suicide and Crisis Lifeline
+*	Reminder: District tip line
+*	Reminder: Teen Startup event application deadline =
+=E2=80=8B=E2=80=8B=E2=80=8B=E2=80=8B
+
+
+
+
+  =
+<https://s3.hatchbuck.com/TemplateImage/fd07a98c22dd712e3be051f9d3df0abc2=
+17530eae9e4b7fe2deb718478df2d9c.png>  Work With Us
+
+
+
+ =
+<http://link.email.dynect.net/link.php?DynEngagement=3Dtrue&H=3DZMyLy4zTj=
+FwvNxIiQxXYz7fICs325Rzf11BKq8bXyh%2F55Q8PbcAMCQLvlvNulLpdxHMqvH5TL7dnKsnZ=
+iG6p%2BHoYliIFbUqZnrVqFy%2FJNslNhOXeb8CQX2KQnzH0mFvh&G=3D0&R=3Dhttps%3A%2=
+F%2FJBPGGYZTANA.hatchbuck.com%2FTrackLinkClick%3FID2%3Dwj9TxkjA0UUOunDZmD=
+K9orBEQkdcrIhtyfNy6uAzE9_CJ4zJVwAmLUZpJMs8ow9v0&I=3D20220916200020.000000=
+7c04dd%40smtp-ad1-46-phx&X=3DMHwxMjY0OTIyOjI3NzE1MTI3OTg7MXwxMjY0OTIzOjIz=
+ODgxODkyMTs%3D&V=3D3&S=3DgVdzBwa7MGLOpSRSKLJx2T4z0kYFD80XXmoFTI7sVvM> =
+We=E2=80=99re Hiring! Consider a career in LWSD
+
+LWSD is always seeking great talent for positions throughout our =
+district. In addition to other positions available in LWSD, we are =
+looking for applicants for the following positions:
+
+*	Nurses
+*	Instructional Assistants (IA=E2=80=99s)
+*	Paraeducators
+*	Custodians
+*	Bus Drivers
+*	Substitutes
+
+These positions are also available in a substitute role. Check out the =
+LWSD website for job descriptions and postings at =
+https://www.lwsd.org/employment/careers =
+<http://link.email.dynect.net/link.php?DynEngagement=3Dtrue&H=3DZMyLy4zTj=
+FwvNxIiQxXYz7fICs325Rzf11BKq8bXyh%2F55Q8PbcAMCQLvlvNulLpdxHMqvH5TL7dnKsnZ=
+iG6p%2BHoYliIFbUqZnrVqFy%2FJNslNhOXeb8CQX2KQnzH0mFvh&G=3D0&R=3Dhttps%3A%2=
+F%2FJBPGGYZTANA.hatchbuck.com%2FTrackLinkClick%3FID2%3Dwj9TxkjA0UUOunDZmD=
+K9orBEQkdcrIhtyfNy6uAzE9_CJ4zJVwAmLUZpJMs8ow9v0&I=3D20220916200020.000000=
+7c04dd%40smtp-ad1-46-phx&X=3DMHwxMjY0OTIyOjI3NzE1MTI3OTg7MXwxMjY0OTIzOjIz=
+ODgxODkyMTs%3D&V=3D3&S=3DgVdzBwa7MGLOpSRSKLJx2T4z0kYFD80XXmoFTI7sVvM> .=20
+
+
+
+
+  =
+<https://s3.hatchbuck.com/TemplateImage/1e079b84a4df7519d5201be76ecd8455d=
+69f1e5553a56bb80fbea01411f9db0a.png>  Learning-Focused
+
+
+
+ =
+<http://link.email.dynect.net/link.php?DynEngagement=3Dtrue&H=3DZMyLy4zTj=
+FwvNxIiQxXYz7fICs325Rzf11BKq8bXyh%2F55Q8PbcAMCQLvlvNulLpdxHMqvH5TL7dnKsnZ=
+iG6p%2BHoYliIFbUqZnrVqFy%2FJNslNhOXeb8CQX2KQnzH0mFvh&G=3D0&R=3Dhttps%3A%2=
+F%2FJBPGGYZTANA.hatchbuck.com%2FTrackLinkClick%3FID2%3DkvuBnVoTsHqWUNyfnP=
+ovn-wkTbPqJ9RL_dU4PtJuEgXUUiNCG751BsrbjdU-7AxU0&I=3D20220916200020.000000=
+7c04dd%40smtp-ad1-46-phx&X=3DMHwxMjY0OTIyOjI3NzE1MTI3OTg7MXwxMjY0OTIzOjIz=
+ODgxODkyMTs%3D&V=3D3&S=3DX1CCASaVS08QW0ZNQznZeSC4Fj50MlH_63RQiTvWdjI> =
+Happy first day of school!
+
+The first day of school for grades 1-12 was on September 6. We are so =
+excited to welcome back our students. Visit our Facebook page to see =
+some of the photos from the different first days of school at all levels =
+<http://link.email.dynect.net/link.php?DynEngagement=3Dtrue&H=3DZMyLy4zTj=
+FwvNxIiQxXYz7fICs325Rzf11BKq8bXyh%2F55Q8PbcAMCQLvlvNulLpdxHMqvH5TL7dnKsnZ=
+iG6p%2BHoYliIFbUqZnrVqFy%2FJNslNhOXeb8CQX2KQnzH0mFvh&G=3D0&R=3Dhttps%3A%2=
+F%2FJBPGGYZTANA.hatchbuck.com%2FTrackLinkClick%3FID2%3DkvuBnVoTsHqWUNyfnP=
+ovn-wkTbPqJ9RL_dU4PtJuEgXUUiNCG751BsrbjdU-7AxU0&I=3D20220916200020.000000=
+7c04dd%40smtp-ad1-46-phx&X=3DMHwxMjY0OTIyOjI3NzE1MTI3OTg7MXwxMjY0OTIzOjIz=
+ODgxODkyMTs%3D&V=3D3&S=3DX1CCASaVS08QW0ZNQznZeSC4Fj50MlH_63RQiTvWdjI> .=20
+
+
+
+New webpage for Highly Capable division
+
+The Highly Capable (HiCap) division of LWSD=E2=80=99s Accelerated =
+Programs has some important news to share with families:
+
+*	The HiCap webpage received a makeover! Our new page =
+<http://link.email.dynect.net/link.php?DynEngagement=3Dtrue&H=3DZMyLy4zTj=
+FwvNxIiQxXYz7fICs325Rzf11BKq8bXyh%2F55Q8PbcAMCQLvlvNulLpdxHMqvH5TL7dnKsnZ=
+iG6p%2BHoYliIFbUqZnrVqFy%2FJNslNhOXeb8CQX2KQnzH0mFvh&G=3D0&R=3Dhttps%3A%2=
+F%2FJBPGGYZTANA.hatchbuck.com%2FTrackLinkClick%3FID2%3DMSEknwIBTg-B4WBT8s=
+ZgIrnCS7EalKVJOWbGmuqgY_8FV5eFqybPBwE7mWKTWbVI0&I=3D20220916200020.000000=
+7c04dd%40smtp-ad1-46-phx&X=3DMHwxMjY0OTIyOjI3NzE1MTI3OTg7MXwxMjY0OTIzOjIz=
+ODgxODkyMTs%3D&V=3D3&S=3DVSjiPFxmC2Bnjshba_evf3v4XZVJXn-UJpi3LD1uC5s>  =
+features a simplified design, this year=E2=80=99sassessment calendar and =
+the eligibility matrix.
+*	Applications for HiCap eligibility will open on September 19 and close =
+on October 20. Theapplication will be posted as a live form on the HiCap =
+webpage.
+
+Visit the HiCap page on the LWSD website =
+<http://link.email.dynect.net/link.php?DynEngagement=3Dtrue&H=3DZMyLy4zTj=
+FwvNxIiQxXYz7fICs325Rzf11BKq8bXyh%2F55Q8PbcAMCQLvlvNulLpdxHMqvH5TL7dnKsnZ=
+iG6p%2BHoYliIFbUqZnrVqFy%2FJNslNhOXeb8CQX2KQnzH0mFvh&G=3D0&R=3Dhttps%3A%2=
+F%2FJBPGGYZTANA.hatchbuck.com%2FTrackLinkClick%3FID2%3DMSEknwIBTg-B4WBT8s=
+ZgIrnCS7EalKVJOWbGmuqgY_8FV5eFqybPBwE7mWKTWbVI0&I=3D20220916200020.000000=
+7c04dd%40smtp-ad1-46-phx&X=3DMHwxMjY0OTIyOjI3NzE1MTI3OTg7MXwxMjY0OTIzOjIz=
+ODgxODkyMTs%3D&V=3D3&S=3DVSjiPFxmC2Bnjshba_evf3v4XZVJXn-UJpi3LD1uC5s> .
+
+
+
+Sixty LWSD students named National Merit Semifinalists
+
+Sixty Lake Washington School District (LWSD) high school seniors have =
+been named semifinalists in the 68th annual National Merit Scholarship =
+Program. The National Merit Scholarship Corporation =
+<http://link.email.dynect.net/link.php?DynEngagement=3Dtrue&H=3DZMyLy4zTj=
+FwvNxIiQxXYz7fICs325Rzf11BKq8bXyh%2F55Q8PbcAMCQLvlvNulLpdxHMqvH5TL7dnKsnZ=
+iG6p%2BHoYliIFbUqZnrVqFy%2FJNslNhOXeb8CQX2KQnzH0mFvh&G=3D0&R=3Dhttps%3A%2=
+F%2FJBPGGYZTANA.hatchbuck.com%2FTrackLinkClick%3FID2%3DkBbArdoP9KTTlUARRH=
+NvrXlp6-DH_XIbi1g9UlZyvT9EwDR-Mt_VCAnwJj4pGAY10&I=3D20220916200020.000000=
+7c04dd%40smtp-ad1-46-phx&X=3DMHwxMjY0OTIyOjI3NzE1MTI3OTg7MXwxMjY0OTIzOjIz=
+ODgxODkyMTs%3D&V=3D3&S=3DWX_zr27GxG_L64bSOIgCKLUhdl7fjOdpxSAqmHcUPYY>  =
+announced the semifinalists yesterday.=20
+
+=20
+
+Sixteen thousand high school seniors nationwide qualified. About 15,000 =
+semifinalists are expected to advance to the Finalist level. Nearly half =
+will win a National Merit Scholarship. These students will be able to =
+continue in the competition for 7,250 National Merit Scholarships, worth =
+nearly $28 million.=20
+
+=20
+
+Read more about this on the LWSD website =
+<http://link.email.dynect.net/link.php?DynEngagement=3Dtrue&H=3DZMyLy4zTj=
+FwvNxIiQxXYz7fICs325Rzf11BKq8bXyh%2F55Q8PbcAMCQLvlvNulLpdxHMqvH5TL7dnKsnZ=
+iG6p%2BHoYliIFbUqZnrVqFy%2FJNslNhOXeb8CQX2KQnzH0mFvh&G=3D0&R=3Dhttps%3A%2=
+F%2FJBPGGYZTANA.hatchbuck.com%2FTrackLinkClick%3FID2%3De3JHkOn60jG_HAcdih=
+RORxcMpjwEc76wLQJe-HsVtqrPcIdK7UHwLGSAiyAb73fQ0&I=3D20220916200020.000000=
+7c04dd%40smtp-ad1-46-phx&X=3DMHwxMjY0OTIyOjI3NzE1MTI3OTg7MXwxMjY0OTIzOjIz=
+ODgxODkyMTs%3D&V=3D3&S=3DePb2plZKMC7y_LlJuxvY-5SJLo7OdejZM1Csw9gixMA> .=20
+
+
+
+Two students selected as Student Representatives for Lake Washington =
+School Board
+
+Students to share student voice in Board conversations
+Starting this year, the Lake Washington School District Board of =
+Directors will include two student representatives. Student =
+representatives were selected through an application and interview =
+process.
+
+=20
+
+  =
+<https://s3.hatchbuck.com/TemplateImage/2c28edd650f33eb526b31e681f735d744=
+87955b6c377e088229a8c97d437c916.jpg> Evan Kurtz (Juanita High School, =
+Class of 2023) will serve as the student representative for the west =
+side of the school district for this school year. A new student =
+representative from the west side of the district will be selected for a =
+two-year term starting in 2023-24. Evan was first introduced at the =
+August 22 School Board meeting.
+
+=20
+
+  =
+<https://s3.hatchbuck.com/TemplateImage/b5e6917d10e214eb702f60f6259f8ffbe=
+299bac13a63345452a87f479668ac2c.jpg> Shivani Sama (Tesla STEM High =
+School, Class of 2024) will serve as a student representative for the =
+east side of the school district. She will serve in this role for the =
+next two school years. Shivani was first introduced at the September 12 =
+School Board meeting.
+
+=20
+
+The goal of adding student representatives to the board is to add the =
+perspective and experiences of students as the Board considers various =
+topics.
+
+=20
+
+Evan was selected to serve for the 2022-23 school year while Shivani =
+will serve through the 2023-24 school year. Annually, the Board will =
+select an incoming junior for a two-year term.
+
+
+
+New and International Families Welcome Event=20
+
+The LWPTSA Council and Lake Washington School District will be =
+co-hosting a New and International Families Welcome Event soon. Watch =
+for information and details in ParentSquare.=20
+
+
+
+K-5 Social Studies Adoption Committee forming
+
+In Lake Washington School District, we arrange committees of =
+stakeholders to review our adopted curriculum on a regular basis. These =
+committees consist of teachers, administrators, specialists and =
+community members. The committees usually meet 1-2 times a month but may =
+also have additional sessions as needed. Committee members engage in =
+learning about current research, standards and effective instructional =
+practices. They then apply that learning in evaluating resources for =
+potential adoption. The process of reviewing and/or adopting new =
+curricular materials will be a two-year commitment. It will entail =
+independent work outside of the meeting times. We are starting this =
+process in K-5 social studies this fall. If you are interested in =
+applying to be part of this committee, please fill out the application =
+for the committee below. For any additional information, please contact =
+Dr. Jen Rose <mailto:jerose@lwsd.org> , Associate Superintendent for =
+Instructional Services.
+
+=20
+
+K-5 Social Studies Adoption Committee: Community Member Recruitment =
+<http://link.email.dynect.net/link.php?DynEngagement=3Dtrue&H=3DZMyLy4zTj=
+FwvNxIiQxXYz7fICs325Rzf11BKq8bXyh%2F55Q8PbcAMCQLvlvNulLpdxHMqvH5TL7dnKsnZ=
+iG6p%2BHoYliIFbUqZnrVqFy%2FJNslNhOXeb8CQX2KQnzH0mFvh&G=3D0&R=3Dhttps%3A%2=
+F%2FJBPGGYZTANA.hatchbuck.com%2FTrackLinkClick%3FID2%3DQfMkzbyCWzgy0njW0t=
+DAbCoL2Kdiiudtato8_exO6E4HenOWPMIZnmDhvT1CqjCT0&I=3D20220916200020.000000=
+7c04dd%40smtp-ad1-46-phx&X=3DMHwxMjY0OTIyOjI3NzE1MTI3OTg7MXwxMjY0OTIzOjIz=
+ODgxODkyMTs%3D&V=3D3&S=3DH_rPkRYghgqDEdNEoWeOdMgPD_neBON0exFtDJVfXoo>=20
+
+
+
+LWSD supports Spanish-speaking families through local partnership
+
+Weekly Spanish bulletin provides families =
+with=E2=80=AFculturally-relevant=E2=80=AFdistrict news=20
+Lake Washington School District (LWSD) =
+has=E2=80=AFjoined=E2=80=AFforces=E2=80=AFwith=E2=80=AFthe Lake =
+Washington Schools Foundation, Bellevue School District, Bellevue =
+Schools Foundation, Eastside Pathways and Equity in Communication =
+Collaborative Action Network,=E2=80=AFas part of the Remote Learning and =
+Living Collective Action Network=E2=80=AF(now known as the Equity in =
+Communication Collaborative Action Network), convened =
+by=E2=80=AFEastside Pathways.=E2=80=AFThe partnership was =
+formed=E2=80=AFwith a shared goal of better supporting our community =
+of=E2=80=AFSpanish-speaking and Latinx families through thoughtful =
+and=E2=80=AFculturally-relevant communications.
+Produced weekly, the video newsletter provides more equitable access to =
+district information, allowing families to support their =
+students.=E2=80=AFProject partners are looking forward to continuing =
+this work, finding new ways to support and engage families and having a =
+positive impact on the Latinx community.=E2=80=AF
+
+=20
+
+Check out the Noticias en espa=C3=B1ol para familias de BSD y LWSD =
+Facebook page =
+<http://link.email.dynect.net/link.php?DynEngagement=3Dtrue&H=3DZMyLy4zTj=
+FwvNxIiQxXYz7fICs325Rzf11BKq8bXyh%2F55Q8PbcAMCQLvlvNulLpdxHMqvH5TL7dnKsnZ=
+iG6p%2BHoYliIFbUqZnrVqFy%2FJNslNhOXeb8CQX2KQnzH0mFvh&G=3D0&R=3Dhttps%3A%2=
+F%2FJBPGGYZTANA.hatchbuck.com%2FTrackLinkClick%3FID2%3DtkGI7EC0N_j59uWJKZ=
+bQeRA9GO0___wVu-4u8o3OAsq_M9eafhOPfK0WXoibNs0A0&I=3D20220916200020.000000=
+7c04dd%40smtp-ad1-46-phx&X=3DMHwxMjY0OTIyOjI3NzE1MTI3OTg7MXwxMjY0OTIzOjIz=
+ODgxODkyMTs%3D&V=3D3&S=3DrCwRssQf8rHga9NGHKvnkgo1Ofg_9tminkGo4nUykIQ> .
+
+=20
+
+Videos are also posted on the LWSD website =
+<http://link.email.dynect.net/link.php?DynEngagement=3Dtrue&H=3DZMyLy4zTj=
+FwvNxIiQxXYz7fICs325Rzf11BKq8bXyh%2F55Q8PbcAMCQLvlvNulLpdxHMqvH5TL7dnKsnZ=
+iG6p%2BHoYliIFbUqZnrVqFy%2FJNslNhOXeb8CQX2KQnzH0mFvh&G=3D0&R=3Dhttps%3A%2=
+F%2FJBPGGYZTANA.hatchbuck.com%2FTrackLinkClick%3FID2%3DGFuSxZbZIATJv4S6ih=
+q8xVe8IRZBiYAg4RmccnZxLIodYrWv1md0Vq8pAYvidL_U0&I=3D20220916200020.000000=
+7c04dd%40smtp-ad1-46-phx&X=3DMHwxMjY0OTIyOjI3NzE1MTI3OTg7MXwxMjY0OTIzOjIz=
+ODgxODkyMTs%3D&V=3D3&S=3DrIkfc-sPbMRmsEeFuhsM2yXbHfxuGJZrcbP2blHibk0> .
+
+
+
+Reminder: 988 Suicide and Crisis Lifeline
+
+On July 16, 2022, the country transitioned to using the 988 dialing =
+code. It is a once-in-a-lifetime opportunity to strengthen and expand =
+the existing National Suicide Prevention Lifeline and change how crisis =
+services are delivered nationwide.=20
+
+=20
+
+988 is more than just an easy-to-remember number. It is a direct =
+connection to compassionate, accessible care and support for anyone =
+experiencing mental health related distress. Whether that is thoughts of =
+suicide, symptoms of mental illness or substance use disorder or other =
+factors. People can also dial 988 if they are worried about a loved one =
+who may need these types of crisis supports.
+
+
+
+Reminder: District tip line
+
+Safety is one of our district=E2=80=99s top priorities. To keep our =
+school community safe, our district uses Vector Alert, a tip reporting =
+service that allows students, staff and parents to submit safety =
+concerns to our administration five different ways:
+
+1.	App:    Search for =E2=80=9CVector Alert=E2=80=9D in the App Store to =
+download for free=20
+2.	Phone: 425.529.5763=20
+3.	Text:    Text your tip to 425.529.5763=20
+4.	Email:  1342@alert1.us=20
+5.	Web:    http://1342.alert1.us
+
+If an administrator is not nearby or available to take your tip, you and =
+your child can easily report tips on bullying, harassment, drugs, =
+vandalism, threats of violence or any safety issue you're concerned =
+about through Vector Alert. When you submit a tip, be sure to use our =
+district=E2=80=99s identification code: 1342 in your communication.
+
+=20
+
+Every tip Vector Alert receives about our district is immediately logged =
+in the system and our administration is notified so that they can =
+investigate and take appropriate action. And, tips may also be submitted =
+anonymously if you prefer.
+
+=20
+
+Together, using Vector Alert, we can make our district a safer place to =
+work and learn! Thanks in advance for your support.
+
+
+
+
+  =
+<https://s3.hatchbuck.com/TemplateImage/693bd3dcc404a324d6bc5eb3bc003b308=
+354f0886af7b7813040dd488011984b.jpg>  District Announcements
+
+
+
+  =
+<https://s3.hatchbuck.com/TemplateImage/09c88908208d092e6019347f22cd0c485=
+6ae31fab0126985e858a614770fa0ff.png> Register your child for a Kids =
+Coming Together event!=20
+
+Kids Coming Together is a program that provides opportunities for local =
+youth in grades 3-8 to make new friends and connect with their community =
+through service events led by high school students. Register for =
+upcoming events =
+<http://link.email.dynect.net/link.php?DynEngagement=3Dtrue&H=3DZMyLy4zTj=
+FwvNxIiQxXYz7fICs325Rzf11BKq8bXyh%2F55Q8PbcAMCQLvlvNulLpdxHMqvH5TL7dnKsnZ=
+iG6p%2BHoYliIFbUqZnrVqFy%2FJNslNhOXeb8CQX2KQnzH0mFvh&G=3D0&R=3Dhttps%3A%2=
+F%2FJBPGGYZTANA.hatchbuck.com%2FTrackLinkClick%3FID2%3DZ5vTTMLbXVD3GqQqpl=
+pHCWlEl9kNDwwVk-mbH7zAGKJchy7U-0Ykq8CveBdpF26E0&I=3D20220916200020.000000=
+7c04dd%40smtp-ad1-46-phx&X=3DMHwxMjY0OTIyOjI3NzE1MTI3OTg7MXwxMjY0OTIzOjIz=
+ODgxODkyMTs%3D&V=3D3&S=3DjdEw-DthAc95thyvw3vvNIgMRVvrXZA-CxR8GQPqgNU> :=20
+
+*	September 22: Invasive Species Removal=20
+*	September 27: Legos for Eastside Baby Corner=20
+
+
+
+  =
+<https://s3.hatchbuck.com/TemplateImage/16b3294bed9602779cb6a9e000ffd815e=
+39ed6930373c806c5097814991e8086.jpg> Building inclusive library =
+collections in our schools - LWSF update=20
+
+Over 4,000 students in seven schools have already benefited from Lake =
+Washington School Foundation=E2=80=99s five-year grant commitment =
+<http://link.email.dynect.net/link.php?DynEngagement=3Dtrue&H=3DZMyLy4zTj=
+FwvNxIiQxXYz7fICs325Rzf11BKq8bXyh%2F55Q8PbcAMCQLvlvNulLpdxHMqvH5TL7dnKsnZ=
+iG6p%2BHoYliIFbUqZnrVqFy%2FJNslNhOXeb8CQX2KQnzH0mFvh&G=3D0&R=3Dhttps%3A%2=
+F%2FJBPGGYZTANA.hatchbuck.com%2FTrackLinkClick%3FID2%3DSYJ-v5YTeBlvfCEadT=
+d_LQicc2FIsv0to-nNtdbZxbQSvpDqn1oTNDJ-8cbzV-w80&I=3D20220916200020.000000=
+7c04dd%40smtp-ad1-46-phx&X=3DMHwxMjY0OTIyOjI3NzE1MTI3OTg7MXwxMjY0OTIzOjIz=
+ODgxODkyMTs%3D&V=3D3&S=3DA5mKS1WmmKXZ9dovZiYNiV_KaPrPyTY9fWaFlrOaeeI>  =
+to increase the diversity of library collections across the district. In =
+the grant=E2=80=99s first year (2021-22), a total of 1,120 books were =
+purchased for:
+
+*	Alcott Elementary
+*	AG Bell Elementary
+*	Ben Franklin Elementary
+*	John Muir Elementary
+*	Inglewood Middle School
+*	International Community School, and=20
+*	Kirkland Middle School.=20
+
+Each book was carefully selected and purchased based on the needs =
+identified in the diversity audit of each school=E2=80=99s library =
+collection.=20
+
+=20
+
+This year, students at 13 additional schools will benefit from the =
+program! Watch this short clip =
+<http://link.email.dynect.net/link.php?DynEngagement=3Dtrue&H=3DZMyLy4zTj=
+FwvNxIiQxXYz7fICs325Rzf11BKq8bXyh%2F55Q8PbcAMCQLvlvNulLpdxHMqvH5TL7dnKsnZ=
+iG6p%2BHoYliIFbUqZnrVqFy%2FJNslNhOXeb8CQX2KQnzH0mFvh&G=3D0&R=3Dhttps%3A%2=
+F%2FJBPGGYZTANA.hatchbuck.com%2FTrackLinkClick%3FID2%3Di9hINRc_yyAvf_VLJ7=
+Nia6Cmicf95MPXi_VLjg4Pxjz7DcJL7aWmoka13s1KUnnX0&I=3D20220916200020.000000=
+7c04dd%40smtp-ad1-46-phx&X=3DMHwxMjY0OTIyOjI3NzE1MTI3OTg7MXwxMjY0OTIzOjIz=
+ODgxODkyMTs%3D&V=3D3&S=3D3cJWDr4iT6AzkcB3wuUi1Irrbz3TDpfuOqa7oV1_2Pw>  =
+where Cathy Webb, librarian at Mark Twain Elementary, explains the =
+importance of students being able to see themselves and their peers =
+reflected in school library collections.
+
+
+
+Mentors needed for local students =20
+
+Become a Lunch Buddy mentor and make a difference in the life of a local =
+elementary school student. The LINKS Lunch Buddy Program is seeking =
+volunteers to mentor young students in Kirkland, Redmond and Sammamish. =
+Give 45 minutes of your time each week to enjoy fun games and crafts, =
+and to talk with a student who could really benefit from some extra =
+social-emotional support at school.=20
+
+=20
+
+To learn about the process and how to apply, visit www.lwsd.org/links =
+<http://link.email.dynect.net/link.php?DynEngagement=3Dtrue&H=3DZMyLy4zTj=
+FwvNxIiQxXYz7fICs325Rzf11BKq8bXyh%2F55Q8PbcAMCQLvlvNulLpdxHMqvH5TL7dnKsnZ=
+iG6p%2BHoYliIFbUqZnrVqFy%2FJNslNhOXeb8CQX2KQnzH0mFvh&G=3D0&R=3Dhttps%3A%2=
+F%2FJBPGGYZTANA.hatchbuck.com%2FTrackLinkClick%3FID2%3DtA0BcG43HCTDk-YiQB=
+iOhY6jMSaB9Fl4pAwN_yH3zkisdLlTrnxkVkB__zTHi5RY0&I=3D20220916200020.000000=
+7c04dd%40smtp-ad1-46-phx&X=3DMHwxMjY0OTIyOjI3NzE1MTI3OTg7MXwxMjY0OTIzOjIz=
+ODgxODkyMTs%3D&V=3D3&S=3DMJJNdMIxnC65zvBzGe6EZ6epsNxE1zlK5c9nOrfGAyI> . =
+Please contact Victoria Goetze-Nelson at vgoetzenelson@lwsd.org =
+<mailto:vgoetzenelson@lwsd.org>  or call 425-936-1410 if you have any =
+questions. Mentor training and support will be provided.=20
+
+
+
+ =
+<http://link.email.dynect.net/link.php?DynEngagement=3Dtrue&H=3DZMyLy4zTj=
+FwvNxIiQxXYz7fICs325Rzf11BKq8bXyh%2F55Q8PbcAMCQLvlvNulLpdxHMqvH5TL7dnKsnZ=
+iG6p%2BHoYliIFbUqZnrVqFy%2FJNslNhOXeb8CQX2KQnzH0mFvh&G=3D0&R=3Dhttps%3A%2=
+F%2FJBPGGYZTANA.hatchbuck.com%2FTrackLinkClick%3FID2%3DrRDyyKsH2YQTKGIHX_=
+RMe8X5-yv3pjYgzsSQ_MwC1OMcfKUUq5nH2kfjUPVmSyNz0&I=3D20220916200020.000000=
+7c04dd%40smtp-ad1-46-phx&X=3DMHwxMjY0OTIyOjI3NzE1MTI3OTg7MXwxMjY0OTIzOjIz=
+ODgxODkyMTs%3D&V=3D3&S=3D3tzc3ueB3qMnzYgbSOVbF_N5sjGLKxCxFxhA__QPw8U> =
+Reminder: Teen Startup event application deadline=20
+
+The LWSD Teen Startup Challenge is designed to promote student startup =
+ideas and venture creation. The challenge provides the opportunity for =
+high school students to win prizes and learn from local business =
+leaders. Finalists will present their ideas and business plans and =
+receive invaluable feedback from successful professionals. The =
+application deadline for this event is midnight on October 3, 2022. =
+Visit www.lwsd.org/teen-startup =
+<http://link.email.dynect.net/link.php?DynEngagement=3Dtrue&H=3DZMyLy4zTj=
+FwvNxIiQxXYz7fICs325Rzf11BKq8bXyh%2F55Q8PbcAMCQLvlvNulLpdxHMqvH5TL7dnKsnZ=
+iG6p%2BHoYliIFbUqZnrVqFy%2FJNslNhOXeb8CQX2KQnzH0mFvh&G=3D0&R=3Dhttps%3A%2=
+F%2FJBPGGYZTANA.hatchbuck.com%2FTrackLinkClick%3FID2%3DrRDyyKsH2YQTKGIHX_=
+RMe8X5-yv3pjYgzsSQ_MwC1OMcfKUUq5nH2kfjUPVmSyNz0&I=3D20220916200020.000000=
+7c04dd%40smtp-ad1-46-phx&X=3DMHwxMjY0OTIyOjI3NzE1MTI3OTg7MXwxMjY0OTIzOjIz=
+ODgxODkyMTs%3D&V=3D3&S=3D3tzc3ueB3qMnzYgbSOVbF_N5sjGLKxCxFxhA__QPw8U>  =
+to learn more about this event.
+
+
+
+
+  =
+<https://s3.hatchbuck.com/TemplateImage/54aeea86a376336d31608908a2036ba7f=
+af1611cc6443358c737fe310736fb73.jpg>  Building on Success
+
+
+
+Building on Success is Lake Washington School District's long-term plan =
+to reduce overcrowding, accommodate growing enrollment, and continue to =
+provide quality learning environments and experiences for our students.=20
+
+
+
+Summer construction update
+
+Thanks to our voters, LWSD construction teams have been busy this =
+summer. Most of the summer construction projects were completed with a =
+few finishing up in the next few weeks. All of these projects will give =
+our students the space they need to thrive and be future ready. Below is =
+an overview of the summer construction and project planning for the =
+upcoming school year.=20
+=20
+
+  =
+<https://s3.hatchbuck.com/TemplateImage/0821958acbf106a4bd460d4fbb45ca70c=
+dc2544b09c77aa92a1eae8fff3fcbc6.JPG>=20
+
+=E2=80=8BNew addition at Carson Elementary
+=20
+
+2019 Construction Levy projects
+
+Projects to provide additional capacity are ready for students and =
+staff. Rachel Carson Elementary now has four new classrooms to =
+accommodate the community=E2=80=99s growing number of students. Mark =
+Twain Elementary=E2=80=99s new gym was ready for the first day of =
+school. Students attending Rose Hill Elementary enjoyed using their new =
+commons expansion on their first day. Ben Franklin=E2=80=99s new =
+gymnasium is scheduled to open to students on Monday, September 19.=20
+
+=20
+
+  =
+<https://s3.hatchbuck.com/TemplateImage/c7b1c1608c220ee12d1970c79a32ccbba=
+7944d79c5e3c2b2fe5dae781344b665.jpg>=20
+
+New gym at Twain Elementary
+=20
+
+2018 School Technology and Capital Projects Levy
+
+There are many facility projects that were completed this summer under =
+the 2018 school technology and capital projects levy:=20
+
+1.	Eastlake High School (EHS) classroom conversions (addition three =
+classrooms)=20
+2.	Traffic flow enhancements at EHS
+3.	Parking and traffic flow enhancements at Juanita Elementary School=20
+4.	Special Services projects at multiple sites=20
+5.	Space conversions/enhancements at Redmond High School
+6.	Flooring improvements at Twain Elementary School=20
+7.	Roofing improvements at the Juanita High School (JHS) Fieldhouse
+8.	Roofing improvement at Inglewood Middle School
+9.	ADA upgrades at Bell Elementary School
+10.	Security system upgrade at Rockwell Elementary School
+11.	Security system upgrade at Dickinson Elementary School
+
+2022 School Technology and Capital Projects Levy
+
+Project planning is underway for the 2022-23 year to include:=20
+
+1.	Water bottle filling stations district-wide
+2.	Tennis court upgrade at Redmond Middle School
+3.	Tennis court upgrade at Rose Hill Middle School
+4.	Traffic flow enhancements at Audubon Elementary School
+5.	Parking lot upgrades at Juanita High School
+6.	Parking lot pavement replacement at SSC-Transportation Bus Lot
+7.	Pool upgrades at Juanita High School
+8.	Intercom upgrades at Wilder Elementary School
+9.	Intercom upgrades at McAuliffe Elementary School
+10.	Classroom conversions at multiple sites
+11.	Roofing improvements at multiple sites
+12.	Flooring improvements at multiple sites
+13.	Field and track upgrades at Inglewood Middle School
+14.	Stadium field and track upgrade at Lake Washington High School
+
+=20
+
+2022 Building Excellence Construction Levy
+
+Design and permitting is underway for the upcoming projects which will =
+provide critical capacity and reduce overcrowding:=20
+
+1.	Eight classroom addition at Kirkland Middle School
+2.	Eight classroom addition at Finn Hill Middle School=20
+3.	Eight classroom addition at Redmond Middle School=20
+4.	New Redmond Elementary School on Redmond Elementary School Campus=20
+5.	New High School Capacity - Eastside (Sammamish)=20
+
+
+
+
+  =
+<https://s3.hatchbuck.com/TemplateImage/2b245818ee1f9e3a03863babe7c4e5acd=
+9ab87585febd743d707a6ffa2f6ca5c.png>  Student & Staff Success
+
+
+
+  =
+<https://s3.hatchbuck.com/TemplateImage/6232357aa838ea6f849ab3747a96e2889=
+368515d111418d14f2c75fb995fc37c.jpg> Health first =E2=80=93 LWSD =
+students place in top ten at national health professionals competition
+
+Lake Washington School District students have a lot to be proud of. =
+These students recently traveled to Nashville, Tenn. for the HOSA =
+=E2=80=93 Future Health Professionals International Leadership =
+Conference and finished in the top ten. Students from all over the world =
+participate in competitive events, educational seminars, networking and =
+more during the four-day conference. Read more about this on the LWSD =
+website =
+<http://link.email.dynect.net/link.php?DynEngagement=3Dtrue&H=3DZMyLy4zTj=
+FwvNxIiQxXYz7fICs325Rzf11BKq8bXyh%2F55Q8PbcAMCQLvlvNulLpdxHMqvH5TL7dnKsnZ=
+iG6p%2BHoYliIFbUqZnrVqFy%2FJNslNhOXeb8CQX2KQnzH0mFvh&G=3D0&R=3Dhttps%3A%2=
+F%2FJBPGGYZTANA.hatchbuck.com%2FTrackLinkClick%3FID2%3DC9Fw-WV-C-sZ6a9ApM=
+7vkAY_JaGDsT7PStDtu7Glrox2yVtNlektSrUW1Ilw7EbK0&I=3D20220916200020.000000=
+7c04dd%40smtp-ad1-46-phx&X=3DMHwxMjY0OTIyOjI3NzE1MTI3OTg7MXwxMjY0OTIzOjIz=
+ODgxODkyMTs%3D&V=3D3&S=3DjKaUHoYklpBP5C0l6SiyshM-HQ0xIu7Vx4RFrsCzygo> .=20
+
+
+
+
+  =
+<https://s3.hatchbuck.com/MediaFiles/ba378066e8d9d6532b4a341447b29a2df049=
+d72b1a74bd07f2084288a76cb6bb.png> =09
+
+
+ =
+<http://link.email.dynect.net/link.php?DynEngagement=3Dtrue&H=3DZMyLy4zTj=
+FwvNxIiQxXYz7fICs325Rzf11BKq8bXyh%2F55Q8PbcAMCQLvlvNulLpdxHMqvH5TL7dnKsnZ=
+iG6p%2BHoYliIFbUqZnrVqFy%2FJNslNhOXeb8CQX2KQnzH0mFvh&G=3D0&R=3Dhttps%3A%2=
+F%2FJBPGGYZTANA.hatchbuck.com%2FTrackLinkClick%3FID2%3Djvy92GqRQTPV99FP_y=
+_2J3kYHSQv_RzX_3uOB6IVHMSQFAiGL4dzRiIDQCHSGhlo0&I=3D20220916200020.000000=
+7c04dd%40smtp-ad1-46-phx&X=3DMHwxMjY0OTIyOjI3NzE1MTI3OTg7MXwxMjY0OTIzOjIz=
+ODgxODkyMTs%3D&V=3D3&S=3Dq0PwJr365UrfuReXlZYpnbemkFmYXz5hvesSt-XueWA> 	 =
+<http://link.email.dynect.net/link.php?DynEngagement=3Dtrue&H=3DZMyLy4zTj=
+FwvNxIiQxXYz7fICs325Rzf11BKq8bXyh%2F55Q8PbcAMCQLvlvNulLpdxHMqvH5TL7dnKsnZ=
+iG6p%2BHoYliIFbUqZnrVqFy%2FJNslNhOXeb8CQX2KQnzH0mFvh&G=3D0&R=3Dhttps%3A%2=
+F%2FJBPGGYZTANA.hatchbuck.com%2FTrackLinkClick%3FID2%3DpvDb6l9vibwikTx951=
+4q8j_Zxcwhq9cQQcyEEC5WVQULV7t1pJFGP44Te9SZeXZR0&I=3D20220916200020.000000=
+7c04dd%40smtp-ad1-46-phx&X=3DMHwxMjY0OTIyOjI3NzE1MTI3OTg7MXwxMjY0OTIzOjIz=
+ODgxODkyMTs%3D&V=3D3&S=3D3WUtbY1pXV-gsBFMW2wWySj5YYz8nJMDl9PhRLWr_wI> 	 =
+<http://link.email.dynect.net/link.php?DynEngagement=3Dtrue&H=3DZMyLy4zTj=
+FwvNxIiQxXYz7fICs325Rzf11BKq8bXyh%2F55Q8PbcAMCQLvlvNulLpdxHMqvH5TL7dnKsnZ=
+iG6p%2BHoYliIFbUqZnrVqFy%2FJNslNhOXeb8CQX2KQnzH0mFvh&G=3D0&R=3Dhttps%3A%2=
+F%2FJBPGGYZTANA.hatchbuck.com%2FTrackLinkClick%3FID2%3Dd6Wan0GD3aSXEoCTf-=
+9v5abmAQ-YjvmjNkoYCczW18FOYwgowkrCPvOtW0zKvZpV0&I=3D20220916200020.000000=
+7c04dd%40smtp-ad1-46-phx&X=3DMHwxMjY0OTIyOjI3NzE1MTI3OTg7MXwxMjY0OTIzOjIz=
+ODgxODkyMTs%3D&V=3D3&S=3DsfLofT6hxuEeLfQJi3CkB5TaMos-nw3h7WZPVEcrupM> 	 =
+<http://link.email.dynect.net/link.php?DynEngagement=3Dtrue&H=3DZMyLy4zTj=
+FwvNxIiQxXYz7fICs325Rzf11BKq8bXyh%2F55Q8PbcAMCQLvlvNulLpdxHMqvH5TL7dnKsnZ=
+iG6p%2BHoYliIFbUqZnrVqFy%2FJNslNhOXeb8CQX2KQnzH0mFvh&G=3D0&R=3Dhttps%3A%2=
+F%2FJBPGGYZTANA.hatchbuck.com%2FTrackLinkClick%3FID2%3DWD_9OAVqJm1PSl5OM2=
+immleIvnxXOYQi49npITJGL9xOX9oW5E336V0rvw_R1JPh0&I=3D20220916200020.000000=
+7c04dd%40smtp-ad1-46-phx&X=3DMHwxMjY0OTIyOjI3NzE1MTI3OTg7MXwxMjY0OTIzOjIz=
+ODgxODkyMTs%3D&V=3D3&S=3DcjU3UjjzN6bg-mfs364UvAXjjsSDnsWOQUxlO51Yh9k> 	 =
+<http://link.email.dynect.net/link.php?DynEngagement=3Dtrue&H=3DZMyLy4zTj=
+FwvNxIiQxXYz7fICs325Rzf11BKq8bXyh%2F55Q8PbcAMCQLvlvNulLpdxHMqvH5TL7dnKsnZ=
+iG6p%2BHoYliIFbUqZnrVqFy%2FJNslNhOXeb8CQX2KQnzH0mFvh&G=3D0&R=3Dhttps%3A%2=
+F%2FJBPGGYZTANA.hatchbuck.com%2FTrackLinkClick%3FID2%3Do5ikRLArDgXUunwkVH=
+2wm1vB7XaJ2r_1PuRMagS2ZFzYBmS0pI7k5jfg2kYpKg840&I=3D20220916200020.000000=
+7c04dd%40smtp-ad1-46-phx&X=3DMHwxMjY0OTIyOjI3NzE1MTI3OTg7MXwxMjY0OTIzOjIz=
+ODgxODkyMTs%3D&V=3D3&S=3DxQSNdKlNU3UG7ZgpTUXmWJ2kdG_6zrxRzo9MKtvCLDs> =09
+
+
+
+  =
+<https://s3.hatchbuck.com/MediaFiles/ba378066e8d9d6532b4a341447b29a2df049=
+d72b1a74bd07f2084288a76cb6bb.png> =09
+
+
+Lake Washington School District | 16250 NE 74th St | Redmond, WA 98052
+
+
+Unsubscribe =
+<http://link.email.dynect.net/link.php?DynEngagement=3Dtrue&H=3DZMyLy4zTj=
+FwvNxIiQxXYz7fICs325Rzf11BKq8bXyh%2F55Q8PbcAMCQLvlvNulLpdxHMqvH5TL7dnKsnZ=
+iG6p%2BHoYliIFbUqZnrVqFy%2FJNslNhOXeb8CQX2KQnzH0mFvh&G=3D0&R=3Dhttps%3A%2=
+F%2Fk12edition.hatchbuck.com%2FSignUp%2FUnsubscribe%3Fid%3DjA6nIa2fgBoSfI=
+P6yduRLLX5pp44wbBXdfOQ4hOxxDJSM2x2Bq6345AJXbXO5PM60&I=3D20220916200020.00=
+00007c04dd%40smtp-ad1-46-phx&X=3DMHwxMjY0OTIyOjI3NzE1MTI3OTg7MXwxMjY0OTIz=
+OjIzODgxODkyMTs%3D&V=3D3&S=3DSLqbp1wRGCDoGfDRaEoEGTyjtOeXJGtzuL6mEpoG5AE>=
+  | Report Spam
+
+  =
+<https://jxiy7h.img.hatchbuckinbox.com/TrackOpenEmail?ID=3D8iG673v7vH9o2M=
+5ojOVWYKxrNuVNq8H02zUPsvp84o9TtmvnQeEaVdrh8FlnYCe_0>=20
+
+
+------=_NextPart_000_023A_01D96D65.18E95690
+Content-Type: text/html;
+	boundary="----=_NextPart_000_0352_01D8DA3A.58F9BDB0";
+	charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+<html><head>
+<META HTTP-EQUIV=3D"Content-Type" CONTENT=3D"text/html; =
+charset=3DUTF-8">
+</head><body dir=3D"auto"><br><br><div =
+dir=3D"ltr"><div>Thanks,</div><div>Sumita</div><div><br></div></div><div =
+dir=3D"ltr"><br>Begin forwarded message:<br><br></div><blockquote =
+type=3D"cite"><div dir=3D"ltr"><b>From:</b> LWSD Communications =
+&lt;communications@lwsd.org&gt;<br><b>Date:</b> September 16, 2022 at =
+1:00:22 PM PDT<br><b>To:</b> sumita_chauhan@yahoo.com<br><b>Subject:</b> =
+<b>LWSD Connections - September 16, 2022: Happy first day of school and =
+more!</b><br><br></div></blockquote><blockquote type=3D"cite"><div =
+dir=3D"ltr">=EF=BB=BF<meta charset=3D"utf-8"><meta name=3D"viewport" =
+content=3D"width=3Ddevice-width, initial-scale=3D1"><meta =
+http-equiv=3D"X-UA-Compatible" content=3D"IE=3Dedge"><!--[if (mso 12) | =
+(gte mso 14) |(IE)]><style =
+type=3D"text/css">table.responsive-table{padding:0px; border:none; =
+width: 100% !important;}table.responsive-table > tbody {display: =
+table;width: 100% !important;}table.responsive-table > tbody > tr > td =
+{display: block;width: 100% !important;}.row-button{padding-top:0px =
+!important;padding-bottom:10px !important;}</style><![endif]--><!--[if =
+gte mso =
+9]><xml><o:OfficeDocumentSettings><o:AllowPNG/><o:PixelsPerInch>96</o:Pix=
+elsPerInch></o:OfficeDocumentSettings></xml><![endif]--><!--[if =
+mso]><center><tr><td><table border=3D"0" cellpadding=3D"0" =
+cellspacing=3D"0" width=3D"600"><![endif]--><table width=3D"100%" =
+style=3D"border:0px solid #E3E3E3; background-color:#ffffff;padding:0px; =
+width:100%; border:none;"><tbody><tr><td><table align=3D"center" =
+class=3D"responsive-table" width=3D"600" style=3D"margin: 0px =
+auto;"><tbody><tr><td><div class=3D"email-body" width=3D"600" =
+style=3D"background-color: #ffffff; border-collapse: collapse; width: =
+600px; margin: 0px auto;"><table align=3D"center" height=3D"100%" =
+width=3D"100%" class=3D"responsive-table section" style=3D"margin: 0px; =
+max-width: 600px; border-collapse: collapse; background-color: #ffffff; =
+border-spacing: 0px;" id=3D"sectionId-0"><tbody><tr =
+class=3D"section-td"><th align=3D"left" class=3D"column" =
+style=3D"margin: 0px; min-height: 1px; padding: 0px; border-collapse: =
+collapse; vertical-align: top; width: 600px; max-width: 100%;" =
+id=3D"columnId-00" width=3D"600"><table width=3D"100%" =
+style=3D"width:100%; min-width:100%; table-layout:fixed;" =
+cellpadding=3D"0" cellspacing=3D"0"><tbody><tr><td class=3D"column-td" =
+style=3D"padding: 0px;"><table class=3D"responsive-table" =
+cellpadding=3D"0" cellspacing=3D"0" style=3D"width:100%; min-width:100%; =
+table-layout:fixed;"><tbody><tr><td class=3D"block" =
+style=3D"background-color: transparent; margin: 0px; word-break: normal; =
+padding: 10px 10px 0px;"><h2 style=3D"text-align: center; color: =
+#f08622; font-family: Arial; font-size: 20px; line-height: normal; =
+font-weight: bold; font-style: normal; text-decoration: none; =
+margin-top: 0px; margin-bottom: 0px; word-break: normal; display: =
+block;" class=3D"mFont20"><a =
+href=3D"http://link.email.dynect.net/link.php?DynEngagement=3Dtrue&amp;H=3D=
+ZMyLy4zTjFwvNxIiQxXYz7fICs325Rzf11BKq8bXyh%2F55Q8PbcAMCQLvlvNulLpdxHMqvH5=
+TL7dnKsnZiG6p%2BHoYliIFbUqZnrVqFy%2FJNslNhOXeb8CQX2KQnzH0mFvh&amp;G=3D0&a=
+mp;R=3Dhttps%3A%2F%2FJBPGGYZTANA.hatchbuck.com%2FTrackLinkClick%3FID2%3Do=
+TSbP3ReaR0QQD9bfn7b29hDCnar3TSZzAUhAPVoQGediGvQMTdLO7BldvrK9-Uh0&amp;I=3D=
+20220916200020.0000007c04dd%40smtp-ad1-46-phx&amp;X=3DMHwxMjY0OTIyOjI3NzE=
+1MTI3OTg7MXwxMjY0OTIzOjIzODgxODkyMTs%3D&amp;V=3D3&amp;S=3Dne5USpBMQhw4zHj=
+YE_zwWwyK2GQBCcnbotIBTi_ASdQ" style=3D"color: #3c79af; text-decoration: =
+none; margin-top: 0px; margin-bottom: 0px; word-break: normal; display: =
+inline;"><span style=3D"font-size: 12px; text-decoration: none;">Read =
+the website accessible version here</span></a></h2>
+</td></tr></tbody></table></td></tr></tbody></table><table =
+class=3D"responsive-table" cellpadding=3D"0" cellspacing=3D"0" =
+width=3D"100%" style=3D"width:100%; =
+border-collapse:collapse;"><tbody><tr><td =
+style=3D"padding:0px;border-collapse:collapse; box-sizing:border-box;" =
+width=3D"600"><table width=3D"100%" cellpadding=3D"0" cellspacing=3D"0" =
+style=3D"width:100%; min-width:100%; =
+table-layout:fixed;"><tbody><tr></tr><tr><td class=3D"col-left =
+column-td" width=3D"100%" align=3D"left" style=3D"width: 100%; display: =
+block; float: left; overflow: hidden;"><table align=3D"left" =
+class=3D"responsive-table" cellpadding=3D"0" cellspacing=3D"0" =
+style=3D"line-height: 0px; width: 600px; height: auto; margin: 0px auto; =
+top: 0px; overflow: hidden; padding: 0px; text-align: center; display: =
+block;"><tbody><tr><td class=3D"" style=3D"padding: 0px; box-sizing: =
+border-box; width: 600px;"><div class=3D"responsive-table" =
+style=3D"height: auto; overflow: hidden; display: block; text-align: =
+center; border: 0px solid #cecece; margin: 0px; word-break: normal; =
+padding: 0px; box-sizing: border-box;"><!--[if (mso) | (IE)]><div =
+class=3D"responsive-table" style=3D"height:138px;width:600px;"><img =
+src=3D"https://s3.hatchbuck.com/TemplateImage/202d251ce37beb2e195f1a89e76=
+d8f7167e6794ce59f63a592bc576991358d86.jpg" height=3D"138" width=3D"600" =
+style=3D"height:138px;width:600px;"/></div><![endif]--><!--[if =
+!mso]><!--><div class=3D"responsive-table" style=3D"height: auto; =
+display: block;"><img =
+src=3D"https://s3.hatchbuck.com/TemplateImage/202d251ce37beb2e195f1a89e76=
+d8f7167e6794ce59f63a592bc576991358d86.jpg" alt=3D"Connections" =
+style=3D"width: 600px; max-width: 100%; margin: 0px; top: 0px; left: =
+0px;" class=3D"full-width-images" width=3D"600" align=3D"center" =
+border=3D"0" max-width=3D"100%" margin=3D"0" top=3D"0" =
+data-unique-identifier=3D""></div><!--<![endif]--></div></td></tr></tbody=
+></table></td></tr><tr></tr></tbody></table></td></tr></tbody></table></t=
+h></tr></tbody></table><table align=3D"center" height=3D"100%" =
+width=3D"100%" class=3D"responsive-table section" style=3D"margin: 0px; =
+max-width: 600px; border-collapse: collapse; background-color: #ffffff; =
+border-spacing: 0px;" id=3D"sectionId-1"><tbody><tr =
+class=3D"section-td"><th align=3D"left" class=3D"column" =
+style=3D"margin: 0px; min-height: 1px; padding: 0px; border-collapse: =
+collapse; vertical-align: top; width: 600px; max-width: 100%;" =
+id=3D"columnId-10" width=3D"600"><table width=3D"100%" =
+style=3D"width:100%; min-width:100%; table-layout:fixed;" =
+cellpadding=3D"0" cellspacing=3D"0"><tbody><tr><td class=3D"column-td" =
+align=3D"center" style=3D"padding: 5px; border: none;"><table =
+class=3D"responsive-table" cellpadding=3D"0" cellspacing=3D"0" =
+style=3D"width:100%; min-width:100%; table-layout:fixed;"><tbody><tr><td =
+class=3D"block" style=3D"background-color: transparent; margin: 5px; =
+word-break: normal; padding: 10px; border: none;"><h2 =
+style=3D"text-align: right; color: #f08622; font-family: Arial; =
+font-size: 20px; line-height: normal; font-weight: bold; font-style: =
+normal; text-decoration: none; margin-top: 0px; margin-bottom: 0px; =
+word-break: normal; display: block;" class=3D"mFont20"><span =
+style=3D"color:#f08622">September 16, 2022</span></h2>
+</td></tr></tbody></table></td></tr></tbody></table><table =
+width=3D"100%" style=3D"width:100%; min-width:100%; table-layout:fixed;" =
+cellpadding=3D"0" cellspacing=3D"0"><tbody><tr><td class=3D"column-td" =
+align=3D"center" style=3D"padding: 5px; border: none;"><table =
+class=3D"responsive-table" cellpadding=3D"0" cellspacing=3D"0" =
+style=3D"width:100%; min-width:100%; table-layout:fixed;"><tbody><tr><td =
+class=3D"block" style=3D"background-color: transparent; margin: 5px; =
+word-break: normal; padding: 10px; border: none;"><p =
+style=3D"text-align: left; color: #000000; font-family: Arial; =
+font-size: 16px; line-height: normal; font-weight: normal; font-style: =
+normal; text-decoration: none; margin-top: 0px; margin-bottom: 0px; =
+word-break: normal; display: block;" class=3D"mFont16"><strong><span =
+style=3D"color:#f08622"><span style=3D"font-size:20px"><span =
+style=3D"font-family:Arial,Helvetica,sans-serif">Stay =
+Connected!</span></span></span></strong></p>
+
+<p style=3D"color: #000000; font-family: Arial; font-size: 16px; =
+line-height: normal; font-weight: normal; font-style: normal; =
+text-decoration: none; margin-top: 0px; margin-bottom: 0px; word-break: =
+normal; display: block;" class=3D"mFont16">This newsletter is just one =
+way to stay in touch with what is happening in the district. Connect =
+with us on <a =
+href=3D"http://link.email.dynect.net/link.php?DynEngagement=3Dtrue&amp;H=3D=
+ZMyLy4zTjFwvNxIiQxXYz7fICs325Rzf11BKq8bXyh%2F55Q8PbcAMCQLvlvNulLpdxHMqvH5=
+TL7dnKsnZiG6p%2BHoYliIFbUqZnrVqFy%2FJNslNhOXeb8CQX2KQnzH0mFvh&amp;G=3D0&a=
+mp;R=3Dhttps%3A%2F%2FJBPGGYZTANA.hatchbuck.com%2FTrackLinkClick%3FID2%3Dj=
+vy92GqRQTPV99FP_y_2J3kYHSQv_RzX_3uOB6IVHMSQFAiGL4dzRiIDQCHSGhlo0&amp;I=3D=
+20220916200020.0000007c04dd%40smtp-ad1-46-phx&amp;X=3DMHwxMjY0OTIyOjI3NzE=
+1MTI3OTg7MXwxMjY0OTIzOjIzODgxODkyMTs%3D&amp;V=3D3&amp;S=3Dq0PwJr365UrfuRe=
+XlZYpnbemkFmYXz5hvesSt-XueWA" style=3D"color: #3c79af; text-decoration: =
+none; margin-top: 0px; margin-bottom: 0px; word-break: normal; display: =
+inline;">Facebook</a>, <a =
+href=3D"http://link.email.dynect.net/link.php?DynEngagement=3Dtrue&amp;H=3D=
+ZMyLy4zTjFwvNxIiQxXYz7fICs325Rzf11BKq8bXyh%2F55Q8PbcAMCQLvlvNulLpdxHMqvH5=
+TL7dnKsnZiG6p%2BHoYliIFbUqZnrVqFy%2FJNslNhOXeb8CQX2KQnzH0mFvh&amp;G=3D0&a=
+mp;R=3Dhttps%3A%2F%2FJBPGGYZTANA.hatchbuck.com%2FTrackLinkClick%3FID2%3Da=
+Y2EDIs8g48P6TW9XrBXiHPcfHLWwCyHzH3rPgqu4o1a_dpiIZ3i9wDBtzCsm_mk0&amp;I=3D=
+20220916200020.0000007c04dd%40smtp-ad1-46-phx&amp;X=3DMHwxMjY0OTIyOjI3NzE=
+1MTI3OTg7MXwxMjY0OTIzOjIzODgxODkyMTs%3D&amp;V=3D3&amp;S=3Dk3l8-1sejCt4OnR=
+-trszSLgH6ilDHO8rQB_dFsk8UiU" style=3D"color: #3c79af; text-decoration: =
+none; margin-top: 0px; margin-bottom: 0px; word-break: normal; display: =
+inline;">Twitter</a>, <a =
+href=3D"http://link.email.dynect.net/link.php?DynEngagement=3Dtrue&amp;H=3D=
+ZMyLy4zTjFwvNxIiQxXYz7fICs325Rzf11BKq8bXyh%2F55Q8PbcAMCQLvlvNulLpdxHMqvH5=
+TL7dnKsnZiG6p%2BHoYliIFbUqZnrVqFy%2FJNslNhOXeb8CQX2KQnzH0mFvh&amp;G=3D0&a=
+mp;R=3Dhttps%3A%2F%2FJBPGGYZTANA.hatchbuck.com%2FTrackLinkClick%3FID2%3DW=
+D_9OAVqJm1PSl5OM2immleIvnxXOYQi49npITJGL9xOX9oW5E336V0rvw_R1JPh0&amp;I=3D=
+20220916200020.0000007c04dd%40smtp-ad1-46-phx&amp;X=3DMHwxMjY0OTIyOjI3NzE=
+1MTI3OTg7MXwxMjY0OTIzOjIzODgxODkyMTs%3D&amp;V=3D3&amp;S=3DcjU3UjjzN6bg-mf=
+s364UvAXjjsSDnsWOQUxlO51Yh9k" style=3D"color: #3c79af; text-decoration: =
+none; margin-top: 0px; margin-bottom: 0px; word-break: normal; display: =
+inline;">Instagram</a> and <a =
+href=3D"http://link.email.dynect.net/link.php?DynEngagement=3Dtrue&amp;H=3D=
+ZMyLy4zTjFwvNxIiQxXYz7fICs325Rzf11BKq8bXyh%2F55Q8PbcAMCQLvlvNulLpdxHMqvH5=
+TL7dnKsnZiG6p%2BHoYliIFbUqZnrVqFy%2FJNslNhOXeb8CQX2KQnzH0mFvh&amp;G=3D0&a=
+mp;R=3Dhttps%3A%2F%2FJBPGGYZTANA.hatchbuck.com%2FTrackLinkClick%3FID2%3Do=
+5ikRLArDgXUunwkVH2wm1vB7XaJ2r_1PuRMagS2ZFzYBmS0pI7k5jfg2kYpKg840&amp;I=3D=
+20220916200020.0000007c04dd%40smtp-ad1-46-phx&amp;X=3DMHwxMjY0OTIyOjI3NzE=
+1MTI3OTg7MXwxMjY0OTIzOjIzODgxODkyMTs%3D&amp;V=3D3&amp;S=3DxQSNdKlNU3UG7Zg=
+pTUXmWJ2kdG_6zrxRzo9MKtvCLDs" style=3D"color: #3c79af; text-decoration: =
+none; margin-top: 0px; margin-bottom: 0px; word-break: normal; display: =
+inline;">YouTube</a> for up-to-date news and information.</p>
+</td></tr></tbody></table></td></tr></tbody></table><table =
+width=3D"100%" style=3D"width:100%; min-width:100%; table-layout:fixed;" =
+cellpadding=3D"0" cellspacing=3D"0"><tbody><tr><td class=3D"column-td" =
+align=3D"center" style=3D"padding: 5px; border: none;"><table =
+class=3D"responsive-table" cellpadding=3D"0" cellspacing=3D"0" =
+style=3D"width:100%; min-width:100%; table-layout:fixed;"><tbody><tr><td =
+class=3D"block" style=3D"background-color: transparent; margin: 5px; =
+word-break: normal; padding: 10px; border: none;"><p =
+style=3D"text-align: left; color: #000000; font-family: Arial; =
+font-size: 16px; line-height: normal; font-weight: normal; font-style: =
+normal; text-decoration: none; margin-top: 0px; margin-bottom: 0px; =
+word-break: normal; display: block;" class=3D"mFont16"><strong><span =
+style=3D"color:#f08622"><span style=3D"font-size:20px"><span =
+style=3D"font-family:Arial,Helvetica,sans-serif">In this =
+Issue:</span></span></span></strong></p>
+
+<ul>
+	<li style=3D"color: #000000; font-family: Arial; font-size: 16px; =
+line-height: normal; font-weight: normal; font-style: normal; =
+text-decoration: none;"><strong><span =
+style=3D"font-family:Arial,Helvetica,sans-serif">New =
+articles</span></strong>
+
+	<ul>
+		<li style=3D"color: #000000; font-family: Arial; font-size: 16px; =
+line-height: normal; font-weight: normal; font-style: normal; =
+text-decoration: none;"><span =
+style=3D"font-family:Arial,Helvetica,sans-serif">Happy first day of =
+school!</span></li>
+		<li style=3D"color: #000000; font-family: Arial; font-size: 16px; =
+line-height: normal; font-weight: normal; font-style: normal; =
+text-decoration: none;"><span =
+style=3D"font-family:Arial,Helvetica,sans-serif">New website for Highly =
+Capable division</span></li>
+		<li style=3D"color: #000000; font-family: Arial; font-size: 16px; =
+line-height: normal; font-weight: normal; font-style: normal; =
+text-decoration: none;"><span =
+style=3D"font-family:Arial,Helvetica,sans-serif">Sixty LWSD students =
+named National Merit Semifinalists</span></li>
+		<li style=3D"color: #000000; font-family: Arial; font-size: 16px; =
+line-height: normal; font-weight: normal; font-style: normal; =
+text-decoration: none;"><span =
+style=3D"font-family:Arial,Helvetica,sans-serif">Two students selected =
+as Student Representatives for Lake Washington School Board</span></li>
+		<li style=3D"color: #000000; font-family: Arial; font-size: 16px; =
+line-height: normal; font-weight: normal; font-style: normal; =
+text-decoration: none;"><span =
+style=3D"font-family:Arial,Helvetica,sans-serif">New and International =
+Families Welcome Event&nbsp;</span></li>
+		<li style=3D"color: #000000; font-family: Arial; font-size: 16px; =
+line-height: normal; font-weight: normal; font-style: normal; =
+text-decoration: none;"><span =
+style=3D"font-family:Arial,Helvetica,sans-serif">K-5 Social Studies =
+Adoption Committee forming</span></li>
+		<li style=3D"color: #000000; font-family: Arial; font-size: 16px; =
+line-height: normal; font-weight: normal; font-style: normal; =
+text-decoration: none;"><span =
+style=3D"font-family:Arial,Helvetica,sans-serif">LWSD supports =
+Spanish-speaking families through local partnership</span></li>
+		<li style=3D"color: #000000; font-family: Arial; font-size: 16px; =
+line-height: normal; font-weight: normal; font-style: normal; =
+text-decoration: none;"><span =
+style=3D"font-family:Arial,Helvetica,sans-serif">Register your child for =
+a Kids Coming Together event!&nbsp;</span></li>
+		<li style=3D"color: #000000; font-family: Arial; font-size: 16px; =
+line-height: normal; font-weight: normal; font-style: normal; =
+text-decoration: none;"><span =
+style=3D"font-family:Arial,Helvetica,sans-serif">Building inclusive =
+library collections in our schools - LWSF update&nbsp;</span></li>
+		<li style=3D"color: #000000; font-family: Arial; font-size: 16px; =
+line-height: normal; font-weight: normal; font-style: normal; =
+text-decoration: none;"><span =
+style=3D"font-family:Arial,Helvetica,sans-serif">Mentors needed for =
+local students&nbsp;</span></li>
+		<li style=3D"color: #000000; font-family: Arial; font-size: 16px; =
+line-height: normal; font-weight: normal; font-style: normal; =
+text-decoration: none;"><span =
+style=3D"font-family:Arial,Helvetica,sans-serif">Building on =
+Success&nbsp;</span></li>
+		<li style=3D"color: #000000; font-family: Arial; font-size: 16px; =
+line-height: normal; font-weight: normal; font-style: normal; =
+text-decoration: none;"><span =
+style=3D"font-family:Arial,Helvetica,sans-serif">Health first =E2=80=93 =
+LWSD students place in top ten at national health professionals =
+competition</span></li>
+	</ul>
+	</li>
+	<li style=3D"color: #000000; font-family: Arial; font-size: 16px; =
+line-height: normal; font-weight: normal; font-style: normal; =
+text-decoration: none;"><strong><span =
+style=3D"font-family:Arial,Helvetica,sans-serif">Reminder and =
+Updates</span></strong>
+	<ul>
+		<li style=3D"color: #000000; font-family: Arial; font-size: 16px; =
+line-height: normal; font-weight: normal; font-style: normal; =
+text-decoration: none;"><span =
+style=3D"font-family:Arial,Helvetica,sans-serif">Reminder: We=E2=80=99re =
+Hiring! Consider a career in LWSD</span></li>
+		<li style=3D"color: #000000; font-family: Arial; font-size: 16px; =
+line-height: normal; font-weight: normal; font-style: normal; =
+text-decoration: none;"><span =
+style=3D"font-family:Arial,Helvetica,sans-serif">Reminder: 988 Suicide =
+and Crisis Lifeline</span></li>
+		<li style=3D"color: #000000; font-family: Arial; font-size: 16px; =
+line-height: normal; font-weight: normal; font-style: normal; =
+text-decoration: none;"><span =
+style=3D"font-family:Arial,Helvetica,sans-serif">Reminder: District tip =
+line</span></li>
+		<li style=3D"color: #000000; font-family: Arial; font-size: 16px; =
+line-height: normal; font-weight: normal; font-style: normal; =
+text-decoration: none;"><span =
+style=3D"font-family:Arial,Helvetica,sans-serif">Reminder: Teen Startup =
+event application =
+deadline&nbsp;</span>=E2=80=8B=E2=80=8B=E2=80=8B=E2=80=8B</li>
+	</ul>
+	</li>
+</ul>
+</td></tr></tbody></table></td></tr></tbody></table><table =
+width=3D"100%" style=3D"width:100%; min-width:100%; table-layout:fixed;" =
+cellpadding=3D"0" cellspacing=3D"0"><tbody><tr><td class=3D"column-td" =
+align=3D"center" style=3D"padding: 5px; border: none;"><table =
+class=3D"responsive-table" cellpadding=3D"0" cellspacing=3D"0" =
+style=3D"width:100%; min-width:100%; table-layout:fixed;"><tbody><tr><td =
+class=3D"block" style=3D"background-color: transparent; margin: 5px; =
+word-break: normal; padding: 10px; border: none;"><h1 =
+style=3D"text-align: left; color: #00878f; font-family: Arial; =
+font-size: 24px; line-height: normal; font-weight: bold; font-style: =
+normal; text-decoration: none; margin-top: 0px; margin-bottom: 0px; =
+word-break: normal; display: block;" class=3D"mFont24"><img =
+alt=3D"Volunteer-HelpingHands-black-30x30.png" height=3D"52" =
+src=3D"https://s3.hatchbuck.com/TemplateImage/fd07a98c22dd712e3be051f9d3d=
+f0abc217530eae9e4b7fe2deb718478df2d9c.png" width=3D"52" =
+style=3D"vertical-align: bottom; margin: 5px;" vertical-align=3D"bottom" =
+data-unique-identifier=3D"">&nbsp;Work With Us</h1>
+</td></tr></tbody></table></td></tr></tbody></table><table =
+width=3D"100%" style=3D"width:100%; min-width:100%; table-layout:fixed;" =
+cellpadding=3D"0" cellspacing=3D"0"><tbody><tr><td class=3D"column-td" =
+align=3D"center" style=3D"padding: 5px; border: none;"><table =
+class=3D"responsive-table" cellpadding=3D"0" cellspacing=3D"0" =
+style=3D"width:100%; min-width:100%; table-layout:fixed;"><tbody><tr><td =
+class=3D"block" style=3D"background-color: transparent; margin: 5px; =
+word-break: normal; padding: 10px; border: none;"><p =
+style=3D"text-align: left; color: #000000; font-family: Arial; =
+font-size: 16px; line-height: normal; font-weight: normal; font-style: =
+normal; text-decoration: none; margin-top: 0px; margin-bottom: 0px; =
+word-break: normal; display: block;" class=3D"mFont16"><a =
+href=3D"http://link.email.dynect.net/link.php?DynEngagement=3Dtrue&amp;H=3D=
+ZMyLy4zTjFwvNxIiQxXYz7fICs325Rzf11BKq8bXyh%2F55Q8PbcAMCQLvlvNulLpdxHMqvH5=
+TL7dnKsnZiG6p%2BHoYliIFbUqZnrVqFy%2FJNslNhOXeb8CQX2KQnzH0mFvh&amp;G=3D0&a=
+mp;R=3Dhttps%3A%2F%2FJBPGGYZTANA.hatchbuck.com%2FTrackLinkClick%3FID2%3Dw=
+j9TxkjA0UUOunDZmDK9orBEQkdcrIhtyfNy6uAzE9_CJ4zJVwAmLUZpJMs8ow9v0&amp;I=3D=
+20220916200020.0000007c04dd%40smtp-ad1-46-phx&amp;X=3DMHwxMjY0OTIyOjI3NzE=
+1MTI3OTg7MXwxMjY0OTIzOjIzODgxODkyMTs%3D&amp;V=3D3&amp;S=3DgVdzBwa7MGLOpSR=
+SKLJx2T4z0kYFD80XXmoFTI7sVvM" style=3D"color: #3c79af; text-decoration: =
+none; margin-top: 0px; margin-bottom: 0px; word-break: normal; display: =
+inline;"><img alt=3D"We're Hiring!" height=3D"165" =
+src=3D"https://s3.hatchbuck.com/TemplateImage/2e46716108ed7eef1e9d566b5a6=
+d0cc3ab4641846cb6ff58194a91eeeafd3d03.jpg" style=3D"float: right; =
+vertical-align: bottom; margin: 5px;" width=3D"250" align=3D"right" =
+vertical-align=3D"bottom" margin=3D"5" =
+data-unique-identifier=3D""></a><strong><span =
+style=3D"color:#f08622"><span style=3D"font-size:20px"><span =
+style=3D"font-family:Arial,Helvetica,sans-serif">We=E2=80=99re Hiring! =
+Consider a career in LWSD</span></span></span></strong></p>
+
+<p style=3D"color: #000000; font-family: Arial; font-size: 16px; =
+line-height: normal; font-weight: normal; font-style: normal; =
+text-decoration: none; margin-top: 0px; margin-bottom: 0px; word-break: =
+normal; display: block;" class=3D"mFont16">LWSD is always seeking great =
+talent for positions throughout our district. In addition to other =
+positions available in LWSD, we are looking for applicants for the =
+following positions:</p>
+
+<ul>
+	<li style=3D"color: #000000; font-family: Arial; font-size: 16px; =
+line-height: normal; font-weight: normal; font-style: normal; =
+text-decoration: none;"><span =
+style=3D"font-family:Arial,Helvetica,sans-serif">Nurses</span></li>
+	<li style=3D"color: #000000; font-family: Arial; font-size: 16px; =
+line-height: normal; font-weight: normal; font-style: normal; =
+text-decoration: none;"><span =
+style=3D"font-family:Arial,Helvetica,sans-serif">Instructional =
+Assistants (IA=E2=80=99s)</span></li>
+	<li style=3D"color: #000000; font-family: Arial; font-size: 16px; =
+line-height: normal; font-weight: normal; font-style: normal; =
+text-decoration: none;"><span =
+style=3D"font-family:Arial,Helvetica,sans-serif">Paraeducators</span></li=
+>
+	<li style=3D"color: #000000; font-family: Arial; font-size: 16px; =
+line-height: normal; font-weight: normal; font-style: normal; =
+text-decoration: none;"><span =
+style=3D"font-family:Arial,Helvetica,sans-serif">Custodians</span></li>
+	<li style=3D"color: #000000; font-family: Arial; font-size: 16px; =
+line-height: normal; font-weight: normal; font-style: normal; =
+text-decoration: none;"><span =
+style=3D"font-family:Arial,Helvetica,sans-serif">Bus Drivers</span></li>
+	<li style=3D"color: #000000; font-family: Arial; font-size: 16px; =
+line-height: normal; font-weight: normal; font-style: normal; =
+text-decoration: none;"><span =
+style=3D"font-family:Arial,Helvetica,sans-serif">Substitutes</span></li>
+</ul>
+
+<p style=3D"color: #000000; font-family: Arial; font-size: 16px; =
+line-height: normal; font-weight: normal; font-style: normal; =
+text-decoration: none; margin-top: 0px; margin-bottom: 0px; word-break: =
+normal; display: block;" class=3D"mFont16">These positions are also =
+available in a substitute role. Check out the LWSD website for job =
+descriptions and postings at <a =
+href=3D"http://link.email.dynect.net/link.php?DynEngagement=3Dtrue&amp;H=3D=
+ZMyLy4zTjFwvNxIiQxXYz7fICs325Rzf11BKq8bXyh%2F55Q8PbcAMCQLvlvNulLpdxHMqvH5=
+TL7dnKsnZiG6p%2BHoYliIFbUqZnrVqFy%2FJNslNhOXeb8CQX2KQnzH0mFvh&amp;G=3D0&a=
+mp;R=3Dhttps%3A%2F%2FJBPGGYZTANA.hatchbuck.com%2FTrackLinkClick%3FID2%3Dw=
+j9TxkjA0UUOunDZmDK9orBEQkdcrIhtyfNy6uAzE9_CJ4zJVwAmLUZpJMs8ow9v0&amp;I=3D=
+20220916200020.0000007c04dd%40smtp-ad1-46-phx&amp;X=3DMHwxMjY0OTIyOjI3NzE=
+1MTI3OTg7MXwxMjY0OTIzOjIzODgxODkyMTs%3D&amp;V=3D3&amp;S=3DgVdzBwa7MGLOpSR=
+SKLJx2T4z0kYFD80XXmoFTI7sVvM" style=3D"color: #3c79af; text-decoration: =
+none; margin-top: 0px; margin-bottom: 0px; word-break: normal; display: =
+inline;">https://www.lwsd.org/employment/careers</a>.&nbsp;</p>
+</td></tr></tbody></table></td></tr></tbody></table><table =
+width=3D"100%" style=3D"width:100%; min-width:100%; table-layout:fixed;" =
+cellpadding=3D"0" cellspacing=3D"0"><tbody><tr><td class=3D"column-td" =
+align=3D"center" style=3D"padding: 5px; border: none;"><table =
+class=3D"responsive-table" cellpadding=3D"0" cellspacing=3D"0" =
+style=3D"width:100%; min-width:100%; table-layout:fixed;"><tbody><tr><td =
+class=3D"block" style=3D"background-color: transparent; margin: 5px; =
+word-break: normal; padding: 10px; border: none;"><h1 =
+style=3D"text-align: left; color: #00878f; font-family: Arial; =
+font-size: 24px; line-height: normal; font-weight: bold; font-style: =
+normal; text-decoration: none; margin-top: 0px; margin-bottom: 0px; =
+word-break: normal; display: block;" class=3D"mFont24"><img =
+alt=3D"Books-color2.png" height=3D"30" =
+src=3D"https://s3.hatchbuck.com/TemplateImage/1e079b84a4df7519d5201be76ec=
+d8455d69f1e5553a56bb80fbea01411f9db0a.png" width=3D"30" =
+style=3D"vertical-align: bottom; margin: 5px;" vertical-align=3D"bottom" =
+data-unique-identifier=3D"">&nbsp;Learning-Focused</h1>
+</td></tr></tbody></table></td></tr></tbody></table><table =
+width=3D"100%" style=3D"width:100%; min-width:100%; table-layout:fixed;" =
+cellpadding=3D"0" cellspacing=3D"0"><tbody><tr><td class=3D"column-td" =
+align=3D"center" style=3D"padding: 5px; border: none;"><table =
+class=3D"responsive-table" cellpadding=3D"0" cellspacing=3D"0" =
+style=3D"width:100%; min-width:100%; table-layout:fixed;"><tbody><tr><td =
+class=3D"block" style=3D"background-color: transparent; margin: 5px; =
+word-break: normal; padding: 10px; border: none;"><p =
+style=3D"text-align: left; color: #000000; font-family: Arial; =
+font-size: 16px; line-height: normal; font-weight: normal; font-style: =
+normal; text-decoration: none; margin-top: 0px; margin-bottom: 0px; =
+word-break: normal; display: block;" class=3D"mFont16"><a =
+href=3D"http://link.email.dynect.net/link.php?DynEngagement=3Dtrue&amp;H=3D=
+ZMyLy4zTjFwvNxIiQxXYz7fICs325Rzf11BKq8bXyh%2F55Q8PbcAMCQLvlvNulLpdxHMqvH5=
+TL7dnKsnZiG6p%2BHoYliIFbUqZnrVqFy%2FJNslNhOXeb8CQX2KQnzH0mFvh&amp;G=3D0&a=
+mp;R=3Dhttps%3A%2F%2FJBPGGYZTANA.hatchbuck.com%2FTrackLinkClick%3FID2%3Dk=
+vuBnVoTsHqWUNyfnPovn-wkTbPqJ9RL_dU4PtJuEgXUUiNCG751BsrbjdU-7AxU0&amp;I=3D=
+20220916200020.0000007c04dd%40smtp-ad1-46-phx&amp;X=3DMHwxMjY0OTIyOjI3NzE=
+1MTI3OTg7MXwxMjY0OTIzOjIzODgxODkyMTs%3D&amp;V=3D3&amp;S=3DX1CCASaVS08QW0Z=
+NQznZeSC4Fj50MlH_63RQiTvWdjI" style=3D"color: #3c79af; text-decoration: =
+none; margin-top: 0px; margin-bottom: 0px; word-break: normal; display: =
+inline;"><img alt=3D"Students and a parent posing for first day of =
+school" height=3D"200" =
+src=3D"https://s3.hatchbuck.com/TemplateImage/4a0e4cb5b8b9c0ba9873e5556b0=
+405a69f1ff92859866b38360a4ae66aafbf6d.jpg" style=3D"float: right; =
+vertical-align: bottom; margin: 5px;" width=3D"300" align=3D"right" =
+vertical-align=3D"bottom" margin=3D"5" =
+data-unique-identifier=3D""></a><strong><span =
+style=3D"color:#f08622"><span style=3D"font-size:20px"><span =
+style=3D"font-family:Arial,Helvetica,sans-serif">Happy first day of =
+school!</span></span></span></strong></p>
+
+<p style=3D"color: #000000; font-family: Arial; font-size: 16px; =
+line-height: normal; font-weight: normal; font-style: normal; =
+text-decoration: none; margin-top: 0px; margin-bottom: 0px; word-break: =
+normal; display: block;" class=3D"mFont16">The first day of school for =
+grades 1-12 was on September 6. We are so excited to welcome back our =
+students. <a =
+href=3D"http://link.email.dynect.net/link.php?DynEngagement=3Dtrue&amp;H=3D=
+ZMyLy4zTjFwvNxIiQxXYz7fICs325Rzf11BKq8bXyh%2F55Q8PbcAMCQLvlvNulLpdxHMqvH5=
+TL7dnKsnZiG6p%2BHoYliIFbUqZnrVqFy%2FJNslNhOXeb8CQX2KQnzH0mFvh&amp;G=3D0&a=
+mp;R=3Dhttps%3A%2F%2FJBPGGYZTANA.hatchbuck.com%2FTrackLinkClick%3FID2%3Dk=
+vuBnVoTsHqWUNyfnPovn-wkTbPqJ9RL_dU4PtJuEgXUUiNCG751BsrbjdU-7AxU0&amp;I=3D=
+20220916200020.0000007c04dd%40smtp-ad1-46-phx&amp;X=3DMHwxMjY0OTIyOjI3NzE=
+1MTI3OTg7MXwxMjY0OTIzOjIzODgxODkyMTs%3D&amp;V=3D3&amp;S=3DX1CCASaVS08QW0Z=
+NQznZeSC4Fj50MlH_63RQiTvWdjI" style=3D"color: #3c79af; text-decoration: =
+none; margin-top: 0px; margin-bottom: 0px; word-break: normal; display: =
+inline;">Visit our Facebook page to see some of the photos from the =
+different first days of school at all levels</a>.&nbsp;</p>
+</td></tr></tbody></table></td></tr></tbody></table><table =
+width=3D"100%" style=3D"width:100%; min-width:100%; table-layout:fixed;" =
+cellpadding=3D"0" cellspacing=3D"0"><tbody><tr><td class=3D"column-td" =
+align=3D"center" style=3D"padding: 5px; border: none;"><table =
+class=3D"responsive-table" cellpadding=3D"0" cellspacing=3D"0" =
+style=3D"width:100%; min-width:100%; table-layout:fixed;"><tbody><tr><td =
+class=3D"block" style=3D"background-color: transparent; margin: 5px; =
+word-break: normal; padding: 10px; border: none;"><p =
+style=3D"text-align: left; color: #000000; font-family: Arial; =
+font-size: 16px; line-height: normal; font-weight: normal; font-style: =
+normal; text-decoration: none; margin-top: 0px; margin-bottom: 0px; =
+word-break: normal; display: block;" class=3D"mFont16"><strong><span =
+style=3D"color:#f08622"><span style=3D"font-size:20px"><span =
+style=3D"font-family:Arial,Helvetica,sans-serif">New webpage&nbsp;for =
+Highly Capable division</span></span></span></strong></p>
+
+<p style=3D"color: #000000; font-family: Arial; font-size: 16px; =
+line-height: normal; font-weight: normal; font-style: normal; =
+text-decoration: none; margin-top: 0px; margin-bottom: 0px; word-break: =
+normal; display: block;" class=3D"mFont16">The Highly Capable (HiCap) =
+division of LWSD=E2=80=99s Accelerated Programs has some important news =
+to share with families:</p>
+
+<ul>
+	<li style=3D"color: #000000; font-family: Arial; font-size: 16px; =
+line-height: normal; font-weight: normal; font-style: normal; =
+text-decoration: none;"><span =
+style=3D"font-family:Arial,Helvetica,sans-serif">The HiCap =
+webpage&nbsp;received a makeover! Our <a =
+href=3D"http://link.email.dynect.net/link.php?DynEngagement=3Dtrue&amp;H=3D=
+ZMyLy4zTjFwvNxIiQxXYz7fICs325Rzf11BKq8bXyh%2F55Q8PbcAMCQLvlvNulLpdxHMqvH5=
+TL7dnKsnZiG6p%2BHoYliIFbUqZnrVqFy%2FJNslNhOXeb8CQX2KQnzH0mFvh&amp;G=3D0&a=
+mp;R=3Dhttps%3A%2F%2FJBPGGYZTANA.hatchbuck.com%2FTrackLinkClick%3FID2%3DM=
+SEknwIBTg-B4WBT8sZgIrnCS7EalKVJOWbGmuqgY_8FV5eFqybPBwE7mWKTWbVI0&amp;I=3D=
+20220916200020.0000007c04dd%40smtp-ad1-46-phx&amp;X=3DMHwxMjY0OTIyOjI3NzE=
+1MTI3OTg7MXwxMjY0OTIzOjIzODgxODkyMTs%3D&amp;V=3D3&amp;S=3DVSjiPFxmC2Bnjsh=
+ba_evf3v4XZVJXn-UJpi3LD1uC5s" style=3D"color: #3c79af; text-decoration: =
+none; margin-top: 0px; margin-bottom: 0px; word-break: normal; display: =
+inline;">new page</a> features a simplified design, this =
+year=E2=80=99sassessment calendar and the eligibility =
+matrix.</span></li>
+	<li style=3D"color: #000000; font-family: Arial; font-size: 16px; =
+line-height: normal; font-weight: normal; font-style: normal; =
+text-decoration: none;"><span =
+style=3D"font-family:Arial,Helvetica,sans-serif"><strong>Applications =
+for HiCap eligibility will open on September 19 and close on October =
+20</strong>. Theapplication will be posted as a live form on the HiCap =
+webpage.</span></li>
+</ul>
+
+<p style=3D"color: #000000; font-family: Arial; font-size: 16px; =
+line-height: normal; font-weight: normal; font-style: normal; =
+text-decoration: none; margin-top: 0px; margin-bottom: 0px; word-break: =
+normal; display: block;" class=3D"mFont16"><a =
+href=3D"http://link.email.dynect.net/link.php?DynEngagement=3Dtrue&amp;H=3D=
+ZMyLy4zTjFwvNxIiQxXYz7fICs325Rzf11BKq8bXyh%2F55Q8PbcAMCQLvlvNulLpdxHMqvH5=
+TL7dnKsnZiG6p%2BHoYliIFbUqZnrVqFy%2FJNslNhOXeb8CQX2KQnzH0mFvh&amp;G=3D0&a=
+mp;R=3Dhttps%3A%2F%2FJBPGGYZTANA.hatchbuck.com%2FTrackLinkClick%3FID2%3DM=
+SEknwIBTg-B4WBT8sZgIrnCS7EalKVJOWbGmuqgY_8FV5eFqybPBwE7mWKTWbVI0&amp;I=3D=
+20220916200020.0000007c04dd%40smtp-ad1-46-phx&amp;X=3DMHwxMjY0OTIyOjI3NzE=
+1MTI3OTg7MXwxMjY0OTIzOjIzODgxODkyMTs%3D&amp;V=3D3&amp;S=3DVSjiPFxmC2Bnjsh=
+ba_evf3v4XZVJXn-UJpi3LD1uC5s" style=3D"color: #3c79af; text-decoration: =
+none; margin-top: 0px; margin-bottom: 0px; word-break: normal; display: =
+inline;">Visit the HiCap page on the LWSD website</a>.</p>
+</td></tr></tbody></table></td></tr></tbody></table><table =
+width=3D"100%" style=3D"width:100%; min-width:100%; table-layout:fixed;" =
+cellpadding=3D"0" cellspacing=3D"0"><tbody><tr><td class=3D"column-td" =
+align=3D"center" style=3D"padding: 5px; border: none;"><table =
+class=3D"responsive-table" cellpadding=3D"0" cellspacing=3D"0" =
+style=3D"width:100%; min-width:100%; table-layout:fixed;"><tbody><tr><td =
+class=3D"block" style=3D"background-color: transparent; margin: 5px; =
+word-break: normal; padding: 10px; border: none;"><p =
+style=3D"text-align: left; color: #000000; font-family: Arial; =
+font-size: 16px; line-height: normal; font-weight: normal; font-style: =
+normal; text-decoration: none; margin-top: 0px; margin-bottom: 0px; =
+word-break: normal; display: block;" class=3D"mFont16"><strong><span =
+style=3D"color:#f08622"><span style=3D"font-size:20px"><span =
+style=3D"font-family:Arial,Helvetica,sans-serif">Sixty LWSD students =
+named National Merit Semifinalists</span></span></span></strong></p>
+
+<p style=3D"color: #000000; font-family: Arial; font-size: 16px; =
+line-height: normal; font-weight: normal; font-style: normal; =
+text-decoration: none; margin-top: 0px; margin-bottom: 0px; word-break: =
+normal; display: block;" class=3D"mFont16">Sixty Lake Washington School =
+District (LWSD) high school seniors have been named semifinalists in the =
+68th annual National Merit Scholarship Program. The <a =
+href=3D"http://link.email.dynect.net/link.php?DynEngagement=3Dtrue&amp;H=3D=
+ZMyLy4zTjFwvNxIiQxXYz7fICs325Rzf11BKq8bXyh%2F55Q8PbcAMCQLvlvNulLpdxHMqvH5=
+TL7dnKsnZiG6p%2BHoYliIFbUqZnrVqFy%2FJNslNhOXeb8CQX2KQnzH0mFvh&amp;G=3D0&a=
+mp;R=3Dhttps%3A%2F%2FJBPGGYZTANA.hatchbuck.com%2FTrackLinkClick%3FID2%3Dk=
+BbArdoP9KTTlUARRHNvrXlp6-DH_XIbi1g9UlZyvT9EwDR-Mt_VCAnwJj4pGAY10&amp;I=3D=
+20220916200020.0000007c04dd%40smtp-ad1-46-phx&amp;X=3DMHwxMjY0OTIyOjI3NzE=
+1MTI3OTg7MXwxMjY0OTIzOjIzODgxODkyMTs%3D&amp;V=3D3&amp;S=3DWX_zr27GxG_L64b=
+SOIgCKLUhdl7fjOdpxSAqmHcUPYY" style=3D"color: #3c79af; text-decoration: =
+none; margin-top: 0px; margin-bottom: 0px; word-break: normal; display: =
+inline;">National Merit Scholarship Corporation</a> announced the =
+semifinalists yesterday.&nbsp;</p>
+
+<p style=3D"color: #000000; font-family: Arial; font-size: 16px; =
+line-height: normal; font-weight: normal; font-style: normal; =
+text-decoration: none; margin-top: 0px; margin-bottom: 0px; word-break: =
+normal; display: block;" class=3D"mFont16">&nbsp;</p>
+
+<p style=3D"color: #000000; font-family: Arial; font-size: 16px; =
+line-height: normal; font-weight: normal; font-style: normal; =
+text-decoration: none; margin-top: 0px; margin-bottom: 0px; word-break: =
+normal; display: block;" class=3D"mFont16">Sixteen thousand high school =
+seniors nationwide qualified. About 15,000 semifinalists are expected to =
+advance to the Finalist level. Nearly half will win a National Merit =
+Scholarship. These students will be able to continue in the competition =
+for 7,250 National Merit Scholarships, worth nearly $28 =
+million.&nbsp;</p>
+
+<p style=3D"color: #000000; font-family: Arial; font-size: 16px; =
+line-height: normal; font-weight: normal; font-style: normal; =
+text-decoration: none; margin-top: 0px; margin-bottom: 0px; word-break: =
+normal; display: block;" class=3D"mFont16">&nbsp;</p>
+
+<p style=3D"color: #000000; font-family: Arial; font-size: 16px; =
+line-height: normal; font-weight: normal; font-style: normal; =
+text-decoration: none; margin-top: 0px; margin-bottom: 0px; word-break: =
+normal; display: block;" class=3D"mFont16"><a =
+href=3D"http://link.email.dynect.net/link.php?DynEngagement=3Dtrue&amp;H=3D=
+ZMyLy4zTjFwvNxIiQxXYz7fICs325Rzf11BKq8bXyh%2F55Q8PbcAMCQLvlvNulLpdxHMqvH5=
+TL7dnKsnZiG6p%2BHoYliIFbUqZnrVqFy%2FJNslNhOXeb8CQX2KQnzH0mFvh&amp;G=3D0&a=
+mp;R=3Dhttps%3A%2F%2FJBPGGYZTANA.hatchbuck.com%2FTrackLinkClick%3FID2%3De=
+3JHkOn60jG_HAcdihRORxcMpjwEc76wLQJe-HsVtqrPcIdK7UHwLGSAiyAb73fQ0&amp;I=3D=
+20220916200020.0000007c04dd%40smtp-ad1-46-phx&amp;X=3DMHwxMjY0OTIyOjI3NzE=
+1MTI3OTg7MXwxMjY0OTIzOjIzODgxODkyMTs%3D&amp;V=3D3&amp;S=3DePb2plZKMC7y_Ll=
+JuxvY-5SJLo7OdejZM1Csw9gixMA" style=3D"color: #3c79af; text-decoration: =
+none; margin-top: 0px; margin-bottom: 0px; word-break: normal; display: =
+inline;">Read more about this on the LWSD website</a>.&nbsp;</p>
+</td></tr></tbody></table></td></tr></tbody></table><table =
+width=3D"100%" style=3D"width:100%; min-width:100%; table-layout:fixed;" =
+cellpadding=3D"0" cellspacing=3D"0"><tbody><tr><td class=3D"column-td" =
+align=3D"center" style=3D"padding: 5px; border: none;"><table =
+class=3D"responsive-table" cellpadding=3D"0" cellspacing=3D"0" =
+style=3D"width:100%; min-width:100%; table-layout:fixed;"><tbody><tr><td =
+class=3D"block" style=3D"background-color: transparent; margin: 5px; =
+word-break: normal; padding: 10px; border: none;"><p =
+style=3D"text-align: left; color: #000000; font-family: Arial; =
+font-size: 16px; line-height: normal; font-weight: normal; font-style: =
+normal; text-decoration: none; margin-top: 0px; margin-bottom: 0px; =
+word-break: normal; display: block;" class=3D"mFont16"><strong><span =
+style=3D"color:#f08622"><span style=3D"font-size:20px"><span =
+style=3D"font-family:Arial,Helvetica,sans-serif">Two students selected =
+as Student Representatives for Lake Washington School =
+Board</span></span></span></strong></p>
+
+<p style=3D"color: #000000; font-family: Arial; font-size: 16px; =
+line-height: normal; font-weight: normal; font-style: normal; =
+text-decoration: none; margin-top: 0px; margin-bottom: 0px; word-break: =
+normal; display: block;" class=3D"mFont16"><strong>Students to share =
+student voice in Board conversations</strong><br>
+Starting this year, the Lake Washington School District Board of =
+Directors will include two student representatives. Student =
+representatives were selected through an application and interview =
+process.</p>
+
+<p style=3D"color: #000000; font-family: Arial; font-size: 16px; =
+line-height: normal; font-weight: normal; font-style: normal; =
+text-decoration: none; margin-top: 0px; margin-bottom: 0px; word-break: =
+normal; display: block;" class=3D"mFont16">&nbsp;</p>
+
+<p style=3D"color: #000000; font-family: Arial; font-size: 16px; =
+line-height: normal; font-weight: normal; font-style: normal; =
+text-decoration: none; margin-top: 0px; margin-bottom: 0px; word-break: =
+normal; display: block;" class=3D"mFont16"><img alt=3D"Evan Kurtz" =
+height=3D"167" =
+src=3D"https://s3.hatchbuck.com/TemplateImage/2c28edd650f33eb526b31e681f7=
+35d74487955b6c377e088229a8c97d437c916.jpg" style=3D"float: right; =
+vertical-align: bottom; margin: 5px;" width=3D"251" align=3D"right" =
+vertical-align=3D"bottom" margin=3D"5" =
+data-unique-identifier=3D""><strong>Evan Kurtz</strong> (<strong>Juanita =
+High School</strong>, Class of 2023) will serve as the student =
+representative for the west side of the school district for this school =
+year. A new student representative from the west side of the district =
+will be selected for a two-year term starting in 2023-24. Evan was first =
+introduced at the August 22 School Board meeting.</p>
+
+<p style=3D"color: #000000; font-family: Arial; font-size: 16px; =
+line-height: normal; font-weight: normal; font-style: normal; =
+text-decoration: none; margin-top: 0px; margin-bottom: 0px; word-break: =
+normal; display: block;" class=3D"mFont16">&nbsp;</p>
+
+<p style=3D"color: #000000; font-family: Arial; font-size: 16px; =
+line-height: normal; font-weight: normal; font-style: normal; =
+text-decoration: none; margin-top: 0px; margin-bottom: 0px; word-break: =
+normal; display: block;" class=3D"mFont16"><img alt=3D"Shivani Sama" =
+height=3D"167" =
+src=3D"https://s3.hatchbuck.com/TemplateImage/b5e6917d10e214eb702f60f6259=
+f8ffbe299bac13a63345452a87f479668ac2c.jpg" style=3D"float: right; =
+vertical-align: bottom; margin: 5px;" width=3D"251" align=3D"right" =
+vertical-align=3D"bottom" margin=3D"5" =
+data-unique-identifier=3D""><strong>Shivani Sama</strong> (<strong>Tesla =
+STEM High School</strong>, Class of 2024) will serve as a student =
+representative for the east side of the school district. She will serve =
+in this role for the next two school years. Shivani was first introduced =
+at the September 12 School Board meeting.</p>
+
+<p style=3D"color: #000000; font-family: Arial; font-size: 16px; =
+line-height: normal; font-weight: normal; font-style: normal; =
+text-decoration: none; margin-top: 0px; margin-bottom: 0px; word-break: =
+normal; display: block;" class=3D"mFont16">&nbsp;</p>
+
+<p style=3D"color: #000000; font-family: Arial; font-size: 16px; =
+line-height: normal; font-weight: normal; font-style: normal; =
+text-decoration: none; margin-top: 0px; margin-bottom: 0px; word-break: =
+normal; display: block;" class=3D"mFont16">The goal of adding student =
+representatives to the board is to add the perspective and experiences =
+of students as the Board considers various topics.</p>
+
+<p style=3D"color: #000000; font-family: Arial; font-size: 16px; =
+line-height: normal; font-weight: normal; font-style: normal; =
+text-decoration: none; margin-top: 0px; margin-bottom: 0px; word-break: =
+normal; display: block;" class=3D"mFont16">&nbsp;</p>
+
+<p style=3D"color: #000000; font-family: Arial; font-size: 16px; =
+line-height: normal; font-weight: normal; font-style: normal; =
+text-decoration: none; margin-top: 0px; margin-bottom: 0px; word-break: =
+normal; display: block;" class=3D"mFont16">Evan was selected to serve =
+for the 2022-23 school year while Shivani will serve through the 2023-24 =
+school year. Annually, the Board will select an incoming junior for a =
+two-year term.</p>
+</td></tr></tbody></table></td></tr></tbody></table><table =
+width=3D"100%" style=3D"width:100%; min-width:100%; table-layout:fixed;" =
+cellpadding=3D"0" cellspacing=3D"0"><tbody><tr><td class=3D"column-td" =
+align=3D"center" style=3D"padding: 5px; border: none;"><table =
+class=3D"responsive-table" cellpadding=3D"0" cellspacing=3D"0" =
+style=3D"width:100%; min-width:100%; table-layout:fixed;"><tbody><tr><td =
+class=3D"block" style=3D"background-color: transparent; margin: 5px; =
+word-break: normal; padding: 10px; border: none;"><p =
+style=3D"text-align: left; color: #000000; font-family: Arial; =
+font-size: 16px; line-height: normal; font-weight: normal; font-style: =
+normal; text-decoration: none; margin-top: 0px; margin-bottom: 0px; =
+word-break: normal; display: block;" class=3D"mFont16"><strong><span =
+style=3D"color:#f08622"><span style=3D"font-size:20px"><span =
+style=3D"font-family:Arial,Helvetica,sans-serif">New and International =
+Families Welcome Event&nbsp;</span></span></span></strong></p>
+
+<p style=3D"color: #000000; font-family: Arial; font-size: 16px; =
+line-height: normal; font-weight: normal; font-style: normal; =
+text-decoration: none; margin-top: 0px; margin-bottom: 0px; word-break: =
+normal; display: block;" class=3D"mFont16">The LWPTSA Council and Lake =
+Washington School District will be co-hosting a New and International =
+Families Welcome Event soon. Watch for information and details in =
+ParentSquare.&nbsp;</p>
+</td></tr></tbody></table></td></tr></tbody></table><table =
+width=3D"100%" style=3D"width:100%; min-width:100%; table-layout:fixed;" =
+cellpadding=3D"0" cellspacing=3D"0"><tbody><tr><td class=3D"column-td" =
+align=3D"center" style=3D"padding: 5px; border: none;"><table =
+class=3D"responsive-table" cellpadding=3D"0" cellspacing=3D"0" =
+style=3D"width:100%; min-width:100%; table-layout:fixed;"><tbody><tr><td =
+class=3D"block" style=3D"background-color: transparent; margin: 5px; =
+word-break: normal; padding: 10px; border: none;"><p =
+style=3D"text-align: left; color: #000000; font-family: Arial; =
+font-size: 16px; line-height: normal; font-weight: normal; font-style: =
+normal; text-decoration: none; margin-top: 0px; margin-bottom: 0px; =
+word-break: normal; display: block;" class=3D"mFont16"><strong><span =
+style=3D"color:#f08622"><span style=3D"font-size:20px"><span =
+style=3D"font-family:Arial,Helvetica,sans-serif">K-5 Social Studies =
+Adoption Committee forming</span></span></span></strong></p>
+
+<p style=3D"color: #000000; font-family: Arial; font-size: 16px; =
+line-height: normal; font-weight: normal; font-style: normal; =
+text-decoration: none; margin-top: 0px; margin-bottom: 0px; word-break: =
+normal; display: block;" class=3D"mFont16">In Lake Washington School =
+District, we arrange committees of stakeholders to review our adopted =
+curriculum on a regular basis. These committees consist of teachers, =
+administrators, specialists and community members. The committees =
+usually meet 1-2 times a month but may also have additional sessions as =
+needed. Committee members engage in learning about current research, =
+standards and effective instructional practices. They then apply that =
+learning in evaluating resources for potential adoption. The process of =
+reviewing and/or adopting new curricular materials will be a two-year =
+commitment. It will entail independent work outside of the meeting =
+times. We are starting this process in K-5 social studies this fall. If =
+you are interested in applying to be part of this committee, please fill =
+out the application for the committee below. For any additional =
+information, please contact <a href=3D"mailto:jerose@lwsd.org" =
+style=3D"color: #3c79af; text-decoration: none; margin-top: 0px; =
+margin-bottom: 0px; word-break: normal; display: inline;">Dr. Jen =
+Rose</a>, Associate Superintendent for Instructional Services.</p>
+
+<p style=3D"color: #000000; font-family: Arial; font-size: 16px; =
+line-height: normal; font-weight: normal; font-style: normal; =
+text-decoration: none; margin-top: 0px; margin-bottom: 0px; word-break: =
+normal; display: block;" class=3D"mFont16">&nbsp;</p>
+
+<p style=3D"color: #000000; font-family: Arial; font-size: 16px; =
+line-height: normal; font-weight: normal; font-style: normal; =
+text-decoration: none; margin-top: 0px; margin-bottom: 0px; word-break: =
+normal; display: block;" class=3D"mFont16"><a =
+href=3D"http://link.email.dynect.net/link.php?DynEngagement=3Dtrue&amp;H=3D=
+ZMyLy4zTjFwvNxIiQxXYz7fICs325Rzf11BKq8bXyh%2F55Q8PbcAMCQLvlvNulLpdxHMqvH5=
+TL7dnKsnZiG6p%2BHoYliIFbUqZnrVqFy%2FJNslNhOXeb8CQX2KQnzH0mFvh&amp;G=3D0&a=
+mp;R=3Dhttps%3A%2F%2FJBPGGYZTANA.hatchbuck.com%2FTrackLinkClick%3FID2%3DQ=
+fMkzbyCWzgy0njW0tDAbCoL2Kdiiudtato8_exO6E4HenOWPMIZnmDhvT1CqjCT0&amp;I=3D=
+20220916200020.0000007c04dd%40smtp-ad1-46-phx&amp;X=3DMHwxMjY0OTIyOjI3NzE=
+1MTI3OTg7MXwxMjY0OTIzOjIzODgxODkyMTs%3D&amp;V=3D3&amp;S=3DH_rPkRYghgqDEdN=
+EoWeOdMgPD_neBON0exFtDJVfXoo" style=3D"color: #3c79af; text-decoration: =
+none; margin-top: 0px; margin-bottom: 0px; word-break: normal; display: =
+inline;">K-5 Social Studies Adoption Committee: Community Member =
+Recruitment</a></p>
+</td></tr></tbody></table></td></tr></tbody></table><table =
+width=3D"100%" style=3D"width:100%; min-width:100%; table-layout:fixed;" =
+cellpadding=3D"0" cellspacing=3D"0"><tbody><tr><td class=3D"column-td" =
+align=3D"center" style=3D"padding: 5px; border: none;"><table =
+class=3D"responsive-table" cellpadding=3D"0" cellspacing=3D"0" =
+style=3D"width:100%; min-width:100%; table-layout:fixed;"><tbody><tr><td =
+class=3D"block" style=3D"background-color: transparent; margin: 5px; =
+word-break: normal; padding: 10px; border: none;"><p =
+style=3D"text-align: left; color: #000000; font-family: Arial; =
+font-size: 16px; line-height: normal; font-weight: normal; font-style: =
+normal; text-decoration: none; margin-top: 0px; margin-bottom: 0px; =
+word-break: normal; display: block;" class=3D"mFont16"><strong><span =
+style=3D"color:#f08622"><span style=3D"font-size:20px"><span =
+style=3D"font-family:Arial,Helvetica,sans-serif">LWSD supports =
+Spanish-speaking families through local =
+partnership</span></span></span></strong></p>
+
+<p style=3D"color: #000000; font-family: Arial; font-size: 16px; =
+line-height: normal; font-weight: normal; font-style: normal; =
+text-decoration: none; margin-top: 0px; margin-bottom: 0px; word-break: =
+normal; display: block;" class=3D"mFont16"><strong>Weekly Spanish =
+bulletin provides families =
+with=E2=80=AFculturally-relevant=E2=80=AFdistrict =
+news&nbsp;</strong><br>
+Lake Washington School District (LWSD) =
+has=E2=80=AFjoined=E2=80=AFforces=E2=80=AFwith=E2=80=AFthe Lake =
+Washington Schools Foundation, Bellevue School District, Bellevue =
+Schools Foundation, Eastside Pathways&nbsp;and Equity in Communication =
+Collaborative Action Network,=E2=80=AFas part of the Remote Learning and =
+Living Collective Action Network=E2=80=AF(now known as the Equity in =
+Communication Collaborative Action Network), convened =
+by=E2=80=AFEastside Pathways.=E2=80=AFThe partnership was =
+formed=E2=80=AFwith a shared goal of better supporting our community =
+of=E2=80=AFSpanish-speaking and Latinx families through thoughtful =
+and=E2=80=AFculturally-relevant communications.<br>
+Produced weekly, the video newsletter provides more equitable access to =
+district information, allowing families to support their =
+students.=E2=80=AFProject partners are looking forward to continuing =
+this work, finding new ways to support and engage families&nbsp;and =
+having a positive impact on the Latinx community.=E2=80=AF</p>
+
+<p style=3D"color: #000000; font-family: Arial; font-size: 16px; =
+line-height: normal; font-weight: normal; font-style: normal; =
+text-decoration: none; margin-top: 0px; margin-bottom: 0px; word-break: =
+normal; display: block;" class=3D"mFont16">&nbsp;</p>
+
+<p style=3D"color: #000000; font-family: Arial; font-size: 16px; =
+line-height: normal; font-weight: normal; font-style: normal; =
+text-decoration: none; margin-top: 0px; margin-bottom: 0px; word-break: =
+normal; display: block;" class=3D"mFont16">Check out the <a =
+href=3D"http://link.email.dynect.net/link.php?DynEngagement=3Dtrue&amp;H=3D=
+ZMyLy4zTjFwvNxIiQxXYz7fICs325Rzf11BKq8bXyh%2F55Q8PbcAMCQLvlvNulLpdxHMqvH5=
+TL7dnKsnZiG6p%2BHoYliIFbUqZnrVqFy%2FJNslNhOXeb8CQX2KQnzH0mFvh&amp;G=3D0&a=
+mp;R=3Dhttps%3A%2F%2FJBPGGYZTANA.hatchbuck.com%2FTrackLinkClick%3FID2%3Dt=
+kGI7EC0N_j59uWJKZbQeRA9GO0___wVu-4u8o3OAsq_M9eafhOPfK0WXoibNs0A0&amp;I=3D=
+20220916200020.0000007c04dd%40smtp-ad1-46-phx&amp;X=3DMHwxMjY0OTIyOjI3NzE=
+1MTI3OTg7MXwxMjY0OTIzOjIzODgxODkyMTs%3D&amp;V=3D3&amp;S=3DrCwRssQf8rHga9N=
+GHKvnkgo1Ofg_9tminkGo4nUykIQ" style=3D"color: #3c79af; text-decoration: =
+none; margin-top: 0px; margin-bottom: 0px; word-break: normal; display: =
+inline;">Noticias en espa=C3=B1ol para familias de BSD y LWSD Facebook =
+page</a>.</p>
+
+<p style=3D"color: #000000; font-family: Arial; font-size: 16px; =
+line-height: normal; font-weight: normal; font-style: normal; =
+text-decoration: none; margin-top: 0px; margin-bottom: 0px; word-break: =
+normal; display: block;" class=3D"mFont16">&nbsp;</p>
+
+<p style=3D"color: #000000; font-family: Arial; font-size: 16px; =
+line-height: normal; font-weight: normal; font-style: normal; =
+text-decoration: none; margin-top: 0px; margin-bottom: 0px; word-break: =
+normal; display: block;" class=3D"mFont16"><a =
+href=3D"http://link.email.dynect.net/link.php?DynEngagement=3Dtrue&amp;H=3D=
+ZMyLy4zTjFwvNxIiQxXYz7fICs325Rzf11BKq8bXyh%2F55Q8PbcAMCQLvlvNulLpdxHMqvH5=
+TL7dnKsnZiG6p%2BHoYliIFbUqZnrVqFy%2FJNslNhOXeb8CQX2KQnzH0mFvh&amp;G=3D0&a=
+mp;R=3Dhttps%3A%2F%2FJBPGGYZTANA.hatchbuck.com%2FTrackLinkClick%3FID2%3DG=
+FuSxZbZIATJv4S6ihq8xVe8IRZBiYAg4RmccnZxLIodYrWv1md0Vq8pAYvidL_U0&amp;I=3D=
+20220916200020.0000007c04dd%40smtp-ad1-46-phx&amp;X=3DMHwxMjY0OTIyOjI3NzE=
+1MTI3OTg7MXwxMjY0OTIzOjIzODgxODkyMTs%3D&amp;V=3D3&amp;S=3DrIkfc-sPbMRmsEe=
+FuhsM2yXbHfxuGJZrcbP2blHibk0" style=3D"color: #3c79af; text-decoration: =
+none; margin-top: 0px; margin-bottom: 0px; word-break: normal; display: =
+inline;">Videos are also posted on the LWSD website</a>.</p>
+</td></tr></tbody></table></td></tr></tbody></table><table =
+width=3D"100%" style=3D"width:100%; min-width:100%; table-layout:fixed;" =
+cellpadding=3D"0" cellspacing=3D"0"><tbody><tr><td class=3D"column-td" =
+align=3D"center" style=3D"padding: 5px; border: none;"><table =
+class=3D"responsive-table" cellpadding=3D"0" cellspacing=3D"0" =
+style=3D"width:100%; min-width:100%; table-layout:fixed;"><tbody><tr><td =
+class=3D"block" style=3D"background-color: transparent; margin: 5px; =
+word-break: normal; padding: 10px; border: none;"><p =
+style=3D"text-align: left; color: #000000; font-family: Arial; =
+font-size: 16px; line-height: normal; font-weight: normal; font-style: =
+normal; text-decoration: none; margin-top: 0px; margin-bottom: 0px; =
+word-break: normal; display: block;" class=3D"mFont16"><strong><span =
+style=3D"color:#f08622"><span style=3D"font-size:20px"><span =
+style=3D"font-family:Arial,Helvetica,sans-serif">Reminder: 988 Suicide =
+and Crisis Lifeline</span></span></span></strong></p>
+
+<p style=3D"color: #000000; font-family: Arial; font-size: 16px; =
+line-height: normal; font-weight: normal; font-style: normal; =
+text-decoration: none; margin-top: 0px; margin-bottom: 0px; word-break: =
+normal; display: block;" class=3D"mFont16">On July 16, 2022, the country =
+transitioned to using the 988 dialing code. It is a once-in-a-lifetime =
+opportunity to strengthen and expand the existing National Suicide =
+Prevention Lifeline and change how crisis services are delivered =
+nationwide.&nbsp;</p>
+
+<p style=3D"color: #000000; font-family: Arial; font-size: 16px; =
+line-height: normal; font-weight: normal; font-style: normal; =
+text-decoration: none; margin-top: 0px; margin-bottom: 0px; word-break: =
+normal; display: block;" class=3D"mFont16">&nbsp;</p>
+
+<p style=3D"color: #000000; font-family: Arial; font-size: 16px; =
+line-height: normal; font-weight: normal; font-style: normal; =
+text-decoration: none; margin-top: 0px; margin-bottom: 0px; word-break: =
+normal; display: block;" class=3D"mFont16">988 is more than just an =
+easy-to-remember number. It is a direct connection to compassionate, =
+accessible care and support for anyone experiencing mental health =
+related distress. Whether that is thoughts of suicide, symptoms of =
+mental illness or substance use disorder or other factors. People can =
+also dial 988 if they are worried about a loved one who may need these =
+types of crisis supports.</p>
+</td></tr></tbody></table></td></tr></tbody></table><table =
+width=3D"100%" style=3D"width:100%; min-width:100%; table-layout:fixed;" =
+cellpadding=3D"0" cellspacing=3D"0"><tbody><tr><td class=3D"column-td" =
+align=3D"center" style=3D"padding: 5px; border: none;"><table =
+class=3D"responsive-table" cellpadding=3D"0" cellspacing=3D"0" =
+style=3D"width:100%; min-width:100%; table-layout:fixed;"><tbody><tr><td =
+class=3D"block" style=3D"background-color: transparent; margin: 5px; =
+word-break: normal; padding: 10px; border: none;"><p =
+style=3D"text-align: left; color: #000000; font-family: Arial; =
+font-size: 16px; line-height: normal; font-weight: normal; font-style: =
+normal; text-decoration: none; margin-top: 0px; margin-bottom: 0px; =
+word-break: normal; display: block;" class=3D"mFont16"><strong><span =
+style=3D"color:#f08622"><span style=3D"font-size:20px"><span =
+style=3D"font-family:Arial,Helvetica,sans-serif">Reminder: District tip =
+line</span></span></span></strong></p>
+
+<p style=3D"color: #000000; font-family: Arial; font-size: 16px; =
+line-height: normal; font-weight: normal; font-style: normal; =
+text-decoration: none; margin-top: 0px; margin-bottom: 0px; word-break: =
+normal; display: block;" class=3D"mFont16">Safety is one of our =
+district=E2=80=99s top priorities. To keep our school community safe, =
+our district uses Vector Alert, a tip reporting service that allows =
+students, staff and parents to submit safety concerns to our =
+administration five different ways:</p>
+
+<ol>
+	<li style=3D"color: #000000; font-family: Arial; font-size: 16px; =
+line-height: normal; font-weight: normal; font-style: normal; =
+text-decoration: none;"><span =
+style=3D"font-family:Arial,Helvetica,sans-serif"><strong>App:&nbsp; =
+&nbsp; Search for =E2=80=9CVector Alert=E2=80=9D in the App Store to =
+download for free&nbsp;</strong></span></li>
+	<li style=3D"color: #000000; font-family: Arial; font-size: 16px; =
+line-height: normal; font-weight: normal; font-style: normal; =
+text-decoration: none;"><span =
+style=3D"font-family:Arial,Helvetica,sans-serif"><strong>Phone:&nbsp;425.=
+529.5763&nbsp;</strong></span></li>
+	<li style=3D"color: #000000; font-family: Arial; font-size: 16px; =
+line-height: normal; font-weight: normal; font-style: normal; =
+text-decoration: none;"><span =
+style=3D"font-family:Arial,Helvetica,sans-serif"><strong>Text:&nbsp;&nbsp=
+; &nbsp;Text your tip to 425.529.5763&nbsp;</strong></span></li>
+	<li style=3D"color: #000000; font-family: Arial; font-size: 16px; =
+line-height: normal; font-weight: normal; font-style: normal; =
+text-decoration: none;"><span =
+style=3D"font-family:Arial,Helvetica,sans-serif"><strong>Email:&nbsp;&nbs=
+p;1342@alert1.us&nbsp;</strong></span></li>
+	<li style=3D"color: #000000; font-family: Arial; font-size: 16px; =
+line-height: normal; font-weight: normal; font-style: normal; =
+text-decoration: none;"><span =
+style=3D"font-family:Arial,Helvetica,sans-serif"><strong>Web:&nbsp;&nbsp;=
+ &nbsp;http://1342.alert1.us</strong></span></li>
+</ol>
+
+<p style=3D"color: #000000; font-family: Arial; font-size: 16px; =
+line-height: normal; font-weight: normal; font-style: normal; =
+text-decoration: none; margin-top: 0px; margin-bottom: 0px; word-break: =
+normal; display: block;" class=3D"mFont16">If an administrator is not =
+nearby or available to take your tip, you and your child can easily =
+report tips on bullying, harassment, drugs, vandalism, threats of =
+violence or any safety issue you're concerned about through Vector =
+Alert. When you submit a tip, be sure to use our district=E2=80=99s =
+identification code: 1342 in your communication.</p>
+
+<p style=3D"color: #000000; font-family: Arial; font-size: 16px; =
+line-height: normal; font-weight: normal; font-style: normal; =
+text-decoration: none; margin-top: 0px; margin-bottom: 0px; word-break: =
+normal; display: block;" class=3D"mFont16">&nbsp;</p>
+
+<p style=3D"color: #000000; font-family: Arial; font-size: 16px; =
+line-height: normal; font-weight: normal; font-style: normal; =
+text-decoration: none; margin-top: 0px; margin-bottom: 0px; word-break: =
+normal; display: block;" class=3D"mFont16"><strong>Every tip Vector =
+Alert receives about our district is immediately logged in the system =
+and our administration is notified so that they can investigate and take =
+appropriate action. And, tips may also be submitted anonymously if you =
+prefer.</strong></p>
+
+<p style=3D"color: #000000; font-family: Arial; font-size: 16px; =
+line-height: normal; font-weight: normal; font-style: normal; =
+text-decoration: none; margin-top: 0px; margin-bottom: 0px; word-break: =
+normal; display: block;" class=3D"mFont16">&nbsp;</p>
+
+<p style=3D"color: #000000; font-family: Arial; font-size: 16px; =
+line-height: normal; font-weight: normal; font-style: normal; =
+text-decoration: none; margin-top: 0px; margin-bottom: 0px; word-break: =
+normal; display: block;" class=3D"mFont16">Together, using Vector Alert, =
+we can make our district a safer place to work and learn! Thanks in =
+advance for your support.</p>
+</td></tr></tbody></table></td></tr></tbody></table><table =
+width=3D"100%" style=3D"width:100%; min-width:100%; table-layout:fixed;" =
+cellpadding=3D"0" cellspacing=3D"0"><tbody><tr><td class=3D"column-td" =
+align=3D"center" style=3D"padding: 0px; border: none;"><table =
+class=3D"responsive-table" cellpadding=3D"0" cellspacing=3D"0" =
+style=3D"width:100%; min-width:100%; table-layout:fixed;"><tbody><tr><td =
+class=3D"block" style=3D"background-color: transparent; margin: 0px; =
+word-break: normal; padding: 10px 0px 5px 5px; border: none;"><h1 =
+style=3D"text-align: left; color: #00878f; font-family: Arial; =
+font-size: 24px; line-height: normal; font-weight: bold; font-style: =
+normal; text-decoration: none; margin-top: 0px; margin-bottom: 0px; =
+word-break: normal; display: block;" class=3D"mFont24"><img alt=3D"" =
+height=3D"40" =
+src=3D"https://s3.hatchbuck.com/TemplateImage/693bd3dcc404a324d6bc5eb3bc0=
+03b308354f0886af7b7813040dd488011984b.jpg" width=3D"40" =
+style=3D"vertical-align: bottom; margin: 5px;" vertical-align=3D"bottom" =
+data-unique-identifier=3D"">&nbsp;<strong>District =
+Announcements</strong></h1>
+</td></tr></tbody></table></td></tr></tbody></table><table =
+width=3D"100%" style=3D"width:100%; min-width:100%; table-layout:fixed;" =
+cellpadding=3D"0" cellspacing=3D"0"><tbody><tr><td class=3D"column-td" =
+align=3D"center" style=3D"padding: 5px; border: none;"><table =
+class=3D"responsive-table" cellpadding=3D"0" cellspacing=3D"0" =
+style=3D"width:100%; min-width:100%; table-layout:fixed;"><tbody><tr><td =
+class=3D"block" style=3D"background-color: transparent; margin: 5px; =
+word-break: normal; padding: 10px; border: none;"><p =
+style=3D"text-align: left; color: #000000; font-family: Arial; =
+font-size: 16px; line-height: normal; font-weight: normal; font-style: =
+normal; text-decoration: none; margin-top: 0px; margin-bottom: 0px; =
+word-break: normal; display: block;" class=3D"mFont16"><img alt=3D"Lake =
+Washington Schools Foundation" height=3D"86" =
+src=3D"https://s3.hatchbuck.com/TemplateImage/09c88908208d092e6019347f22c=
+d0c4856ae31fab0126985e858a614770fa0ff.png" style=3D"float: right; =
+vertical-align: bottom; margin: 5px;" width=3D"351" align=3D"right" =
+vertical-align=3D"bottom" margin=3D"5" data-unique-identifier=3D""><span =
+style=3D"color:#f08622"><span style=3D"font-size:20px"><span =
+style=3D"font-family:Arial,Helvetica,sans-serif"><strong>Register your =
+child for a Kids Coming Together =
+event!&nbsp;</strong></span></span></span></p>
+
+<p style=3D"color: #000000; font-family: Arial; font-size: 16px; =
+line-height: normal; font-weight: normal; font-style: normal; =
+text-decoration: none; margin-top: 0px; margin-bottom: 0px; word-break: =
+normal; display: block;" class=3D"mFont16">Kids Coming Together is a =
+program that provides opportunities for local youth in grades 3-8 to =
+make new friends and connect with their community through service events =
+led by high school students. <a =
+href=3D"http://link.email.dynect.net/link.php?DynEngagement=3Dtrue&amp;H=3D=
+ZMyLy4zTjFwvNxIiQxXYz7fICs325Rzf11BKq8bXyh%2F55Q8PbcAMCQLvlvNulLpdxHMqvH5=
+TL7dnKsnZiG6p%2BHoYliIFbUqZnrVqFy%2FJNslNhOXeb8CQX2KQnzH0mFvh&amp;G=3D0&a=
+mp;R=3Dhttps%3A%2F%2FJBPGGYZTANA.hatchbuck.com%2FTrackLinkClick%3FID2%3DZ=
+5vTTMLbXVD3GqQqplpHCWlEl9kNDwwVk-mbH7zAGKJchy7U-0Ykq8CveBdpF26E0&amp;I=3D=
+20220916200020.0000007c04dd%40smtp-ad1-46-phx&amp;X=3DMHwxMjY0OTIyOjI3NzE=
+1MTI3OTg7MXwxMjY0OTIzOjIzODgxODkyMTs%3D&amp;V=3D3&amp;S=3DjdEw-DthAc95thy=
+vw3vvNIgMRVvrXZA-CxR8GQPqgNU" style=3D"color: #3c79af; text-decoration: =
+none; margin-top: 0px; margin-bottom: 0px; word-break: normal; display: =
+inline;">Register for upcoming events</a>:&nbsp;</p>
+
+<ul>
+	<li style=3D"color: #000000; font-family: Arial; font-size: 16px; =
+line-height: normal; font-weight: normal; font-style: normal; =
+text-decoration: none;"><span =
+style=3D"font-family:Arial,Helvetica,sans-serif">September 22: Invasive =
+Species Removal&nbsp;</span></li>
+	<li style=3D"color: #000000; font-family: Arial; font-size: 16px; =
+line-height: normal; font-weight: normal; font-style: normal; =
+text-decoration: none;"><span =
+style=3D"font-family:Arial,Helvetica,sans-serif">September 27: Legos for =
+Eastside Baby Corner&nbsp;</span></li>
+</ul>
+</td></tr></tbody></table></td></tr></tbody></table><table =
+width=3D"100%" style=3D"width:100%; min-width:100%; table-layout:fixed;" =
+cellpadding=3D"0" cellspacing=3D"0"><tbody><tr><td class=3D"column-td" =
+align=3D"center" style=3D"padding: 5px; border: none;"><table =
+class=3D"responsive-table" cellpadding=3D"0" cellspacing=3D"0" =
+style=3D"width:100%; min-width:100%; table-layout:fixed;"><tbody><tr><td =
+class=3D"block" style=3D"background-color: transparent; margin: 5px; =
+word-break: normal; padding: 10px; border: none;"><p =
+style=3D"text-align: left; color: #000000; font-family: Arial; =
+font-size: 16px; line-height: normal; font-weight: normal; font-style: =
+normal; text-decoration: none; margin-top: 0px; margin-bottom: 0px; =
+word-break: normal; display: block;" class=3D"mFont16"><img alt=3D"LWSF =
+book program" height=3D"200" =
+src=3D"https://s3.hatchbuck.com/TemplateImage/16b3294bed9602779cb6a9e000f=
+fd815e39ed6930373c806c5097814991e8086.jpg" style=3D"float: right; =
+vertical-align: bottom; margin: 5px;" width=3D"300" align=3D"right" =
+vertical-align=3D"bottom" margin=3D"5" data-unique-identifier=3D""><span =
+style=3D"color:#f08622"><span style=3D"font-size:20px"><span =
+style=3D"font-family:Arial,Helvetica,sans-serif"><strong>Building =
+inclusive library collections in our schools - LWSF =
+update&nbsp;</strong></span></span></span></p>
+
+<p style=3D"color: #000000; font-family: Arial; font-size: 16px; =
+line-height: normal; font-weight: normal; font-style: normal; =
+text-decoration: none; margin-top: 0px; margin-bottom: 0px; word-break: =
+normal; display: block;" class=3D"mFont16">Over 4,000 students in seven =
+schools have already benefited from Lake Washington School =
+Foundation=E2=80=99s <a =
+href=3D"http://link.email.dynect.net/link.php?DynEngagement=3Dtrue&amp;H=3D=
+ZMyLy4zTjFwvNxIiQxXYz7fICs325Rzf11BKq8bXyh%2F55Q8PbcAMCQLvlvNulLpdxHMqvH5=
+TL7dnKsnZiG6p%2BHoYliIFbUqZnrVqFy%2FJNslNhOXeb8CQX2KQnzH0mFvh&amp;G=3D0&a=
+mp;R=3Dhttps%3A%2F%2FJBPGGYZTANA.hatchbuck.com%2FTrackLinkClick%3FID2%3DS=
+YJ-v5YTeBlvfCEadTd_LQicc2FIsv0to-nNtdbZxbQSvpDqn1oTNDJ-8cbzV-w80&amp;I=3D=
+20220916200020.0000007c04dd%40smtp-ad1-46-phx&amp;X=3DMHwxMjY0OTIyOjI3NzE=
+1MTI3OTg7MXwxMjY0OTIzOjIzODgxODkyMTs%3D&amp;V=3D3&amp;S=3DA5mKS1WmmKXZ9do=
+vZiYNiV_KaPrPyTY9fWaFlrOaeeI" style=3D"color: #3c79af; text-decoration: =
+none; margin-top: 0px; margin-bottom: 0px; word-break: normal; display: =
+inline;">five-year grant commitment</a> to increase the diversity of =
+library collections across the district. In the grant=E2=80=99s first =
+year (2021-22), a total of <strong>1,120</strong> books were purchased =
+for:</p>
+
+<ul>
+	<li style=3D"color: #000000; font-family: Arial; font-size: 16px; =
+line-height: normal; font-weight: normal; font-style: normal; =
+text-decoration: none;"><span =
+style=3D"font-family:Arial,Helvetica,sans-serif">Alcott =
+Elementary</span></li>
+	<li style=3D"color: #000000; font-family: Arial; font-size: 16px; =
+line-height: normal; font-weight: normal; font-style: normal; =
+text-decoration: none;"><span =
+style=3D"font-family:Arial,Helvetica,sans-serif">AG Bell =
+Elementary</span></li>
+	<li style=3D"color: #000000; font-family: Arial; font-size: 16px; =
+line-height: normal; font-weight: normal; font-style: normal; =
+text-decoration: none;"><span =
+style=3D"font-family:Arial,Helvetica,sans-serif">Ben Franklin =
+Elementary</span></li>
+	<li style=3D"color: #000000; font-family: Arial; font-size: 16px; =
+line-height: normal; font-weight: normal; font-style: normal; =
+text-decoration: none;"><span =
+style=3D"font-family:Arial,Helvetica,sans-serif">John Muir =
+Elementary</span></li>
+	<li style=3D"color: #000000; font-family: Arial; font-size: 16px; =
+line-height: normal; font-weight: normal; font-style: normal; =
+text-decoration: none;"><span =
+style=3D"font-family:Arial,Helvetica,sans-serif">Inglewood Middle =
+School</span></li>
+	<li style=3D"color: #000000; font-family: Arial; font-size: 16px; =
+line-height: normal; font-weight: normal; font-style: normal; =
+text-decoration: none;"><span =
+style=3D"font-family:Arial,Helvetica,sans-serif">International Community =
+School, and&nbsp;</span></li>
+	<li style=3D"color: #000000; font-family: Arial; font-size: 16px; =
+line-height: normal; font-weight: normal; font-style: normal; =
+text-decoration: none;"><span =
+style=3D"font-family:Arial,Helvetica,sans-serif">Kirkland Middle =
+School.</span>&nbsp;</li>
+</ul>
+
+<p style=3D"color: #000000; font-family: Arial; font-size: 16px; =
+line-height: normal; font-weight: normal; font-style: normal; =
+text-decoration: none; margin-top: 0px; margin-bottom: 0px; word-break: =
+normal; display: block;" class=3D"mFont16">Each book was carefully =
+selected and purchased based on the needs identified in the diversity =
+audit of each school=E2=80=99s library collection.&nbsp;</p>
+
+<p style=3D"color: #000000; font-family: Arial; font-size: 16px; =
+line-height: normal; font-weight: normal; font-style: normal; =
+text-decoration: none; margin-top: 0px; margin-bottom: 0px; word-break: =
+normal; display: block;" class=3D"mFont16">&nbsp;</p>
+
+<p style=3D"color: #000000; font-family: Arial; font-size: 16px; =
+line-height: normal; font-weight: normal; font-style: normal; =
+text-decoration: none; margin-top: 0px; margin-bottom: 0px; word-break: =
+normal; display: block;" class=3D"mFont16">This year, students at 13 =
+additional schools will benefit from the program! <a =
+href=3D"http://link.email.dynect.net/link.php?DynEngagement=3Dtrue&amp;H=3D=
+ZMyLy4zTjFwvNxIiQxXYz7fICs325Rzf11BKq8bXyh%2F55Q8PbcAMCQLvlvNulLpdxHMqvH5=
+TL7dnKsnZiG6p%2BHoYliIFbUqZnrVqFy%2FJNslNhOXeb8CQX2KQnzH0mFvh&amp;G=3D0&a=
+mp;R=3Dhttps%3A%2F%2FJBPGGYZTANA.hatchbuck.com%2FTrackLinkClick%3FID2%3Di=
+9hINRc_yyAvf_VLJ7Nia6Cmicf95MPXi_VLjg4Pxjz7DcJL7aWmoka13s1KUnnX0&amp;I=3D=
+20220916200020.0000007c04dd%40smtp-ad1-46-phx&amp;X=3DMHwxMjY0OTIyOjI3NzE=
+1MTI3OTg7MXwxMjY0OTIzOjIzODgxODkyMTs%3D&amp;V=3D3&amp;S=3D3cJWDr4iT6AzkcB=
+3wuUi1Irrbz3TDpfuOqa7oV1_2Pw" style=3D"color: #3c79af; text-decoration: =
+none; margin-top: 0px; margin-bottom: 0px; word-break: normal; display: =
+inline;">Watch this short clip</a> where Cathy Webb, librarian at Mark =
+Twain Elementary, explains the importance of students being able to see =
+themselves and their peers reflected in school library collections.</p>
+</td></tr></tbody></table></td></tr></tbody></table><table =
+width=3D"100%" style=3D"width:100%; min-width:100%; table-layout:fixed;" =
+cellpadding=3D"0" cellspacing=3D"0"><tbody><tr><td class=3D"column-td" =
+align=3D"center" style=3D"padding: 5px; border: none;"><table =
+class=3D"responsive-table" cellpadding=3D"0" cellspacing=3D"0" =
+style=3D"width:100%; min-width:100%; table-layout:fixed;"><tbody><tr><td =
+class=3D"block" style=3D"background-color: transparent; margin: 5px; =
+word-break: normal; padding: 10px; border: none;"><p =
+style=3D"text-align: left; color: #000000; font-family: Arial; =
+font-size: 16px; line-height: normal; font-weight: normal; font-style: =
+normal; text-decoration: none; margin-top: 0px; margin-bottom: 0px; =
+word-break: normal; display: block;" class=3D"mFont16"><span =
+style=3D"color:#f08622"><span style=3D"font-size:20px"><span =
+style=3D"font-family:Arial,Helvetica,sans-serif"><strong>Mentors needed =
+for local students&nbsp;&nbsp;</strong></span></span></span></p>
+
+<p style=3D"color: #000000; font-family: Arial; font-size: 16px; =
+line-height: normal; font-weight: normal; font-style: normal; =
+text-decoration: none; margin-top: 0px; margin-bottom: 0px; word-break: =
+normal; display: block;" class=3D"mFont16">Become a Lunch Buddy mentor =
+and make a difference in the life of a local elementary school student. =
+The LINKS Lunch Buddy Program is seeking volunteers to mentor young =
+students in Kirkland, Redmond and Sammamish. Give 45 minutes of your =
+time each week to enjoy fun games and crafts, and to talk with a student =
+who could really benefit from some extra social-emotional support at =
+school.&nbsp;</p>
+
+<p style=3D"color: #000000; font-family: Arial; font-size: 16px; =
+line-height: normal; font-weight: normal; font-style: normal; =
+text-decoration: none; margin-top: 0px; margin-bottom: 0px; word-break: =
+normal; display: block;" class=3D"mFont16">&nbsp;</p>
+
+<p style=3D"color: #000000; font-family: Arial; font-size: 16px; =
+line-height: normal; font-weight: normal; font-style: normal; =
+text-decoration: none; margin-top: 0px; margin-bottom: 0px; word-break: =
+normal; display: block;" class=3D"mFont16">To learn about the process =
+and how to apply, visit <a =
+href=3D"http://link.email.dynect.net/link.php?DynEngagement=3Dtrue&amp;H=3D=
+ZMyLy4zTjFwvNxIiQxXYz7fICs325Rzf11BKq8bXyh%2F55Q8PbcAMCQLvlvNulLpdxHMqvH5=
+TL7dnKsnZiG6p%2BHoYliIFbUqZnrVqFy%2FJNslNhOXeb8CQX2KQnzH0mFvh&amp;G=3D0&a=
+mp;R=3Dhttps%3A%2F%2FJBPGGYZTANA.hatchbuck.com%2FTrackLinkClick%3FID2%3Dt=
+A0BcG43HCTDk-YiQBiOhY6jMSaB9Fl4pAwN_yH3zkisdLlTrnxkVkB__zTHi5RY0&amp;I=3D=
+20220916200020.0000007c04dd%40smtp-ad1-46-phx&amp;X=3DMHwxMjY0OTIyOjI3NzE=
+1MTI3OTg7MXwxMjY0OTIzOjIzODgxODkyMTs%3D&amp;V=3D3&amp;S=3DMJJNdMIxnC65zvB=
+zGe6EZ6epsNxE1zlK5c9nOrfGAyI" style=3D"color: #3c79af; text-decoration: =
+none; margin-top: 0px; margin-bottom: 0px; word-break: normal; display: =
+inline;">www.lwsd.org/links</a>. Please contact Victoria Goetze-Nelson =
+at <a href=3D"mailto:vgoetzenelson@lwsd.org" style=3D"color: #3c79af; =
+text-decoration: none; margin-top: 0px; margin-bottom: 0px; word-break: =
+normal; display: inline;">vgoetzenelson@lwsd.org</a> or call =
+425-936-1410 if you have any questions. Mentor training and support will =
+be provided.&nbsp;</p>
+</td></tr></tbody></table></td></tr></tbody></table><table =
+width=3D"100%" style=3D"width:100%; min-width:100%; table-layout:fixed;" =
+cellpadding=3D"0" cellspacing=3D"0"><tbody><tr><td class=3D"column-td" =
+align=3D"center" style=3D"padding: 5px; border: none;"><table =
+class=3D"responsive-table" cellpadding=3D"0" cellspacing=3D"0" =
+style=3D"width:100%; min-width:100%; table-layout:fixed;"><tbody><tr><td =
+class=3D"block" style=3D"background-color: transparent; margin: 5px; =
+word-break: normal; padding: 10px; border: none;"><p =
+style=3D"text-align: left; color: #000000; font-family: Arial; =
+font-size: 16px; line-height: normal; font-weight: normal; font-style: =
+normal; text-decoration: none; margin-top: 0px; margin-bottom: 0px; =
+word-break: normal; display: block;" class=3D"mFont16"><a =
+href=3D"http://link.email.dynect.net/link.php?DynEngagement=3Dtrue&amp;H=3D=
+ZMyLy4zTjFwvNxIiQxXYz7fICs325Rzf11BKq8bXyh%2F55Q8PbcAMCQLvlvNulLpdxHMqvH5=
+TL7dnKsnZiG6p%2BHoYliIFbUqZnrVqFy%2FJNslNhOXeb8CQX2KQnzH0mFvh&amp;G=3D0&a=
+mp;R=3Dhttps%3A%2F%2FJBPGGYZTANA.hatchbuck.com%2FTrackLinkClick%3FID2%3Dr=
+RDyyKsH2YQTKGIHX_RMe8X5-yv3pjYgzsSQ_MwC1OMcfKUUq5nH2kfjUPVmSyNz0&amp;I=3D=
+20220916200020.0000007c04dd%40smtp-ad1-46-phx&amp;X=3DMHwxMjY0OTIyOjI3NzE=
+1MTI3OTg7MXwxMjY0OTIzOjIzODgxODkyMTs%3D&amp;V=3D3&amp;S=3D3tzc3ueB3qMnzYg=
+bSOVbF_N5sjGLKxCxFxhA__QPw8U" style=3D"color: #3c79af; text-decoration: =
+none; margin-top: 0px; margin-bottom: 0px; word-break: normal; display: =
+inline;"><img alt=3D"" height=3D"305" =
+src=3D"https://s3.hatchbuck.com/TemplateImage/05786cd28897a76ab9925ace271=
+78a5412846de6396753efe1d26f4d69261e46.png" style=3D"float: right; =
+vertical-align: bottom; margin: 5px;" width=3D"200" align=3D"right" =
+vertical-align=3D"bottom" margin=3D"5" =
+data-unique-identifier=3D""></a><span style=3D"color:#f08622"><span =
+style=3D"font-size:20px"><span =
+style=3D"font-family:Arial,Helvetica,sans-serif"><strong>Reminder: Teen =
+Startup event application =
+deadline&nbsp;</strong></span></span></span></p>
+
+<p style=3D"color: #000000; font-family: Arial; font-size: 16px; =
+line-height: normal; font-weight: normal; font-style: normal; =
+text-decoration: none; margin-top: 0px; margin-bottom: 0px; word-break: =
+normal; display: block;" class=3D"mFont16">The LWSD Teen Startup =
+Challenge is designed to promote student startup ideas and venture =
+creation. The challenge provides the opportunity for high school =
+students to win prizes and learn from local business leaders. Finalists =
+will present their ideas and business plans and receive invaluable =
+feedback from successful professionals. The application deadline for =
+this event is midnight on October 3, 2022. Visit <a =
+href=3D"http://link.email.dynect.net/link.php?DynEngagement=3Dtrue&amp;H=3D=
+ZMyLy4zTjFwvNxIiQxXYz7fICs325Rzf11BKq8bXyh%2F55Q8PbcAMCQLvlvNulLpdxHMqvH5=
+TL7dnKsnZiG6p%2BHoYliIFbUqZnrVqFy%2FJNslNhOXeb8CQX2KQnzH0mFvh&amp;G=3D0&a=
+mp;R=3Dhttps%3A%2F%2FJBPGGYZTANA.hatchbuck.com%2FTrackLinkClick%3FID2%3Dr=
+RDyyKsH2YQTKGIHX_RMe8X5-yv3pjYgzsSQ_MwC1OMcfKUUq5nH2kfjUPVmSyNz0&amp;I=3D=
+20220916200020.0000007c04dd%40smtp-ad1-46-phx&amp;X=3DMHwxMjY0OTIyOjI3NzE=
+1MTI3OTg7MXwxMjY0OTIzOjIzODgxODkyMTs%3D&amp;V=3D3&amp;S=3D3tzc3ueB3qMnzYg=
+bSOVbF_N5sjGLKxCxFxhA__QPw8U" style=3D"color: #3c79af; text-decoration: =
+none; margin-top: 0px; margin-bottom: 0px; word-break: normal; display: =
+inline;">www.lwsd.org/teen-startup</a> to learn more about this =
+event.</p>
+</td></tr></tbody></table></td></tr></tbody></table><table =
+width=3D"100%" style=3D"width:100%; min-width:100%; table-layout:fixed;" =
+cellpadding=3D"0" cellspacing=3D"0"><tbody><tr><td class=3D"column-td" =
+align=3D"center" style=3D"padding: 0px; border: none;"><table =
+class=3D"responsive-table" cellpadding=3D"0" cellspacing=3D"0" =
+style=3D"width:100%; min-width:100%; table-layout:fixed;"><tbody><tr><td =
+class=3D"block" style=3D"background-color: transparent; margin: 0px; =
+word-break: normal; padding: 10px 0px 5px 5px; border: none;"><h1 =
+style=3D"text-align: left; color: #00878f; font-family: Arial; =
+font-size: 24px; line-height: normal; font-weight: bold; font-style: =
+normal; text-decoration: none; margin-top: 0px; margin-bottom: 0px; =
+word-break: normal; display: block;" class=3D"mFont24"><img alt=3D"" =
+height=3D"43" =
+src=3D"https://s3.hatchbuck.com/TemplateImage/54aeea86a376336d31608908a20=
+36ba7faf1611cc6443358c737fe310736fb73.jpg" width=3D"50" =
+style=3D"vertical-align: bottom; margin: 5px;" vertical-align=3D"bottom" =
+data-unique-identifier=3D"">&nbsp;<strong>Building on =
+Success</strong></h1>
+</td></tr></tbody></table></td></tr></tbody></table><table =
+width=3D"100%" style=3D"width:100%; min-width:100%; table-layout:fixed;" =
+cellpadding=3D"0" cellspacing=3D"0"><tbody><tr><td class=3D"column-td" =
+align=3D"center" style=3D"padding: 0px; border: none;"><table =
+class=3D"responsive-table" cellpadding=3D"0" cellspacing=3D"0" =
+style=3D"width:100%; min-width:100%; table-layout:fixed;"><tbody><tr><td =
+class=3D"block" style=3D"background-color: transparent; margin: 0px; =
+word-break: normal; padding: 10px 0px 5px 5px; border: none;"><p =
+style=3D"text-align: left; color: #000000; font-family: Arial; =
+font-size: 16px; line-height: normal; font-weight: normal; font-style: =
+normal; text-decoration: none; margin-top: 0px; margin-bottom: 0px; =
+word-break: normal; display: block;" class=3D"mFont16"><span =
+style=3D"font-family:Arial,Helvetica,sans-serif"><strong><span =
+style=3D"color:#007596">Building on Success</span></strong> is Lake =
+Washington School District's long-term plan to reduce overcrowding, =
+accommodate growing enrollment, and continue to provide quality learning =
+environments and experiences for our students.&nbsp;</span></p>
+</td></tr></tbody></table></td></tr></tbody></table><table =
+width=3D"100%" style=3D"width:100%; min-width:100%; table-layout:fixed;" =
+cellpadding=3D"0" cellspacing=3D"0"><tbody><tr><td class=3D"column-td" =
+align=3D"center" style=3D"padding: 5px; border: none;"><table =
+class=3D"responsive-table" cellpadding=3D"0" cellspacing=3D"0" =
+style=3D"width:100%; min-width:100%; table-layout:fixed;"><tbody><tr><td =
+class=3D"block" style=3D"background-color: transparent; margin: 5px; =
+word-break: normal; padding: 10px; border: none;"><p style=3D"color: =
+#000000; font-family: Arial; font-size: 16px; line-height: normal; =
+font-weight: normal; font-style: normal; text-decoration: none; =
+margin-top: 0px; margin-bottom: 0px; word-break: normal; display: =
+block;" class=3D"mFont16"><span style=3D"color:#f08622"><span =
+style=3D"font-size:20px"><span =
+style=3D"font-family:Arial,Helvetica,sans-serif"><strong>Summer =
+construction update</strong></span></span></span></p>
+
+<p style=3D"color: #000000; font-family: Arial; font-size: 16px; =
+line-height: normal; font-weight: normal; font-style: normal; =
+text-decoration: none; margin-top: 0px; margin-bottom: 0px; word-break: =
+normal; display: block;" class=3D"mFont16">Thanks to our voters, LWSD =
+construction teams have been busy this summer. Most of the summer =
+construction projects were completed with a few finishing up in the next =
+few weeks. All of these projects will give our students the space they =
+need to thrive and be future ready. Below is an overview of the summer =
+construction and project planning for the upcoming school =
+year.&nbsp;<br>
+&nbsp;</p>
+
+<p style=3D"text-align: center; color: #000000; font-family: Arial; =
+font-size: 16px; line-height: normal; font-weight: normal; font-style: =
+normal; text-decoration: none; margin-top: 0px; margin-bottom: 0px; =
+word-break: normal; display: block;" class=3D"mFont16"><img alt=3D"New =
+addition at Carson Elementary" height=3D"200" =
+src=3D"https://s3.hatchbuck.com/TemplateImage/0821958acbf106a4bd460d4fbb4=
+5ca70cdc2544b09c77aa92a1eae8fff3fcbc6.JPG" width=3D"300" align=3D"" =
+style=3D"vertical-align: bottom; margin: 5px;" vertical-align=3D"bottom" =
+data-unique-identifier=3D""></p>
+
+<p style=3D"text-align: center; color: #000000; font-family: Arial; =
+font-size: 16px; line-height: normal; font-weight: normal; font-style: =
+normal; text-decoration: none; margin-top: 0px; margin-bottom: 0px; =
+word-break: normal; display: block;" class=3D"mFont16">=E2=80=8BNew =
+addition at Carson Elementary<br>
+&nbsp;</p>
+
+<p style=3D"color: #000000; font-family: Arial; font-size: 16px; =
+line-height: normal; font-weight: normal; font-style: normal; =
+text-decoration: none; margin-top: 0px; margin-bottom: 0px; word-break: =
+normal; display: block;" class=3D"mFont16"><span =
+style=3D"color:#f08622"><span style=3D"font-size:20px"><span =
+style=3D"font-family:Arial,Helvetica,sans-serif"><strong>2019 =
+Construction Levy projects</strong></span></span></span></p>
+
+<p style=3D"color: #000000; font-family: Arial; font-size: 16px; =
+line-height: normal; font-weight: normal; font-style: normal; =
+text-decoration: none; margin-top: 0px; margin-bottom: 0px; word-break: =
+normal; display: block;" class=3D"mFont16">Projects to provide =
+additional capacity are ready for students and staff. Rachel Carson =
+Elementary now has four new classrooms to accommodate the =
+community=E2=80=99s growing number of students. Mark Twain =
+Elementary=E2=80=99s new gym was ready for the first day of school. =
+Students attending Rose Hill Elementary enjoyed using their new commons =
+expansion on their first day. Ben Franklin=E2=80=99s new gymnasium is =
+scheduled to open to students on Monday, September 19.&nbsp;</p>
+
+<p style=3D"color: #000000; font-family: Arial; font-size: 16px; =
+line-height: normal; font-weight: normal; font-style: normal; =
+text-decoration: none; margin-top: 0px; margin-bottom: 0px; word-break: =
+normal; display: block;" class=3D"mFont16">&nbsp;</p>
+
+<p style=3D"text-align: center; color: #000000; font-family: Arial; =
+font-size: 16px; line-height: normal; font-weight: normal; font-style: =
+normal; text-decoration: none; margin-top: 0px; margin-bottom: 0px; =
+word-break: normal; display: block;" class=3D"mFont16"><img alt=3D"New =
+gym at Twain Elementary " height=3D"200" =
+src=3D"https://s3.hatchbuck.com/TemplateImage/c7b1c1608c220ee12d1970c79a3=
+2ccbba7944d79c5e3c2b2fe5dae781344b665.jpg" width=3D"300" align=3D"" =
+style=3D"vertical-align: bottom; margin: 5px;" vertical-align=3D"bottom" =
+data-unique-identifier=3D""></p>
+
+<p style=3D"text-align: center; color: #000000; font-family: Arial; =
+font-size: 16px; line-height: normal; font-weight: normal; font-style: =
+normal; text-decoration: none; margin-top: 0px; margin-bottom: 0px; =
+word-break: normal; display: block;" class=3D"mFont16">New gym at Twain =
+Elementary<br>
+&nbsp;</p>
+
+<p style=3D"color: #000000; font-family: Arial; font-size: 16px; =
+line-height: normal; font-weight: normal; font-style: normal; =
+text-decoration: none; margin-top: 0px; margin-bottom: 0px; word-break: =
+normal; display: block;" class=3D"mFont16"><span =
+style=3D"color:#f08622"><span style=3D"font-size:20px"><span =
+style=3D"font-family:Arial,Helvetica,sans-serif"><strong>2018 School =
+Technology and Capital Projects Levy</strong></span></span></span></p>
+
+<p style=3D"color: #000000; font-family: Arial; font-size: 16px; =
+line-height: normal; font-weight: normal; font-style: normal; =
+text-decoration: none; margin-top: 0px; margin-bottom: 0px; word-break: =
+normal; display: block;" class=3D"mFont16">There are many facility =
+projects that were completed this summer under the 2018 school =
+technology and capital projects levy:&nbsp;</p>
+
+<ol>
+	<li style=3D"color: #000000; font-family: Arial; font-size: 16px; =
+line-height: normal; font-weight: normal; font-style: normal; =
+text-decoration: none;"><span =
+style=3D"font-family:Arial,Helvetica,sans-serif">Eastlake High School =
+(EHS) classroom conversions (addition three =
+classrooms)&nbsp;</span></li>
+	<li style=3D"color: #000000; font-family: Arial; font-size: 16px; =
+line-height: normal; font-weight: normal; font-style: normal; =
+text-decoration: none;"><span =
+style=3D"font-family:Arial,Helvetica,sans-serif">Traffic flow =
+enhancements at EHS</span></li>
+	<li style=3D"color: #000000; font-family: Arial; font-size: 16px; =
+line-height: normal; font-weight: normal; font-style: normal; =
+text-decoration: none;"><span =
+style=3D"font-family:Arial,Helvetica,sans-serif">Parking and traffic =
+flow enhancements at Juanita Elementary School&nbsp;</span></li>
+	<li style=3D"color: #000000; font-family: Arial; font-size: 16px; =
+line-height: normal; font-weight: normal; font-style: normal; =
+text-decoration: none;"><span =
+style=3D"font-family:Arial,Helvetica,sans-serif">Special Services =
+projects at multiple sites&nbsp;</span></li>
+	<li style=3D"color: #000000; font-family: Arial; font-size: 16px; =
+line-height: normal; font-weight: normal; font-style: normal; =
+text-decoration: none;"><span =
+style=3D"font-family:Arial,Helvetica,sans-serif">Space =
+conversions/enhancements at Redmond High School</span></li>
+	<li style=3D"color: #000000; font-family: Arial; font-size: 16px; =
+line-height: normal; font-weight: normal; font-style: normal; =
+text-decoration: none;"><span =
+style=3D"font-family:Arial,Helvetica,sans-serif">Flooring improvements =
+at Twain Elementary School&nbsp;</span></li>
+	<li style=3D"color: #000000; font-family: Arial; font-size: 16px; =
+line-height: normal; font-weight: normal; font-style: normal; =
+text-decoration: none;"><span =
+style=3D"font-family:Arial,Helvetica,sans-serif">Roofing improvements at =
+the Juanita High School (JHS) Fieldhouse</span></li>
+	<li style=3D"color: #000000; font-family: Arial; font-size: 16px; =
+line-height: normal; font-weight: normal; font-style: normal; =
+text-decoration: none;"><span =
+style=3D"font-family:Arial,Helvetica,sans-serif">Roofing improvement at =
+Inglewood Middle School</span></li>
+	<li style=3D"color: #000000; font-family: Arial; font-size: 16px; =
+line-height: normal; font-weight: normal; font-style: normal; =
+text-decoration: none;"><span =
+style=3D"font-family:Arial,Helvetica,sans-serif">ADA upgrades at Bell =
+Elementary School</span></li>
+	<li style=3D"color: #000000; font-family: Arial; font-size: 16px; =
+line-height: normal; font-weight: normal; font-style: normal; =
+text-decoration: none;"><span =
+style=3D"font-family:Arial,Helvetica,sans-serif">Security system upgrade =
+at Rockwell Elementary School</span></li>
+	<li style=3D"color: #000000; font-family: Arial; font-size: 16px; =
+line-height: normal; font-weight: normal; font-style: normal; =
+text-decoration: none;"><span =
+style=3D"font-family:Arial,Helvetica,sans-serif">Security system upgrade =
+at Dickinson Elementary School</span></li>
+</ol>
+
+<p style=3D"color: #000000; font-family: Arial; font-size: 16px; =
+line-height: normal; font-weight: normal; font-style: normal; =
+text-decoration: none; margin-top: 0px; margin-bottom: 0px; word-break: =
+normal; display: block;" class=3D"mFont16"><span =
+style=3D"color:#f08622"><span style=3D"font-size:20px"><span =
+style=3D"font-family:Arial,Helvetica,sans-serif"><strong>2022 School =
+Technology and Capital Projects Levy</strong></span></span></span></p>
+
+<p style=3D"color: #000000; font-family: Arial; font-size: 16px; =
+line-height: normal; font-weight: normal; font-style: normal; =
+text-decoration: none; margin-top: 0px; margin-bottom: 0px; word-break: =
+normal; display: block;" class=3D"mFont16">Project planning is underway =
+for the 2022-23 year to include:&nbsp;</p>
+
+<ol>
+	<li style=3D"color: #000000; font-family: Arial; font-size: 16px; =
+line-height: normal; font-weight: normal; font-style: normal; =
+text-decoration: none;"><span =
+style=3D"font-family:Arial,Helvetica,sans-serif">Water bottle filling =
+stations district-wide</span></li>
+	<li style=3D"color: #000000; font-family: Arial; font-size: 16px; =
+line-height: normal; font-weight: normal; font-style: normal; =
+text-decoration: none;"><span =
+style=3D"font-family:Arial,Helvetica,sans-serif">Tennis court upgrade at =
+Redmond Middle School</span></li>
+	<li style=3D"color: #000000; font-family: Arial; font-size: 16px; =
+line-height: normal; font-weight: normal; font-style: normal; =
+text-decoration: none;"><span =
+style=3D"font-family:Arial,Helvetica,sans-serif">Tennis court upgrade at =
+Rose Hill Middle School</span></li>
+	<li style=3D"color: #000000; font-family: Arial; font-size: 16px; =
+line-height: normal; font-weight: normal; font-style: normal; =
+text-decoration: none;"><span =
+style=3D"font-family:Arial,Helvetica,sans-serif">Traffic flow =
+enhancements at Audubon Elementary School</span></li>
+	<li style=3D"color: #000000; font-family: Arial; font-size: 16px; =
+line-height: normal; font-weight: normal; font-style: normal; =
+text-decoration: none;"><span =
+style=3D"font-family:Arial,Helvetica,sans-serif">Parking lot upgrades at =
+Juanita High School</span></li>
+	<li style=3D"color: #000000; font-family: Arial; font-size: 16px; =
+line-height: normal; font-weight: normal; font-style: normal; =
+text-decoration: none;"><span =
+style=3D"font-family:Arial,Helvetica,sans-serif">Parking lot pavement =
+replacement at SSC-Transportation Bus Lot</span></li>
+	<li style=3D"color: #000000; font-family: Arial; font-size: 16px; =
+line-height: normal; font-weight: normal; font-style: normal; =
+text-decoration: none;"><span =
+style=3D"font-family:Arial,Helvetica,sans-serif">Pool upgrades at =
+Juanita High School</span></li>
+	<li style=3D"color: #000000; font-family: Arial; font-size: 16px; =
+line-height: normal; font-weight: normal; font-style: normal; =
+text-decoration: none;"><span =
+style=3D"font-family:Arial,Helvetica,sans-serif">Intercom upgrades at =
+Wilder Elementary School</span></li>
+	<li style=3D"color: #000000; font-family: Arial; font-size: 16px; =
+line-height: normal; font-weight: normal; font-style: normal; =
+text-decoration: none;"><span =
+style=3D"font-family:Arial,Helvetica,sans-serif">Intercom upgrades at =
+McAuliffe Elementary School</span></li>
+	<li style=3D"color: #000000; font-family: Arial; font-size: 16px; =
+line-height: normal; font-weight: normal; font-style: normal; =
+text-decoration: none;"><span =
+style=3D"font-family:Arial,Helvetica,sans-serif">Classroom conversions =
+at multiple sites</span></li>
+	<li style=3D"color: #000000; font-family: Arial; font-size: 16px; =
+line-height: normal; font-weight: normal; font-style: normal; =
+text-decoration: none;"><span =
+style=3D"font-family:Arial,Helvetica,sans-serif">Roofing improvements at =
+multiple sites</span></li>
+	<li style=3D"color: #000000; font-family: Arial; font-size: 16px; =
+line-height: normal; font-weight: normal; font-style: normal; =
+text-decoration: none;"><span =
+style=3D"font-family:Arial,Helvetica,sans-serif">Flooring improvements =
+at multiple sites</span></li>
+	<li style=3D"color: #000000; font-family: Arial; font-size: 16px; =
+line-height: normal; font-weight: normal; font-style: normal; =
+text-decoration: none;"><span =
+style=3D"font-family:Arial,Helvetica,sans-serif">Field and track =
+upgrades at Inglewood Middle School</span></li>
+	<li style=3D"color: #000000; font-family: Arial; font-size: 16px; =
+line-height: normal; font-weight: normal; font-style: normal; =
+text-decoration: none;"><span =
+style=3D"font-family:Arial,Helvetica,sans-serif">Stadium field and track =
+upgrade at Lake Washington High School</span></li>
+</ol>
+
+<p style=3D"color: #000000; font-family: Arial; font-size: 16px; =
+line-height: normal; font-weight: normal; font-style: normal; =
+text-decoration: none; margin-top: 0px; margin-bottom: 0px; word-break: =
+normal; display: block;" class=3D"mFont16">&nbsp;</p>
+
+<p style=3D"color: #000000; font-family: Arial; font-size: 16px; =
+line-height: normal; font-weight: normal; font-style: normal; =
+text-decoration: none; margin-top: 0px; margin-bottom: 0px; word-break: =
+normal; display: block;" class=3D"mFont16"><span =
+style=3D"color:#f08622"><span style=3D"font-size:20px"><span =
+style=3D"font-family:Arial,Helvetica,sans-serif"><strong>2022 Building =
+Excellence Construction Levy</strong></span></span></span></p>
+
+<p style=3D"color: #000000; font-family: Arial; font-size: 16px; =
+line-height: normal; font-weight: normal; font-style: normal; =
+text-decoration: none; margin-top: 0px; margin-bottom: 0px; word-break: =
+normal; display: block;" class=3D"mFont16">Design and permitting is =
+underway for the upcoming projects which will provide critical capacity =
+and reduce overcrowding:&nbsp;</p>
+
+<ol>
+	<li style=3D"color: #000000; font-family: Arial; font-size: 16px; =
+line-height: normal; font-weight: normal; font-style: normal; =
+text-decoration: none;"><span =
+style=3D"font-family:Arial,Helvetica,sans-serif">Eight classroom =
+addition at Kirkland Middle School</span></li>
+	<li style=3D"color: #000000; font-family: Arial; font-size: 16px; =
+line-height: normal; font-weight: normal; font-style: normal; =
+text-decoration: none;"><span =
+style=3D"font-family:Arial,Helvetica,sans-serif">Eight classroom =
+addition at Finn Hill Middle School&nbsp;</span></li>
+	<li style=3D"color: #000000; font-family: Arial; font-size: 16px; =
+line-height: normal; font-weight: normal; font-style: normal; =
+text-decoration: none;"><span =
+style=3D"font-family:Arial,Helvetica,sans-serif">Eight classroom =
+addition at Redmond Middle School&nbsp;</span></li>
+	<li style=3D"color: #000000; font-family: Arial; font-size: 16px; =
+line-height: normal; font-weight: normal; font-style: normal; =
+text-decoration: none;"><span =
+style=3D"font-family:Arial,Helvetica,sans-serif">New Redmond Elementary =
+School on Redmond Elementary School Campus&nbsp;</span></li>
+	<li style=3D"color: #000000; font-family: Arial; font-size: 16px; =
+line-height: normal; font-weight: normal; font-style: normal; =
+text-decoration: none;"><span =
+style=3D"font-family:Arial,Helvetica,sans-serif">New High School =
+Capacity - Eastside (Sammamish)&nbsp;</span></li>
+</ol>
+</td></tr></tbody></table></td></tr></tbody></table><table =
+width=3D"100%" style=3D"width:100%; min-width:100%; table-layout:fixed;" =
+cellpadding=3D"0" cellspacing=3D"0"><tbody><tr><td class=3D"column-td" =
+align=3D"center" style=3D"padding: 0px; border: none;"><table =
+class=3D"responsive-table" cellpadding=3D"0" cellspacing=3D"0" =
+style=3D"width:100%; min-width:100%; table-layout:fixed;"><tbody><tr><td =
+class=3D"block" style=3D"background-color: transparent; margin: 0px; =
+word-break: normal; padding: 10px 0px 5px 5px; border: none;"><h1 =
+style=3D"text-align: left; color: #00878f; font-family: Arial; =
+font-size: 24px; line-height: normal; font-weight: bold; font-style: =
+normal; text-decoration: none; margin-top: 0px; margin-bottom: 0px; =
+word-break: normal; display: block;" class=3D"mFont24"><img =
+alt=3D"Award-ribbon-gold-30x30.png" height=3D"55" =
+src=3D"https://s3.hatchbuck.com/TemplateImage/2b245818ee1f9e3a03863babe7c=
+4e5acd9ab87585febd743d707a6ffa2f6ca5c.png" width=3D"36" =
+style=3D"vertical-align: bottom; margin: 5px;" vertical-align=3D"bottom" =
+data-unique-identifier=3D"">&nbsp;<strong>Student &amp; Staff =
+Success</strong></h1>
+</td></tr></tbody></table></td></tr></tbody></table><table =
+width=3D"100%" style=3D"width:100%; min-width:100%; table-layout:fixed;" =
+cellpadding=3D"0" cellspacing=3D"0"><tbody><tr><td class=3D"column-td" =
+align=3D"center" style=3D"padding: 5px; border: none;"><table =
+class=3D"responsive-table" cellpadding=3D"0" cellspacing=3D"0" =
+style=3D"width:100%; min-width:100%; table-layout:fixed;"><tbody><tr><td =
+class=3D"block" style=3D"background-color: transparent; margin: 5px; =
+word-break: normal; padding: 10px; border: none;"><p style=3D"color: =
+#000000; font-family: Arial; font-size: 16px; line-height: normal; =
+font-weight: normal; font-style: normal; text-decoration: none; =
+margin-top: 0px; margin-bottom: 0px; word-break: normal; display: =
+block;" class=3D"mFont16"><img alt=3D"HOSA logo" height=3D"117" =
+src=3D"https://s3.hatchbuck.com/TemplateImage/6232357aa838ea6f849ab3747a9=
+6e2889368515d111418d14f2c75fb995fc37c.jpg" style=3D"float: right; =
+vertical-align: bottom; margin: 5px;" width=3D"299" align=3D"right" =
+vertical-align=3D"bottom" margin=3D"5" data-unique-identifier=3D""><span =
+style=3D"color:#f08622"><span style=3D"font-size:20px"><span =
+style=3D"font-family:Arial,Helvetica,sans-serif"><strong>Health first =
+=E2=80=93 LWSD students place in top ten at national health =
+professionals competition</strong></span></span></span></p>
+
+<p style=3D"color: #000000; font-family: Arial; font-size: 16px; =
+line-height: normal; font-weight: normal; font-style: normal; =
+text-decoration: none; margin-top: 0px; margin-bottom: 0px; word-break: =
+normal; display: block;" class=3D"mFont16">Lake Washington School =
+District students have a lot to be proud of. These students recently =
+traveled to Nashville, Tenn. for the HOSA =E2=80=93 Future Health =
+Professionals International Leadership Conference and finished in the =
+top ten. Students from all over the world participate in competitive =
+events, educational seminars, networking and more during the four-day =
+conference. <a =
+href=3D"http://link.email.dynect.net/link.php?DynEngagement=3Dtrue&amp;H=3D=
+ZMyLy4zTjFwvNxIiQxXYz7fICs325Rzf11BKq8bXyh%2F55Q8PbcAMCQLvlvNulLpdxHMqvH5=
+TL7dnKsnZiG6p%2BHoYliIFbUqZnrVqFy%2FJNslNhOXeb8CQX2KQnzH0mFvh&amp;G=3D0&a=
+mp;R=3Dhttps%3A%2F%2FJBPGGYZTANA.hatchbuck.com%2FTrackLinkClick%3FID2%3DC=
+9Fw-WV-C-sZ6a9ApM7vkAY_JaGDsT7PStDtu7Glrox2yVtNlektSrUW1Ilw7EbK0&amp;I=3D=
+20220916200020.0000007c04dd%40smtp-ad1-46-phx&amp;X=3DMHwxMjY0OTIyOjI3NzE=
+1MTI3OTg7MXwxMjY0OTIzOjIzODgxODkyMTs%3D&amp;V=3D3&amp;S=3DjKaUHoYklpBP5C0=
+l6SiyshM-HQ0xIu7Vx4RFrsCzygo" style=3D"color: #3c79af; text-decoration: =
+none; margin-top: 0px; margin-bottom: 0px; word-break: normal; display: =
+inline;">Read more about this on the LWSD website</a>.&nbsp;</p>
+</td></tr></tbody></table></td></tr></tbody></table><table =
+class=3D"responsive-table" cellpadding=3D"0" cellspacing=3D"0" =
+width=3D"100%" style=3D"width:100%; =
+border-collapse:collapse;"><tbody><tr><td style=3D"padding: 0px; =
+border-collapse: collapse; box-sizing: border-box; border: none;" =
+width=3D"600"><table width=3D"100%" cellpadding=3D"0" cellspacing=3D"0" =
+style=3D"width:100%; min-width:100%; table-layout:fixed;"><tbody><tr><td =
+class=3D"column-td" align=3D"center" style=3D"background-color: =
+transparent; margin: 0px; word-break: normal; padding: 10px; border: =
+none;"><table class=3D"divider-content-block responsive-table" =
+style=3D"border: none;" width=3D"100%" align=3D"center"><tbody><tr><td =
+style=3D"border: none; font-size: 1px; line-height: 1px; width: 100%; =
+padding: 0px 5px;" class=3D"divider-cell" width=3D"100%" =
+bgcolor=3D"transparent"><table width=3D"100%" style=3D"width: 100%; =
+min-width: 100%; table-layout: fixed; background-color: #dedede;" =
+cellpadding=3D"0" cellspacing=3D"0"><tbody><tr><td style=3D"border: =
+none;"><img height=3D"1" width=3D"100%" align=3D"left" border=3D"0" =
+style=3D"margin:0; height:1px; background:#DEDEDE" =
+src=3D"https://s3.hatchbuck.com/MediaFiles/ba378066e8d9d6532b4a341447b29a=
+2df049d72b1a74bd07f2084288a76cb6bb.png" margin=3D"0" =
+data-unique-identifier=3D""></td></tr></tbody></table></td></tr></tbody><=
+/table></td></tr></tbody></table></td></tr></tbody></table><table =
+class=3D"responsive-table" cellpadding=3D"0" cellspacing=3D"0" =
+width=3D"100%" style=3D"width:100%; =
+border-collapse:collapse;"><tbody><tr><td style=3D"padding: 0px; =
+border-collapse: collapse; box-sizing: border-box; border: none;" =
+width=3D"600"><table width=3D"100%" cellpadding=3D"0" cellspacing=3D"0" =
+style=3D"width:100%; min-width:100%; table-layout:fixed;"><tbody><tr><td =
+class=3D"column-td" align=3D"center" style=3D"background-color: =
+transparent; margin: 0px; word-break: normal; padding: 5px; border: =
+none;"><table class=3D"social" style=3D"margin:0 =
+auto;text-align:center"><tbody><tr><td style=3D"padding: 5px; =
+list-style: none; text-align: left; display: inline-block; height: 34px; =
+border: none;"><a style=3D"text-decoration: none; color: #6c6c6c; =
+margin-top: 0px; margin-bottom: 0px; word-break: normal; display: =
+inline;" =
+href=3D"http://link.email.dynect.net/link.php?DynEngagement=3Dtrue&amp;H=3D=
+ZMyLy4zTjFwvNxIiQxXYz7fICs325Rzf11BKq8bXyh%2F55Q8PbcAMCQLvlvNulLpdxHMqvH5=
+TL7dnKsnZiG6p%2BHoYliIFbUqZnrVqFy%2FJNslNhOXeb8CQX2KQnzH0mFvh&amp;G=3D0&a=
+mp;R=3Dhttps%3A%2F%2FJBPGGYZTANA.hatchbuck.com%2FTrackLinkClick%3FID2%3Dj=
+vy92GqRQTPV99FP_y_2J3kYHSQv_RzX_3uOB6IVHMSQFAiGL4dzRiIDQCHSGhlo0&amp;I=3D=
+20220916200020.0000007c04dd%40smtp-ad1-46-phx&amp;X=3DMHwxMjY0OTIyOjI3NzE=
+1MTI3OTg7MXwxMjY0OTIzOjIzODgxODkyMTs%3D&amp;V=3D3&amp;S=3Dq0PwJr365UrfuRe=
+XlZYpnbemkFmYXz5hvesSt-XueWA" target=3D"_blank"><!--[if mso]><v:oval =
+xmlns:v=3D"urn:schemas-microsoft-com:vml" =
+xmlns:w=3D"urn:schemas-microsoft-com:office:word" =
+href=3D"https://www.facebook.com/LakeWashingtonSchools" =
+style=3D"height:32px; width:32px;" fill=3D"true" stroke=3D"false" =
+fillcolor=3D"#000000"><v:fill type=3D"frame" style=3D"height: 32px; =
+width: 32px;" =
+src=3D"https://s3.hatchbuck.com/EmailBuilder/SocialMediaIcons/All/faceboo=
+k.png"></v:oval><![endif]--><!--[if !mso]><!--><span><img =
+style=3D"border-radius:50px; height: 24px; width: =
+24px;vertical-align:middle;display:inline-block;background-color:#000000;=
+" =
+src=3D"https://s3.hatchbuck.com/EmailBuilder/SocialMediaIcons/All/faceboo=
+k.png" border-radius=3D"50" height=3D"24" width=3D"24" =
+data-unique-identifier=3D""></span></a><!-- <![endif]--></td><td =
+style=3D"padding: 5px; list-style: none; text-align: left; display: =
+inline-block; height: 34px; border: none;"><a style=3D"text-decoration: =
+none; color: #6c6c6c; margin-top: 0px; margin-bottom: 0px; word-break: =
+normal; display: inline;" =
+href=3D"http://link.email.dynect.net/link.php?DynEngagement=3Dtrue&amp;H=3D=
+ZMyLy4zTjFwvNxIiQxXYz7fICs325Rzf11BKq8bXyh%2F55Q8PbcAMCQLvlvNulLpdxHMqvH5=
+TL7dnKsnZiG6p%2BHoYliIFbUqZnrVqFy%2FJNslNhOXeb8CQX2KQnzH0mFvh&amp;G=3D0&a=
+mp;R=3Dhttps%3A%2F%2FJBPGGYZTANA.hatchbuck.com%2FTrackLinkClick%3FID2%3Dp=
+vDb6l9vibwikTx9514q8j_Zxcwhq9cQQcyEEC5WVQULV7t1pJFGP44Te9SZeXZR0&amp;I=3D=
+20220916200020.0000007c04dd%40smtp-ad1-46-phx&amp;X=3DMHwxMjY0OTIyOjI3NzE=
+1MTI3OTg7MXwxMjY0OTIzOjIzODgxODkyMTs%3D&amp;V=3D3&amp;S=3D3WUtbY1pXV-gsBF=
+MW2wWySj5YYz8nJMDl9PhRLWr_wI" target=3D"_blank"><!--[if mso]><v:oval =
+xmlns:v=3D"urn:schemas-microsoft-com:vml" =
+xmlns:w=3D"urn:schemas-microsoft-com:office:word" =
+href=3D"https://twitter.com/LakeWashSchools" style=3D"height:32px; =
+width:32px;" fill=3D"true" stroke=3D"false" =
+fillcolor=3D"#000000"><v:fill type=3D"frame" style=3D"height: 32px; =
+width: 32px;" =
+src=3D"https://s3.hatchbuck.com/EmailBuilder/SocialMediaIcons/All/twitter=
+.png"></v:oval><![endif]--><!--[if !mso]><!--><span><img =
+style=3D"border-radius:50px; height: 24px; width: =
+24px;vertical-align:middle;display:inline-block;background-color:#000000;=
+" =
+src=3D"https://s3.hatchbuck.com/EmailBuilder/SocialMediaIcons/All/twitter=
+.png" border-radius=3D"50" height=3D"24" width=3D"24" =
+data-unique-identifier=3D""></span></a><!-- <![endif]--></td><td =
+style=3D"padding: 5px; list-style: none; text-align: left; display: =
+inline-block; height: 34px; border: none;"><a style=3D"text-decoration: =
+none; color: #6c6c6c; margin-top: 0px; margin-bottom: 0px; word-break: =
+normal; display: inline;" =
+href=3D"http://link.email.dynect.net/link.php?DynEngagement=3Dtrue&amp;H=3D=
+ZMyLy4zTjFwvNxIiQxXYz7fICs325Rzf11BKq8bXyh%2F55Q8PbcAMCQLvlvNulLpdxHMqvH5=
+TL7dnKsnZiG6p%2BHoYliIFbUqZnrVqFy%2FJNslNhOXeb8CQX2KQnzH0mFvh&amp;G=3D0&a=
+mp;R=3Dhttps%3A%2F%2FJBPGGYZTANA.hatchbuck.com%2FTrackLinkClick%3FID2%3Dd=
+6Wan0GD3aSXEoCTf-9v5abmAQ-YjvmjNkoYCczW18FOYwgowkrCPvOtW0zKvZpV0&amp;I=3D=
+20220916200020.0000007c04dd%40smtp-ad1-46-phx&amp;X=3DMHwxMjY0OTIyOjI3NzE=
+1MTI3OTg7MXwxMjY0OTIzOjIzODgxODkyMTs%3D&amp;V=3D3&amp;S=3DsfLofT6hxuEeLfQ=
+Ji3CkB5TaMos-nw3h7WZPVEcrupM" target=3D"_blank"><!--[if mso]><v:oval =
+xmlns:v=3D"urn:schemas-microsoft-com:vml" =
+xmlns:w=3D"urn:schemas-microsoft-com:office:word" =
+href=3D"https://www.lwsd.org" style=3D"height:32px; width:32px;" =
+fill=3D"true" stroke=3D"false" fillcolor=3D"#000000"><v:fill =
+type=3D"frame" style=3D"height: 32px; width: 32px;" =
+src=3D"https://s3.hatchbuck.com/EmailBuilder/SocialMediaIcons/All/home.pn=
+g"></v:oval><![endif]--><!--[if !mso]><!--><span><img =
+style=3D"border-radius:50px; height: 24px; width: =
+24px;vertical-align:middle;display:inline-block;background-color:#000000;=
+" =
+src=3D"https://s3.hatchbuck.com/EmailBuilder/SocialMediaIcons/All/home.pn=
+g" border-radius=3D"50" height=3D"24" width=3D"24" =
+data-unique-identifier=3D""></span></a><!-- <![endif]--></td><td =
+style=3D"padding: 5px; list-style: none; text-align: left; display: =
+inline-block; height: 34px; border: none;"><a style=3D"text-decoration: =
+none; color: #6c6c6c; margin-top: 0px; margin-bottom: 0px; word-break: =
+normal; display: inline;" =
+href=3D"http://link.email.dynect.net/link.php?DynEngagement=3Dtrue&amp;H=3D=
+ZMyLy4zTjFwvNxIiQxXYz7fICs325Rzf11BKq8bXyh%2F55Q8PbcAMCQLvlvNulLpdxHMqvH5=
+TL7dnKsnZiG6p%2BHoYliIFbUqZnrVqFy%2FJNslNhOXeb8CQX2KQnzH0mFvh&amp;G=3D0&a=
+mp;R=3Dhttps%3A%2F%2FJBPGGYZTANA.hatchbuck.com%2FTrackLinkClick%3FID2%3DW=
+D_9OAVqJm1PSl5OM2immleIvnxXOYQi49npITJGL9xOX9oW5E336V0rvw_R1JPh0&amp;I=3D=
+20220916200020.0000007c04dd%40smtp-ad1-46-phx&amp;X=3DMHwxMjY0OTIyOjI3NzE=
+1MTI3OTg7MXwxMjY0OTIzOjIzODgxODkyMTs%3D&amp;V=3D3&amp;S=3DcjU3UjjzN6bg-mf=
+s364UvAXjjsSDnsWOQUxlO51Yh9k" target=3D"_blank"><!--[if mso]><v:oval =
+xmlns:v=3D"urn:schemas-microsoft-com:vml" =
+xmlns:w=3D"urn:schemas-microsoft-com:office:word" =
+href=3D"https://www.instagram.com/lakewashingtonschools/" =
+style=3D"height:32px; width:32px;" fill=3D"true" stroke=3D"false" =
+fillcolor=3D"#000000"><v:fill type=3D"frame" style=3D"height: 32px; =
+width: 32px;" =
+src=3D"https://s3.hatchbuck.com/EmailBuilder/SocialMediaIcons/All/instagr=
+am.png"></v:oval><![endif]--><!--[if !mso]><!--><span><img =
+style=3D"border-radius:50px; height: 24px; width: =
+24px;vertical-align:middle;display:inline-block;background-color:#000000;=
+" =
+src=3D"https://s3.hatchbuck.com/EmailBuilder/SocialMediaIcons/All/instagr=
+am.png" border-radius=3D"50" height=3D"24" width=3D"24" =
+data-unique-identifier=3D""></span></a><!-- <![endif]--></td><td =
+style=3D"padding: 5px; list-style: none; text-align: left; display: =
+inline-block; height: 34px; border: none;"><a style=3D"text-decoration: =
+none; color: #6c6c6c; margin-top: 0px; margin-bottom: 0px; word-break: =
+normal; display: inline;" =
+href=3D"http://link.email.dynect.net/link.php?DynEngagement=3Dtrue&amp;H=3D=
+ZMyLy4zTjFwvNxIiQxXYz7fICs325Rzf11BKq8bXyh%2F55Q8PbcAMCQLvlvNulLpdxHMqvH5=
+TL7dnKsnZiG6p%2BHoYliIFbUqZnrVqFy%2FJNslNhOXeb8CQX2KQnzH0mFvh&amp;G=3D0&a=
+mp;R=3Dhttps%3A%2F%2FJBPGGYZTANA.hatchbuck.com%2FTrackLinkClick%3FID2%3Do=
+5ikRLArDgXUunwkVH2wm1vB7XaJ2r_1PuRMagS2ZFzYBmS0pI7k5jfg2kYpKg840&amp;I=3D=
+20220916200020.0000007c04dd%40smtp-ad1-46-phx&amp;X=3DMHwxMjY0OTIyOjI3NzE=
+1MTI3OTg7MXwxMjY0OTIzOjIzODgxODkyMTs%3D&amp;V=3D3&amp;S=3DxQSNdKlNU3UG7Zg=
+pTUXmWJ2kdG_6zrxRzo9MKtvCLDs" target=3D"_blank"><!--[if mso]><v:oval =
+xmlns:v=3D"urn:schemas-microsoft-com:vml" =
+xmlns:w=3D"urn:schemas-microsoft-com:office:word" =
+href=3D"https://www.youtube.com/channel/UCYSQsLQx-R7DvYCUVL9GMyA" =
+style=3D"height:32px; width:32px;" fill=3D"true" stroke=3D"false" =
+fillcolor=3D"#000000"><v:fill type=3D"frame" style=3D"height: 32px; =
+width: 32px;" =
+src=3D"https://s3.hatchbuck.com/EmailBuilder/SocialMediaIcons/All/youtube=
+.png"></v:oval><![endif]--><!--[if !mso]><!--><span><img =
+style=3D"border-radius:50px; height: 24px; width: =
+24px;vertical-align:middle;display:inline-block;background-color:#000000;=
+" =
+src=3D"https://s3.hatchbuck.com/EmailBuilder/SocialMediaIcons/All/youtube=
+.png" border-radius=3D"50" height=3D"24" width=3D"24" =
+data-unique-identifier=3D""></span></a><!-- =
+<![endif]--></td></tr></tbody></table></td></tr></tbody></table></td></tr=
+></tbody></table><table class=3D"responsive-table" cellpadding=3D"0" =
+cellspacing=3D"0" width=3D"100%" style=3D"width:100%; =
+border-collapse:collapse;"><tbody><tr><td style=3D"padding: 0px; =
+border-collapse: collapse; box-sizing: border-box; border: none;" =
+width=3D"600"><table width=3D"100%" cellpadding=3D"0" cellspacing=3D"0" =
+style=3D"width:100%; min-width:100%; table-layout:fixed;"><tbody><tr><td =
+class=3D"column-td" style=3D"background-color: transparent; margin: 0px; =
+word-break: normal; padding: 10px; border: none;"><table =
+class=3D"divider-content-block responsive-table" style=3D"border: none;" =
+width=3D"100%" align=3D"center"><tbody><tr><td style=3D"border: none; =
+font-size: 1px; line-height: 1px; width: 100%; padding: 0px 5px;" =
+class=3D"divider-cell" width=3D"100%" bgcolor=3D"transparent"><table =
+width=3D"100%" style=3D"width: 100%; min-width: 100%; table-layout: =
+fixed; background-color: #dedede;" cellpadding=3D"0" =
+cellspacing=3D"0"><tbody><tr><td style=3D"border: none;"><img =
+height=3D"1" width=3D"100%" align=3D"left" border=3D"0" =
+style=3D"margin:0; height:1px; background:#DEDEDE" =
+src=3D"https://s3.hatchbuck.com/MediaFiles/ba378066e8d9d6532b4a341447b29a=
+2df049d72b1a74bd07f2084288a76cb6bb.png" margin=3D"0" =
+data-unique-identifier=3D""></td></tr></tbody></table></td></tr></tbody><=
+/table></td></tr></tbody></table></td></tr></tbody></table></th></tr></tb=
+ody></table><table align=3D"center" height=3D"100%" width=3D"100%" =
+class=3D"responsive-table section" style=3D"margin:0; max-width:600px; =
+border-collapse:collapse;" id=3D"footer"><tbody><tr =
+class=3D"section-td"><td style=3D"padding: 20px; color: #666666; =
+font-family: Arial; font-size: 11px; line-height: normal; text-align: =
+center; background-color: rgba(0, 0, 0, 0);"><div style=3D"padding: 0px; =
+color: #666666; font-family: Arial; font-size: 11px; line-height: =
+normal; text-align: center; background-color: rgba(0, 0, 0, 0);" =
+class=3D"footerContent"><p style=3D"padding:0px; margin:0">Lake =
+Washington School District | 16250 NE 74th St | Redmond, WA =
+98052</p><br><p style=3D"padding:0px; margin:0" class=3D"footerLinks"><a =
+href=3D"http://link.email.dynect.net/link.php?DynEngagement=3Dtrue&amp;H=3D=
+ZMyLy4zTjFwvNxIiQxXYz7fICs325Rzf11BKq8bXyh%2F55Q8PbcAMCQLvlvNulLpdxHMqvH5=
+TL7dnKsnZiG6p%2BHoYliIFbUqZnrVqFy%2FJNslNhOXeb8CQX2KQnzH0mFvh&amp;G=3D0&a=
+mp;R=3Dhttps%3A%2F%2Fk12edition.hatchbuck.com%2FSignUp%2FUnsubscribe%3Fid=
+%3DjA6nIa2fgBoSfIP6yduRLLX5pp44wbBXdfOQ4hOxxDJSM2x2Bq6345AJXbXO5PM60&amp;=
+I=3D20220916200020.0000007c04dd%40smtp-ad1-46-phx&amp;X=3DMHwxMjY0OTIyOjI=
+3NzE1MTI3OTg7MXwxMjY0OTIzOjIzODgxODkyMTs%3D&amp;V=3D3&amp;S=3DSLqbp1wRGCD=
+oGfDRaEoEGTyjtOeXJGtzuL6mEpoG5AE" target=3D"_blank" =
+style=3D"text-decoration: none;">Unsubscribe</a> | <a =
+href=3D"http://link.email.dynect.net/link.php?DynEngagement=3Dtrue&amp;H=3D=
+ZMyLy4zTjFwvNxIiQxXYz7fICs325Rzf11BKq8bXyh%2F55Q8PbcAMCQLvlvNulLpdxHMqvH5=
+TL7dnKsnZiG6p%2BHoYliIFbUqZnrVqFy%2FJNslNhOXeb8CQX2KQnzH0mFvh&amp;G=3D0&a=
+mp;R=3Dhttps%3A%2F%2Fk12edition.hatchbuck.com%2FSignUp%2FUnsubscribe%3Fid=
+%3DjA6nIa2fgBoSfIP6yduRLLX5pp44wbBXdfOQ4hOxxDJSM2x2Bq6345AJXbXO5PM60%26ab=
+use%3D1&amp;I=3D20220916200020.0000007c04dd%40smtp-ad1-46-phx&amp;X=3DMHw=
+xMjY0OTIyOjI3NzE1MTI3OTg7MXwxMjY0OTIzOjIzODgxODkyMTs%3D&amp;V=3D3&amp;S=3D=
+-pD847B8-R5mutaCU2_nXsIC8kTQgVQBvxI5T4NRgNI" target=3D"_blank" =
+style=3D"text-decoration: none;">Report =
+Spam</a></p></div></td></tr></tbody></table></div></td></tr></tbody></tab=
+le></td></tr></tbody></table><!--[if =
+mso]></td></tr></table></center><![endif]--><span =
+style=3D"mso-hide:all;"><img =
+src=3D"https://jxiy7h.img.hatchbuckinbox.com/TrackOpenEmail?ID=3D8iG673v7=
+vH9o2M5ojOVWYKxrNuVNq8H02zUPsvp84o9TtmvnQeEaVdrh8FlnYCe_0" height=3D"0" =
+width=3D"0" style=3D"mso-hide:all;display:none =
+!important;margin:0;padding:0;" alt=3D"" =
+data-unique-identifier=3D""></span>
+</div></blockquote></body></html>
+------=_NextPart_000_023A_01D96D65.18E95690--

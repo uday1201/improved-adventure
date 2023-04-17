@@ -1,0 +1,141 @@
+version: "3.1"
+
+nlu:
+- intent: event
+  examples: |
+    - There's a [concert](event_type) at the [Central Park](location) on [March 1st](date/time).
+    - [June 23](date/time) is the [annual fair](event_type) at the [City Hall](location).
+    - Don't miss the [art exhibition](event_type) on [April 15](date/time) at the [Museum of Modern Art](location).
+    - The [community barbecue](event_type) will take place on [May 6](date/time) at the [Downtown Park](location).
+    - On [August 20](date/time), there will be a [yoga workshop](event_type) at the [Beach](location).
+    - The [food festival](event_type) is happening on [September 15](date/time) at the [Market Square](location).
+    - On [October 12](date/time), the [marathon](event_type) will start from the [Sports Complex](location).
+    - The [basketball game](event_type) is scheduled for [November 8](date/time) at the [Arena](location).
+    - The [theater play](event_type) will be performed on [December 18](date/time) at the [City Theatre](location).
+    - [February 27](date/time) is the [charity event](event_type) at the [Town Hall](location).
+    - The [zumba class](event_type) will take place on [January 5](date/time) at the [Community Center](location).
+    - On [March 25](date/time), the [book fair](event_type) will be held at the [Library](location).
+    - The [dance competition](event_type) will happen on [July 30](date/time) at the [Dance Academy](location).
+    - The [computer workshop](event_type) is planned for [August 17](date/time) at the [Tech Center](location).
+    - [April 21](date/time) is the [photography contest](event_type) at the [Art Gallery](location).
+    - The [poetry reading](event_type) will be on [June 14](date/time) at the [Literary Café](location).
+    - On [May 20](date/time), there will be a [jazz night](event_type) at the [Music Club](location).
+    - The [film festival](event_type) is scheduled for [September 10](date/time) at the [Cinema](location).
+    - The [magic show](event_type) will be on [October 5](date/time) at the [Performance Hall](location).
+    - [November 19](date/time) is the [bake sale](event_type) at the [School](location).
+    - The [wine tasting](event_type) will happen on [December 1](date/time) at the [Wine Shop](location).
+    - On [February 9](date/time), the [fashion show](event_type) will be held at the [Mall](location).
+    - The [gardening workshop](event_type) is planned for [January 30](date/time) at the [Botanical Garden](location).
+    - The [cooking class](event_type) will be on [March 15](date/time) at the [Culinary School](location).
+    - [April 29](date/time) is the [painting workshop](event_type)
+    - There's a [puppet show](event_type) on [April 5](date/time) at the [Community Center](location).
+    - On [July 4](date/time), there will be a [movie night](event_type) at the [Outdoor Park](location).
+    - The [ballet performance](event_type) is scheduled for [September 1](date/time) at the [Theater](location).
+    - The [magic show](event_type) will be on [November 19](date/time) at the [Town Hall](location).
+    - [December 8](date/time) is the [Christmas fair](event_type) at the [Local School](location).
+    - The [ice skating competition](event_type) will happen on [January 7](date/time) at the [Ice Rink](location).
+    - On [March 3](date/time), the [book fair](event_type) will be held at the [Library](location).
+    - The [swimming race](event_type) is planned for [April 20](date/time) at the [Sports Center](location).
+    - The [food festival](event_type) will be on [June 5](date/time) at the [City Park](location).
+    - [August 16](date/time) is the [music concert](event_type) at the [Concert Hall](location).
+    - The [charity run](event_type) will take place on [September 10](date/time) starting from the [Main Square](location).
+    - On [November 12](date/time), there will be a [dance competition](event_type) at the [Dance Studio](location).
+    - The [art exhibition](event_type) is scheduled for [February 18](date/time) at the [Art Gallery](location).
+    - The [cooking class](event_type) will be on [May 3](date/time) at the [Culinary School](location).
+    - [July 24](date/time) is the [garden party](event_type) at the [Botanical Garden](location).
+    - The [yoga session](event_type) will happen on [August 29](date/time) at the [Wellness Center](location).
+    - On [October 6](date/time), the [pottery workshop](event_type) will be held at the [Art Studio](location).
+    - The [science fair](event_type) will be on [May 11](date/time) at the [Science Center](location).
+    - On [June 18](date/time), there will be a [health expo](event_type) at the [Exhibition Center](location).
+    - The [storytelling session](event_type) is scheduled for [July 23](date/time) at the [Bookstore](location).
+    - The [comedy night](event_type) will be on [August 27](date/time) at the [Comedy Club](location).
+    - [September 19](date/time) is the [teddy bear picnic](event_type) at the [Children's Park](location).
+    - The [networking event](event_type) will happen on [October 16](date/time) at the [Business Center](location).
+    - On [November 2](date/time), the [volunteer meetup](event_type) will be held at the [Charity House](location).
+    - Join the [puppet show](event_type) at [Central Park](location) on [Sunday, April 23rd](date/time).
+    - [Dance class](event_type) for kids happening at [the community center](location) on [April 20th at 4 pm](date/time).
+    - Don't miss the [magic show](event_type) at [Mall Plaza](location) on [May 5th at 2 pm](date/time).
+    - [Painting workshop](event_type) for children at [Downtown Art Gallery](location) on [April 29th](date/time).
+    - [Craft fair](event_type) at [the park](location) starting at [11 am on Saturday](date/time).
+    - Take the kids to [storytime](event_type) at [the local library](location) on [April 18th at 3 pm](date/time).
+    - [Science exhibition](event_type) at [Children's Museum](location) on [May 10th from 10 am to 4 pm](date/time).
+    - [Circus](event_type) performance in [Town Square](location) on [May 1st at 7 pm](date/time).
+    - [Cooking class](event_type) for kids at [Healthy Bites](location) on [April 25th at 5 pm](date/time).
+    - [Animal encounter](event_type) at [City Zoo](location) on [April 22nd from 1 pm to 3 pm](date/time).
+    - Join the [kids' fun run](event_type) at [East Park](location) on [May 6th at 9 am](date/time).
+    - [Martial arts class](event_type) for children at [Sports Center](location) on [April 19th at 4:30 pm](date/time).
+    - [Nature walk](event_type) for kids at [Botanical Garden](location) on [May 7th at 10 am](date/time).
+    - Children's [music concert](event_type) at [Main Street Theater](location) on [April 28th at 3 pm](date/time).
+    - [Lego building competition](event_type) at [Toy Store](location) on [May 2nd at 5 pm](date/time).
+    - [Pottery workshop](event_type) for kids at [Art Studio](location) on [April 30th from 2 pm to 4 pm](date/time).
+    - [Kids yoga class](event_type) at [Fitness Center](location) on [April 21st at 11 am](date/time).
+    - [Movie night](event_type) for children at [Outdoor Cinema](location) on [May 12th at 8 pm](date/time).
+    - [Science camp](event_type) at [Science Center](location) from [June 1st to June 7th](date/time).
+    - [Cartoon drawing workshop](event_type) at [Creative Hub](location) on [April 27th at 4 pm](date/time).
+    - [Pirate-themed party](event_type) at [PlayZone](location) on [May 15th from 3 pm to 6 pm](date/time).
+    - Dear parents, there's a [bake sale](event_type) on [Friday, April 21st](date/time) in the [cafeteria](location) and a [talent show](event_type) the next day, [April 22nd](date/time) in the [school auditorium](location).
+    - Hi everyone, we're excited to announce a [school picnic](event_type) at [Green Park](location) on [May 13th](date/time) and [sports day](event_type) at [school grounds](location) on [May 14th](date/time).
+    - Remember that [parent-teacher meetings](event_type) will be held in [classrooms](location) on [April 28th from 1 pm to 4 pm](date/time), followed by a [school play](event_type) in the [auditorium](location) at [6 pm](date/time).
+    - Good news! We've planned a [field trip](event_type) to the [Science Museum](location) on [May 5th](date/time) and an [art workshop](event_type) at [school art room](location) on [May 6th from 3 pm to 5 pm](date/time).
+    - Mark your calendars for [movie night](event_type) in the [school gym](location) on [April 23rd at 7 pm](date/time) and the [school carnival](event_type) on [April 24th from 10 am to 4 pm](date/time) at [school playground](location).
+    - We're organizing a [book fair](event_type) at [school library](location) on [April 30th from 9 am to 3 pm](date/time) and a [school concert](event_type) in the [auditorium](location) on [May 1st at 6 pm](date/time).
+    - Don't miss the [art exhibition](event_type) at [school art gallery](location) on [May 15th](date/time) and the [science fair](event_type) in the [school hall](location) on [May 16th from 10 am to 4 pm](date/time).
+    - Join us for a [school fundraiser](event_type) in the [school cafeteria](location) on [April 26th at 6 pm](date/time) and [student council elections](event_type) in the [school auditorium](location) on [April 27th at 3 pm](date/time).
+    - We're having a [clothing drive](event_type) in the [school lobby](location) on [May 8th from 8 am to 4 pm](date/time) and a [toy drive](event_type) in the [school parking lot](location) on [May 9th from 8 am to 4 pm](date/time).
+    - Attention! [Award ceremony](event_type) will take place in the [school auditorium](location) on [June 3rd at 5 pm](date/time), and a [career fair](event_type) in the [school gym](location) on [June 4th from 9 am to 3 pm](date/time).
+    - Don't forget the [costume party](event_type) at [school gym](location) on [October 31st at 4 pm](date/time) and the [school clean-up](event_type) on [November 1st from 9 am to 12 pm](date/time) in the [school garden](location).
+    - Mark your calendars for the [school band performance](event_type) in the [school auditorium](location) on [November 5th at 5 pm](date/time) and [fundraising dinner](event_type) on [November 6th at 6 pm](date/time) in the [school cafeteria](location).
+    - Join us for a [mathematics competition](event_type) in the [school hall](location) on [November 10th at 2 pm](date/time) and a [language workshop](event_type) on [November 11th from 9 am to 12 pm](date/time) in the [school library](location).
+    - There will be a [school assembly](event_type) in the [school gym](location) on [November 15th at 8:30 am](date/time) followed by a [book reading](event_type) in the [school library](location) at [10 am](date/time).
+    - We're organizing a [parents' meeting](event_type) in the [school auditorium](location) on [November 20th at 6 pm](date/time) and a [children's play](event_type) in the [school hall](location) on [November 21st at 5 pm](date/time).
+    - Reminder: [school photo day](event_type) is on [November 25th from 9 am to 3 pm](date/time) in the [school gym](location), and the [students' art exhibition](event_type) is on [November 26th](date/time) in the [school gallery](location).
+    - Don't miss the [school choir concert](event_type) in the [school auditorium](location) on [December 1st at 6 pm](date/time) and the [students' talent show](event_type) on [December 2nd at 4 pm](date/time) in the [school hall](location).
+    - We're having a [holiday craft fair](event_type) in the [school cafeteria](location) on [December 6th from 10 am to 4 pm](date/time) and a [winter celebration](event_type) in the [school gym](location) on [December 7th at 5 pm](date/time).
+    - The [parent-teacher conference](event_type) will be held in [classrooms](location) on [December 11th from 1 pm to 5 pm](date/time) and a [spelling bee](event_type) in the [school auditorium](location) on [December 12th at 2 pm](date/time).
+    - We're excited to announce the [school science fair](event_type) in the [school hall](location) on [December 16th from 10 am to 3 pm](date/time) and a [robotics competition](event_type) in the [school gym](location) on [December 17th at
+  
+- intent: non_event
+  examples: |
+    - Just a quick reminder about the meeting tomorrow.
+    - Don't forget to submit your timesheets by the end of the week.
+    - I have attached the updated budget document for your review.
+    - Can you please confirm your attendance for the team lunch next week?
+    - Please find the meeting minutes from last week's call in the attachment.
+    - Could you please review the contract draft and share your feedback?
+    - The deadline for submitting the project proposal is coming up soon.
+    - Remember to fill out the employee satisfaction survey before Friday.
+    - The next company-wide town hall meeting is scheduled for next month.
+    - Kindly complete your performance review and submit it to HR.
+    - I have forwarded the revised project timeline for your perusal.
+    - The new employee orientation will take place in the conference room.
+    - Our department will be hosting a training session on the new software next week.
+    - Don't forget to submit your expense reports by the end of the month.
+    - Please remember to update your contact information in the HR system.
+    - Let's discuss the new marketing strategy during our weekly call.
+    - We have received a few questions from clients about the recent product update.
+    - The sales team will be attending a conference in Chicago next month.
+    - We are still waiting for a few team members to complete their compliance training.
+    - The IT department will be performing system maintenance this weekend.
+    - Don't forget to sign up for the upcoming charity event organized by our company.
+    - If you have any questions about the new policies, feel free to reach out to HR.
+    - Please remember to vote for the Employee of the Month.
+    - The annual performance evaluations will take place next week.
+    - The company holiday party is being planned for December.
+    - The next webinar in our professional development series will focus on time management.
+    - The health and wellness committee will be hosting a yoga session in the office.
+    - I have attached the latest sales report for your review.
+    - We are still waiting for approval from the legal department.
+    - The marketing team is working on the new product launch campaign.
+    - Our next team offsite will take place at the end of the quarter.
+    - The board of directors will be visiting the office next week.
+    - The design team is finalizing the new website layout.
+    - Please ensure you have completed the required safety training.
+    - We will be rolling out a new benefits package for employees next year.
+    - I have attached the updated project roadmap for your review.
+    - Please review the attached document and provide your feedback.
+    - Can you please review the latest draft of the press release?
+    - The finance team will be hosting a workshop on budget planning next month.
+    - If you have any suggestions for the upcoming team building event, please let us know.
+    - The customer service team is organizing a training session on conflict resolution.
+    - I have shared the details of the new office space with the team.
+    - Please remember to sign up for the volunteer opportunity next month.

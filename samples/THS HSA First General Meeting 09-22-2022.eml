@@ -1,0 +1,221 @@
+Received: from [127.0.0.1] (localhost [127.0.0.1])
+	by ip-172-31-10-170.localdomain (Postfix) with ESMTP id 90E9560D6D
+	for <lihilutan@gmail.com>; Wed, 21 Sep 2022 19:09:20 +0000 (UTC)
+Received: from xvfrhhtn.outbound-mail.sendgrid.net (xvfrhhtn.outbound-mail.sendgrid.net. [168.245.0.114])
+        by mx.google.com with ESMTPS id fn3-20020ad45d63000000b004ad061e0d19si2184331qvb.342.2022.09.21.12.09.21
+        for <lihilutan@gmail.com>
+        (version=TLS1_3 cipher=TLS_AES_128_GCM_SHA256 bits=128/128);
+        Wed, 21 Sep 2022 12:09:21 -0700 (PDT)
+Received: by 2002:a05:7300:4148:b0:79:6eb5:7f6c with SMTP id z8csp3471541dyc;
+        Wed, 21 Sep 2022 12:09:21 -0700 (PDT)
+Received: from ip-172-31-10-170.localdomain (unknown)
+	by geopod-ismtpd-4-0 (SG) with ESMTP id MfOrw9IjRC6RHMOBAl3G9w
+	for <lihilutan@gmail.com>; Wed, 21 Sep 2022 19:09:20.917 +0000 (UTC)
+Received: by filterdrecv-d5b8d8559-nwfld with SMTP id filterdrecv-d5b8d8559-nwfld-1-632B6161-3
+        2022-09-21 19:09:21.078266002 +0000 UTC m=+161814.052677908
+Reply-To: "THS HSA" <tenaflyhighhsa@gmail.com>
+From: "THS HSA" <notify@membershiptoolkit.com>
+To: <lihilutan@gmail.com>
+Subject: THS HSA First General Meeting 09-22-2022
+Date: Wed, 21 Sep 2022 12:09:21 -0700
+Message-ID: <1663787360.632b616090551@swift.generated>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_02C1_01D96D65.19279810"
+X-Mailer: Microsoft Outlook 16.0
+Thread-Index: AQJbUIYivJZSVkQxxS48NQYTX7qFxg==
+X-Google-Smtp-Source: AMsMyM7DKWAinTx9FS+YYCbK0TfmpiUSNy7VEnMr69TIV596D6eQ/RWxO7hRtMi6++zz64T/Yk3A
+X-Received: by 2002:a0c:b20c:0:b0:4ac:c5b7:e5ca with SMTP id x12-20020a0cb20c000000b004acc5b7e5camr25203502qvd.126.1663787361323;
+        Wed, 21 Sep 2022 12:09:21 -0700 (PDT)
+Authentication-Results: mx.google.com;
+       dkim=pass header.i=@membershiptoolkit.com header.s=s1 header.b="fePX/34n";
+       dkim=pass header.i=@sendgrid.info header.s=smtpapi header.b=QKDbV70d;
+       spf=pass (google.com: domain of bounces+216760-fded-lihilutan=gmail.com@em.membershiptoolkit.com designates 168.245.0.114 as permitted sender) smtp.mailfrom="bounces+216760-fded-lihilutan=gmail.com@em.membershiptoolkit.com";
+       dmarc=pass (p=NONE sp=NONE dis=NONE) header.from=membershiptoolkit.com
+List-Unsubscribe: <https://tenaflyhighhsa.membershiptoolkit.com/unsubscribe/04993-20220921190920-053496900-1087957801>,<mailto:unsub+04993-20220921190920-053496900-1087957801@r.membershiptoolkit.com?subject=unsubscribe>
+X-Feedback-ID: 216760:SG
+X-SG-EID: =?us-ascii?Q?zyKwUicQ65iZPlsx5Nz9aaHbYHy2GwLq5lD4pewPovReh6mDnQYQLQ5KwkF5YB?=
+ =?us-ascii?Q?Rqm2E92Dp=2FvV+d+nlTIboxFpqw7cy1xViJ460Oy?=
+ =?us-ascii?Q?889eSK95rSO5IB38ajNL0tz3dfHqUZs05uhqgUF?=
+ =?us-ascii?Q?utsuxBBMNSchq4qn4TIKHedL4xOyyf68M5Sv7RJ?=
+ =?us-ascii?Q?qF492WadendLeK84BFiA5tgt0HUXs615od=2FuZoV?=
+ =?us-ascii?Q?ZntJ2VO4v7NnlqW98BBZ5IRXpPA4Ve2ohzL=2F9L?=
+X-SG-ID: =?us-ascii?Q?N2C25iY2uzGMFz6rgvQsb3UgJyQqy9mZFxT1ErX5IPux1pyIjtyVxmdtue1cqE?=
+ =?us-ascii?Q?dlb2B47PgwtguA9K5c1vdwD1OBBFrh++gGvVYEo?=
+ =?us-ascii?Q?+KX8iaG1N8EuBpRj+nhkU6zrZokfAKPWSQ8KYXC?=
+ =?us-ascii?Q?Y9rR3mXOInTO4xVpJO0N=2FZ+oJVv6hN5fWB8gQlE?=
+ =?us-ascii?Q?VoeuK0nZC3NuT?=
+X-Entity-ID: gE4tiG3tuUeuk3m4i9/GVg==
+X-Tag: quick email
+X-Uid: 04993-20220921190920-053496900-1087957801
+X-internalmsgid: 04993-20220921190920-053496900-1087957801
+X-recipient-id: 17136931
+X-quickemail-id: 04993-QE20220919131054-004246700-1041081153
+
+This is a multipart message in MIME format.
+
+------=_NextPart_000_02C1_01D96D65.19279810
+Content-Type: text/plain;
+	charset="us-ascii"
+Content-Transfer-Encoding: 7bit
+
+ 
+<https://tenaflyhighhsa.membershiptoolkit.com/assets/04993/General_Images/Me
+eting_Ideas.png> Dear THS Families,
+
+The HSA General Open Meeting will be on this Thursday, September 22nd at 8
+pm via Zoom Webinar.  Our special guests will include:
+
+Mr. James Morrision, Principal
+
+Ms. Brenda Yoo, Assistant Principal
+
+Mrs. Jayne Bembridge, Director of Guidance
+
+All are welcome to join us!  The Q&A function will be available for you to
+raise any questions or concerns.
+
+Please click the following link to join the webinar.  For manual entry:
+Webinar ID: 816 3132 3361  Passcode: 353442 
+
+https://us02web.zoom.us/j/81631323361?pwd=WDFEQ0dRMHpjL3ZqVVJoS09xMFV4QT09
+
+We hope to see you!
+
+Best,
+
+THS HSA
+
+  
+
+
+This message was sent to lihilutan@gmail.com from Tenafly High School HSA .
+To unsubscribe from this list, click here. If you would like to manage your
+subscriptions, please visit
+https://tenaflyhighhsa.membershiptoolkit.com/user_subscriptions
+ 
+<http://url4609.membershiptoolkit.com/wf/open?upn=J-2Fm4-2BtnPJ5cBe-2FitORAY
+ql9O5xAzKMpWuTgId1-2FZ85jepBbqVfUJGblGprZNCoKDv5mo9ON9rNjm7ElLj-2FRlQovCcjRF
+VX1G5B9R9MDUX-2BA-2Bc2-2FIZCwJKt3Qx-2BOJqjv94JLtqO3WIJYLo6-2BpkyLBceC3gtVn-2
+BguURG5yQRtNBCewUofolYNEeG7jE-2FkZJZtZJlgAs0H9SuENY-2BpLVx7DPiAyLSM7Z-2Fks-2
+FhjG5FZZJ6DXNI-2FQS6-2FQtDnYm6pppILnc9CTueEJ5ag8c58O2BQoOOyri6SLk-2FUgBW-2BI
+NyhPsOubEBP6F6n3N4RZUzjJgHDHQKkbQq6O0xnOkmRdmN7rYGDw7uZLJRJPPQqdw6-2FkR-2Fwl
+4A9Ez-2FA5JcbctPP5Q8Bm> 
+
+------=_NextPart_000_02C1_01D96D65.19279810
+Content-Type: text/html;
+	boundary="----=_NextPart_000_03D9_01D8DA3A.5908FFF0";
+	charset="us-ascii"
+Content-Transfer-Encoding: quoted-printable
+
+<p><img =
+src=3D"https://tenaflyhighhsa.membershiptoolkit.com/assets/04993/General_=
+Images/Meeting_Ideas.png" style=3D"width: 123px; cursor: pointer; =
+padding: 0px 1px; position: relative; max-width: 100%;" =
+fr-original-style=3D"width: 123px;" =
+fr-original-class=3D"fr-draggable">Dear THS Families,</p><p>The HSA =
+General Open Meeting will be on this Thursday, September 22nd at 8 pm =
+via Zoom Webinar. &nbsp;Our special guests will include:</p><p =
+style=3D"text-align: center;"><strong fr-original-style=3D"" =
+style=3D"font-weight: 700;">Mr. James Morrision, =
+Principal</strong></p><p style=3D"text-align: center;"><strong =
+fr-original-style=3D"" style=3D"font-weight: 700;">Ms. Brenda Yoo, =
+Assistant Principal</strong></p><p style=3D"text-align: center;"><strong =
+fr-original-style=3D"" style=3D"font-weight: 700;">Mrs. Jayne Bembridge, =
+Director of Guidance</strong></p><p>All are welcome to join us! =
+&nbsp;The Q&amp;A function will be available for you to raise any =
+questions or concerns.</p><p>Please click the following link to join the =
+webinar. &nbsp;For manual entry: &nbsp;Webinar ID: 816 3132 3361 =
+&nbsp;Passcode: <span style=3D"color: rgb(0, 0, 0); font-family: =
+sans-serif; font-size: medium; font-style: normal; =
+font-variant-ligatures: normal; font-variant-caps: normal; font-weight: =
+400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: =
+0px; text-transform: none; white-space: normal; widows: 2; word-spacing: =
+0px; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; =
+text-decoration-style: initial; text-decoration-color: initial; display: =
+inline !important; float: none;">353442</span>&nbsp;</p><p><a =
+fr-original-style=3D"" =
+href=3D"http://url4609.membershiptoolkit.com/ls/click?upn=3DX1VUiKoObV3FU=
+j52AczS9nPAW9pD48mSp7OMwuFrogPgcSvsrNnF-2Bkk4X-2BcjJ6xU5RScuW-2BD4U6NO4r4=
+UOa6lUG9uEGmsoBrr5nZ-2BtXLtt3iRf3ci-2BTx-2FUAP5cnBvidTto5L_Zn5vtI38bqRJt3=
+2aFGYAnKKsT2RsCAqkttCkj0wD2UFwvLmJ0EIw9cSTwXi9WKeGCoe1Hpmd9TfAyLXSoTff09y=
+hDUKInMsyl7q8LzzjxTKRqb8tBYeLSSdCGOJTsbUueBeS0lhxAaJZ4zQlLgL-2F2-2BiEsuVe=
+3c64Wmk-2Fa-2BNyldJSuS-2FTwZpk6JV-2FJ2dEeI4OoMwEOKilywUvAVENpFVl-2FKmkwgF=
+hdmbI-2BOPXinszRwAUHeR3MRsZIVPwx9uJ1W2psnb5iCkNNaA7mWQ0YYj5-2B-2BqQsLqwBQ=
+wOjhHkYf1OGliilRqdlvN5ahvE1dcfCpaYiwLWA64QO9GXjlSOKejwWwYytgsK6nw2OQlJ7hG=
+vU8HDSl-2FZx5NwShN1VBL7B1DF" style=3D"user-select: =
+auto;">https://us02web.zoom.us/j/81631323361?pwd=3DWDFEQ0dRMHpjL3ZqVVJoS0=
+9xMFV4QT09</a></p><p>We hope to see you!</p><p>Best,</p><p>THS =
+HSA</p><p><a fr-original-style=3D"" =
+href=3D"http://url4609.membershiptoolkit.com/ls/click?upn=3DLYmqzTSKcpY5a=
+DMeytfM-2FfeBOdkIJDSAybKWkXNsUGFr-2Bj9T3OUD7sb9il6d0BRayx9W2yBJnDWDXGsFqZ=
+0k1A-3D-3Dw_xJ_Zn5vtI38bqRJt32aFGYAnKKsT2RsCAqkttCkj0wD2UFwvLmJ0EIw9cSTwX=
+i9WKeGCoe1Hpmd9TfAyLXSoTff09yhDUKInMsyl7q8LzzjxTKRqb8tBYeLSSdCGOJTsbUueBe=
+S0lhxAaJZ4zQlLgL-2F2-2BiEsuVe3c64Wmk-2Fa-2BNyldJSuS-2FTwZpk6JV-2FJ2dEeI4O=
+8fvth49c9tf1Fh1a3e9dyMFOMjbTlHnpp-2FIxhRYv1ikhn1gN7aVvfaCaM520ggKE-2FC0-2=
+BRnYi0jz8Jb7EhS8QFkSrYZTArw1clfgP4KRYV9IojoS4IQZjq3lE85iv6nFO-2F1dJrZF7G2=
+k4SZCNL4yAz0YQD54OzAeFpCiSEUngH0QiyNIMRSdfxeWDNM8pgI7y" rel=3D"noopener =
+noreferrer" style=3D"user-select: auto;" target=3D"_blank"><img =
+src=3D"https://tenaflyhighhsa.membershiptoolkit.com/assets/04993/General_=
+Images/Visit_HSA_Website.jpg" style=3D"width: 184px; cursor: pointer; =
+padding: 0px 1px; position: relative; max-width: 100%;" =
+fr-original-style=3D"width: 184px;" =
+fr-original-class=3D"fr-draggable"></a>&nbsp; <a fr-original-style=3D"" =
+href=3D"http://url4609.membershiptoolkit.com/ls/click?upn=3DiKpa70ntmsIg0=
+j801x7s-2B7kaCbFfXqQPSsH42sNW0rucZN5mpsAdKisTm7ns3aLxQPyukSEAtjWiHB0YFh1S=
+QA-3D-3D6Y_y_Zn5vtI38bqRJt32aFGYAnKKsT2RsCAqkttCkj0wD2UFwvLmJ0EIw9cSTwXi9=
+WKeGCoe1Hpmd9TfAyLXSoTff09yhDUKInMsyl7q8LzzjxTKRqb8tBYeLSSdCGOJTsbUueBeS0=
+lhxAaJZ4zQlLgL-2F2-2BiEsuVe3c64Wmk-2Fa-2BNyldJSuS-2FTwZpk6JV-2FJ2dEeI4OwT=
+Bbf3zCcM6783vILl19N0ogxLRcwpCJARTC-2FdgwpgYddrKnWvIWf1o6-2BomI78m-2FNNFw3=
+j904EuDS-2FF6j-2FxC8hSge1hAIDQbuzor8F9qsCWBWqKKWY1be23AMb24TOreXnEo0eUvqj=
+A5Mmz8Qqay80X-2FaVTel3BIWPNXgyn-2BmqwAnzCFXSqWmRhp4jUpkK8s" =
+rel=3D"noopener noreferrer" style=3D"user-select: auto;" =
+target=3D"_blank"><img =
+src=3D"https://tenaflyhighhsa.membershiptoolkit.com/assets/04993/General_=
+Images/Like_and_Follow_Us_on_Facebook.jpg" style=3D"width: 197px; =
+cursor: pointer; padding: 0px 1px; position: relative; max-width: 100%;" =
+fr-original-style=3D"width: 197px;" =
+fr-original-class=3D"fr-draggable"></a><br></p>
+
+<div id=3D"optout" style=3D"clear: both; width: 100%; display: block; =
+margin-top: 10px; margin-bottom: 10px; border: 1px solid #999; =
+background-color: #eee; font-family: arial; font-size: 8pt; color: #999; =
+padding: 5px;">This message was sent to lihilutan@gmail.com from Tenafly =
+High School HSA .  To unsubscribe from this list, click <a =
+href=3D"http://url4609.membershiptoolkit.com/ls/click?upn=3DLYmqzTSKcpY5a=
+DMeytfM-2FfeBOdkIJDSAybKWkXNsUGFr-2Bj9T3OUD7sb9il6d0BRaFiWImvqX8Vkhw9Vt3-=
+2Bxr2iO0avpuOgZ1phBdZn8WX3bOb9flwCuhF-2FT-2BUmKh-2B51j3lRlG-2FhMlC8Q6lQ1e=
+8FHLA-3D-3Dzl14_Zn5vtI38bqRJt32aFGYAnKKsT2RsCAqkttCkj0wD2UFwvLmJ0EIw9cSTw=
+Xi9WKeGCoe1Hpmd9TfAyLXSoTff09yhDUKInMsyl7q8LzzjxTKRqb8tBYeLSSdCGOJTsbUueB=
+eS0lhxAaJZ4zQlLgL-2F2-2BiEsuVe3c64Wmk-2Fa-2BNyldJSuS-2FTwZpk6JV-2FJ2dEeI4=
+Okki6Gch62epvRBZsL4Nqwz-2FR093vEZMcUSCI-2FAWpq39mjneJTNFMA07ihhW1nrNMnpX-=
+2FWxwbb4LNebUD6gXPn79vcQ-2BapZW-2FCHLvHQTR5n8VYKnnVYGCNvL-2BU87CuOilTf0oR=
+cef1o1W82EEgThjWnKuQZrcXCXl1j1lcMVUEJiK4Qsq75o4FX69WtP74FQp">here</a>.  =
+If you would like to manage your subscriptions, please visit <a =
+href=3D"http://url4609.membershiptoolkit.com/ls/click?upn=3DLYmqzTSKcpY5a=
+DMeytfM-2FfeBOdkIJDSAybKWkXNsUGFr-2Bj9T3OUD7sb9il6d0BRaHdrM3WrFYbnUdh9sK1=
+s-2FZZyL7qvrLDDqcY1pUSnVsTU-3DtHOs_Zn5vtI38bqRJt32aFGYAnKKsT2RsCAqkttCkj0=
+wD2UFwvLmJ0EIw9cSTwXi9WKeGCoe1Hpmd9TfAyLXSoTff09yhDUKInMsyl7q8LzzjxTKRqb8=
+tBYeLSSdCGOJTsbUueBeS0lhxAaJZ4zQlLgL-2F2-2BiEsuVe3c64Wmk-2Fa-2BNyldJSuS-2=
+FTwZpk6JV-2FJ2dEeI4OH9XVbJg-2FbYobAkOjA8Kq8-2BpMrsV9JSuFA6QNGFkxMK6ZFJLQT=
+0PA8fpmmEbHawMK138LaSYIJRSYVBB0rN-2FpGsn54GElnjGm-2BwKuse6mYPDRpOGkOlkRLq=
+9bOhcoblagYQmZpTIK-2BVoVIMLQRBfAB-2B8Y1w1gJo8LkmI5moCGwBrkrnbw4-2FoMtO6ad=
+VtTGSsV">https://tenaflyhighhsa.membershiptoolkit.com/user_subscriptions<=
+/a></div>
+
+
+<img =
+src=3D"http://url4609.membershiptoolkit.com/wf/open?upn=3DJ-2Fm4-2BtnPJ5c=
+Be-2FitORAYql9O5xAzKMpWuTgId1-2FZ85jepBbqVfUJGblGprZNCoKDv5mo9ON9rNjm7ElL=
+j-2FRlQovCcjRFVX1G5B9R9MDUX-2BA-2Bc2-2FIZCwJKt3Qx-2BOJqjv94JLtqO3WIJYLo6-=
+2BpkyLBceC3gtVn-2BguURG5yQRtNBCewUofolYNEeG7jE-2FkZJZtZJlgAs0H9SuENY-2BpL=
+Vx7DPiAyLSM7Z-2Fks-2FhjG5FZZJ6DXNI-2FQS6-2FQtDnYm6pppILnc9CTueEJ5ag8c58O2=
+BQoOOyri6SLk-2FUgBW-2BINyhPsOubEBP6F6n3N4RZUzjJgHDHQKkbQq6O0xnOkmRdmN7rYG=
+Dw7uZLJRJPPQqdw6-2FkR-2Fwl4A9Ez-2FA5JcbctPP5Q8Bm" alt=3D"" width=3D"1" =
+height=3D"1" border=3D"0" style=3D"height:1px !important;width:1px =
+!important;border-width:0 !important;margin-top:0 =
+!important;margin-bottom:0 !important;margin-right:0 =
+!important;margin-left:0 !important;padding-top:0 =
+!important;padding-bottom:0 !important;padding-right:0 =
+!important;padding-left:0 !important;"/>
+------=_NextPart_000_02C1_01D96D65.19279810--

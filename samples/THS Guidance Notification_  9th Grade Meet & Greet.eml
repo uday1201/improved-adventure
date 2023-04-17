@@ -1,0 +1,92 @@
+Received: by 2002:a05:7300:4148:b0:79:6eb5:7f6c with SMTP id z8csp2640510dyc;
+        Tue, 20 Sep 2022 10:03:24 -0700 (PDT)
+Received: from mail-relay23-cse1.blackboard.com (mail-relay23-cse1.blackboard.com. [192.230.230.23])
+        by mx.google.com with ESMTPS id u6-20020a0562141c0600b004ad5dfd191csi206714qvc.109.2022.09.20.10.03.23
+        (version=TLS1_2 cipher=ECDHE-ECDSA-AES128-GCM-SHA256 bits=128/128);
+        Tue, 20 Sep 2022 10:03:24 -0700 (PDT)
+Received: from smtp1-aws1-2.bbnotify.net (smtp1-aws1-2.bbnotify.net [35.163.176.222])
+	by mail-relay21-cse1.blackboard.com (Sentrion-MTA-4.5.7/Sentrion-MTA-4.5.7) with ESMTPS id 28KH2xMO027106
+	(version=TLSv1.2 cipher=ECDHE-RSA-AES256-GCM-SHA384 bits=256 verify=NO);
+	Tue, 20 Sep 2022 17:03:00 GMT
+Received: from ip-10-146-99-27.us-west-2.compute.internal ([10.146.99.27]:53702 helo=UHURA)
+	by smtp1-aws1-2.bbnotify.net with esmtp (Exim 4.92)
+	(envelope-from <noreply@tenafly.k12.nj.us>)
+	id 1oagdM-0005Oe-7Y; Tue, 20 Sep 2022 17:02:08 +0000
+Reply-To: "Tenafly Schools" <noreply@tenafly.k12.nj.us>
+From: "Tenafly Schools" <noreply@tenafly.k12.nj.us>
+To: "Tenafly High School Recipients" <recipients@tenafly.parentlink.net>
+Subject: THS Guidance Notification:  9th Grade Meet & Greet
+Date: Tue, 20 Sep 2022 10:02:08 -0700
+Message-ID: <E1oagdM-0005Oe-7Y@bbnotify.net>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_02C5_01D96D65.19280D40"
+X-Priority: =?utf-8?q?3_=28normal=29?=
+X-Mailer: =?utf-8?q?UHURA?=
+Thread-Index: AQDbyECCIzxLQfvsrdJPyXUFBjBDBQ==
+X-Google-Smtp-Source: AMsMyM4rk20A/g1o/TnUREo2tdEz4Oth+sSS+sXxmqtQ8SH2VAitOjbbAO0sPnQY2ObFUXfzeBXX
+X-Received: by 2002:a05:6214:242a:b0:4aa:9c94:5d9a with SMTP id gy10-20020a056214242a00b004aa9c945d9amr19666387qvb.64.1663693404203;
+        Tue, 20 Sep 2022 10:03:24 -0700 (PDT)
+Authentication-Results: mx.google.com;
+       spf=pass (google.com: domain of noreply@tenafly.k12.nj.us designates 192.230.230.23 as permitted sender) smtp.mailfrom=noreply@tenafly.k12.nj.us;
+       dmarc=pass (p=REJECT sp=NONE dis=NONE) header.from=tenafly.k12.nj.us
+X-BatchID: =?utf-8?q?4535284?=
+X-Job-ID: =?utf-8?q?=3C20220920170208=2EUHURA=2Ec9d40353-84b2-4f5f-a3e5-d?=
+ =?utf-8?q?e641e30c7da=2EBC7HYvNdJc=40mail1=2Elocaldomain=3E?=
+
+This is a multipart message in MIME format.
+
+------=_NextPart_000_02C5_01D96D65.19280D40
+Content-Type: text/plain;
+	charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+  =
+<https://storage.googleapis.com/pt04-1/images/tinymce/248e0f88f167293f97d=
+809471b59ffaf/shield-logo-RGB_large-with-text.jpg>=20
+
+Good Afternoon -
+
+THS 9th Grade Parent Meet & Greet with Guidance on September 22 has been =
+postponed.  A notification will go out when it has been rescheduled.  =
+Thank you and we are sorry for any inconvenience. =20
+
+THS Guidance Department
+
+  _____ =20
+
+You are receiving this email because of your relationship with Tenafly =
+High School. If you wish to stop receiving email updates sent through =
+the Blackboard service, please unsubscribe =
+<https://tenafly.parentlink.net/main/unsubscribe?a=3Dall&d=3DNDUzNTI4NA%3=
+D%3D%0A> .
+Tenafly High School | 19 Columbus Drive, Tenafly, NJ 07670 | =
+201-816-6600
+
+------=_NextPart_000_02C5_01D96D65.19280D40
+Content-Type: text/html;
+	boundary="----=_NextPart_000_03DD_01D8DA3A.59092700";
+	charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+<html><head>
+<META HTTP-EQUIV=3D"Content-Type" CONTENT=3D"text/html; =
+charset=3DUTF-8">
+<link rel=3D"stylesheet" type=3D"text/css" =
+href=3D"https://storage.googleapis.com/static_pl/css/email.min.css"/><tit=
+le>Message</title></head><body><p><img =
+src=3D"https://storage.googleapis.com/pt04-1/images/tinymce/248e0f88f1672=
+93f97d809471b59ffaf/shield-logo-RGB_large-with-text.jpg" alt=3D"logo" =
+width=3D"130" height=3D"51" /></p>
+<p>Good Afternoon -<br /><br />THS 9th Grade Parent Meet &amp; Greet =
+with Guidance on September 22 has been postponed.=C2=A0 A notification =
+will go out when it has been rescheduled.=C2=A0 Thank you and we are =
+sorry for any inconvenience.=C2=A0 <br /><br />THS Guidance =
+Department</p><div style=3D"font-size:11px;color:#888"><hr>You are =
+receiving this email because of your relationship with Tenafly High =
+School. If you wish to stop receiving email updates sent through the =
+Blackboard service, please <a =
+href=3D"https://tenafly.parentlink.net/main/unsubscribe?a=3Dall&d=3DNDUzN=
+TI4NA%3D%3D%0A">unsubscribe</a>.<br>Tenafly High School | 19 Columbus =
+Drive, Tenafly, NJ 07670 | 201-816-6600</div></body></html>
+------=_NextPart_000_02C5_01D96D65.19280D40--

@@ -1,0 +1,630 @@
+Received: from [127.0.0.1] (localhost [127.0.0.1])
+	by ip-172-31-10-170.localdomain (Postfix) with ESMTP id D84A360C91
+	for <lihilutan@gmail.com>; Fri, 23 Sep 2022 02:42:28 +0000 (UTC)
+Received: from o2.email.membershiptoolkit.com (o2.email.membershiptoolkit.com. [167.89.109.54])
+        by mx.google.com with ESMTPS id bm14-20020a170906c04e00b007800b1f8d98si6020455ejb.452.2022.09.22.19.42.30
+        for <lihilutan@gmail.com>
+        (version=TLS1_3 cipher=TLS_AES_128_GCM_SHA256 bits=128/128);
+        Thu, 22 Sep 2022 19:42:31 -0700 (PDT)
+Received: by 2002:a05:7300:4148:b0:79:6eb5:7f6c with SMTP id z8csp63132dyc;
+        Thu, 22 Sep 2022 19:42:31 -0700 (PDT)
+Received: from ip-172-31-10-170.localdomain (unknown)
+	by geopod-ismtpd-3-0 (SG) with ESMTP id DWtHr00SR_G39A1XfQaVzg
+	for <lihilutan@gmail.com>; Fri, 23 Sep 2022 02:42:29.199 +0000 (UTC)
+Received: by filterdrecv-ff6f45c49-wkvjz with SMTP id filterdrecv-ff6f45c49-wkvjz-1-632D1D15-29
+        2022-09-23 02:42:29.510254267 +0000 UTC m=+274920.295409069
+Reply-To: "Tenafly Middle School HSA" <tmshsa17@gmail.com>
+From: "Tenafly Middle School HSA" <notify@membershiptoolkit.com>
+To: <lihilutan@gmail.com>
+Subject: TMS HSA Reminder - Picture Day
+Date: Thu, 22 Sep 2022 19:42:29 -0700
+Message-ID: <1663900948.632d1d14d7c54@swift.generated>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_02E7_01D96D65.1935EFF0"
+X-Mailer: Microsoft Outlook 16.0
+Thread-Index: AQJHwSDIk+fflb3LVG7A0nayqLDzrA==
+X-Google-Smtp-Source: AMsMyM54IRjkgyV3MVG2kF1GIf34jogFWkQV7w/s0E5/d2IwkrkBN4xG4/BVG5QG03e9ib2z9EDC
+X-Received: by 2002:a17:907:3da9:b0:77b:9672:3f7f with SMTP id he41-20020a1709073da900b0077b96723f7fmr5350078ejc.636.1663900951514;
+        Thu, 22 Sep 2022 19:42:31 -0700 (PDT)
+Authentication-Results: mx.google.com;
+       dkim=pass header.i=@membershiptoolkit.com header.s=s1 header.b=nuj2kxCu;
+       dkim=pass header.i=@sendgrid.info header.s=smtpapi header.b="FHQsv/hR";
+       spf=pass (google.com: domain of bounces+216760-fded-lihilutan=gmail.com@em.membershiptoolkit.com designates 167.89.109.54 as permitted sender) smtp.mailfrom="bounces+216760-fded-lihilutan=gmail.com@em.membershiptoolkit.com";
+       dmarc=pass (p=NONE sp=NONE dis=NONE) header.from=membershiptoolkit.com
+List-Unsubscribe: <https://tenaflymshsa.membershiptoolkit.com/unsubscribe/04963-20220923024228-084438300-479807965>,<mailto:unsub+04963-20220923024228-084438300-479807965@r.membershiptoolkit.com?subject=unsubscribe>
+X-Feedback-ID: 216760:SG
+X-SG-EID: =?us-ascii?Q?5h6jJ6pbP=2FwWz8JkLRSOkL14qoWIBC=2F6dwMcu4unUVBch0ww+sslX04v4sDTfW?=
+ =?us-ascii?Q?zUxNzn8+vlhh+oYOizutViLVn7YKYAqapu2GV1g?=
+ =?us-ascii?Q?PL6RqhDDH5GID+=2Fg1vF2LAxoEVJn4OL7RPzIz2X?=
+ =?us-ascii?Q?Un3ZmFT5qdB+CSww1tElGyU=2FczBFtGjHzRbnez9?=
+ =?us-ascii?Q?+ES0y4zYm4x0t16B1Q8wqjWBvNuydGvLrgDk9fn?=
+ =?us-ascii?Q?pT7NscuYvn8yOmq6hwwBGhbgs9Sk7snC7aXfwo+?=
+ =?us-ascii?Q?bE+UXC5zjkycrJIPFmMbg=3D=3D?=
+X-SG-ID: =?us-ascii?Q?N2C25iY2uzGMFz6rgvQsbz3FovL+H+pWiZQamwTaGdgvR4kmiXu8INHFmnZW2e?=
+ =?us-ascii?Q?djW9Pits7liHVJAJenvS=2Fz0Mg9gZWjTGy+Pm7Kb?=
+ =?us-ascii?Q?7q0wlCyGnQKzVSwwFHFeIANywF8zuBV2+G5d+FW?=
+ =?us-ascii?Q?L1zw+W1Ww0MQ5OIPVObL7uH7oentO3iO5DhNcBu?=
+ =?us-ascii?Q?Nmsl29X7oUjtX?=
+X-Entity-ID: gE4tiG3tuUeuk3m4i9/GVg==
+X-Auto-Response-Suppress: OOF, AutoReply
+X-newsletter-id: 04963-NL20220922183215-097938700-1312654572
+X-Tag: newsletter
+X-Uid: 04963-20220923024228-084438300-479807965
+X-internalmsgid: 04963-20220923024228-084438300-479807965
+X-recipient-id: 17588330
+
+This is a multipart message in MIME format.
+
+------=_NextPart_000_02E7_01D96D65.1935EFF0
+Content-Type: text/plain;
+	charset="us-ascii"
+Content-Transfer-Encoding: 7bit
+
+
+To view this email as a web page, click here
+
+
+
+
+  <https://tenaflymshsa.membershiptoolkit.com/assets/04963/New_Banner2.jpg>
+
+
+	
+
+
+
+
+REMINDER
+
+Picture Day - Tomorrow
+
+
+
+
+	
+
+
+
+  <https://tenaflymshsa.membershiptoolkit.com/assets/04963/IMG-3652.png>
+
+
+
+Messages from TMS
+
+
+	
+
+
+
+  <https://tenaflymshsa.membershiptoolkit.com/assets/04963/PIcture_Day.jpeg>
+
+
+
+TMS Picture Day 
+
+
+Friday, September 23
+
+
+
+
+
+There are two ways to order:
+
+*	Order on-line at mylifetouch.com using Picture Day ID: EVTPM9VQX
+*	Students bring in a completed form with the exact payment to hand in
+on Picture Day
+
+
+
+
+Click here for more details
+
+
+	
+
+
+We hope you found this email alert helpful, and encourage everyone to get
+involved in the HSA. We can't make a difference without you! If you have any
+questions, comments or suggestions, please send us an email at
+TMSHSA17@gmail.com <mailto:TMSHSA17@gmail.com> . 
+
+
+
+
+Tenafly Middle School HSA 
+
+10 Sunset Lane,
+
+Tenafly, NJ 07670
+
+201-816-4900
+
+
+This message was sent to lihilutan@gmail.com from Tenafly Middle School HSA.
+To unsubscribe from this list, click here. If you would like to manage your
+subscriptions, please visit
+https://tenaflymshsa.membershiptoolkit.com/user_subscriptions
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+ 
+<http://url4609.membershiptoolkit.com/wf/open?upn=J-2Fm4-2BtnPJ5cBe-2FitORAY
+ql9O5xAzKMpWuTgId1-2FZ85jepBbqVfUJGblGprZNCoKDyyYdpfGS5NQanzhlnWgF6fzWd-2FlW
+xKAxUrXEaIHhxJy1vaQXllaanyzckQ-2BjoR-2Fq5Vg-2F0niqOM20SAfegE-2BrZaKkw33Vdoy4
+1GvURUzjqtmF5qSBLrAzkC-2BuAEuRdFb8emxpM75AsjWQFMTndYMHkmVYerrNqN-2BTrJiHo0Gy
+P0B-2Fr-2FsPVZjye5g-2B8WpS8YvOr3VjX6GLJpJtmW6YkJGpNIRW6UOL6p-2Bqrumh2jlH7Co7
+8BAwJ28t4WhNbNTk4YanR-2B3J8l5-2FAodVvSlTI5a2lI1yR-2B1R9w-2Fb2AcaOYQ8uUI-2Be-
+2BYgqj308KAtKq5MgCtV> 
+
+------=_NextPart_000_02E7_01D96D65.1935EFF0
+Content-Type: text/html;
+	boundary="----=_NextPart_000_03FF_01D8DA3A.590D1EA0";
+	charset="us-ascii"
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE html>
+<html>
+<head>
+<META HTTP-EQUIV=3D"Content-Type" CONTENT=3D"text/html; =
+charset=3Dus-ascii">
+
+<meta name=3D"viewport" content=3D"width=3Ddevice-width, =
+initial-scale=3D1.0">
+<style type=3D"text/css">
+    @media screen and (max-width: 480px) {
+		.mtk-nl-wrapper {
+			width: 100% !important;
+		}
+		.mtk-nl-sm-100w {
+			width: 100% !important;
+			display: block !important;
+			padding-left: 0 !important;
+			padding-right: 0 !important;
+		}
+		.mtk-nl-sm-pad10 {
+			padding-left: 10px !important;
+			padding-right: 10px !important;
+		}
+		.mtk-nl-sm-padtop10 {
+			padding-top: 10px !important;
+		}
+		img {
+			display: block;
+			margin: 0 auto;
+			width: 100% !important;
+			height: auto !important;
+		}
+	img#nle-block-3197813--img {
+		max-width: 50px !important;
+	}
+	img#nle-block-3197817--img {
+		max-width: 180px !important;
+	}
+	img#nle-block-3197832--img {
+		max-width: 630px !important;
+	}
+	}
+	body {
+		-webkit-font-smoothing: antialiased;
+		-moz-osx-font-smoothing: grayscale;
+		-webkit-text-size-adjust: 100%;
+		-ms-text-size-adjust: 100%;
+	}
+	table {
+		mso-table-lspace: 0pt;
+		mso-table-rspace: 0pt;
+	}
+	th {
+		font-weight: normal;
+	}
+	img {
+		-ms-interpolation-mode: bicubic;
+		height: auto !important;
+		max-width: 100%;
+	}
+	.ExternalClass {
+		width: 100%;
+	}
+	p, ul, ol {
+		margin-top: .5em;
+		margin-bottom: .5em;
+	}
+	* {
+		box-sizing: border-box;
+	}
+	.inner-table-600 table {
+		max-width: 600px !important;
+	}
+</style>
+</head>
+<body leftmargin=3D"0" marginwidth=3D"0" topmargin=3D"0" =
+marginheight=3D"0" offset=3D"0" bgcolor=3D"#ffffff" style=3D"width: 100% =
+!important; margin: 0; padding: 0; background-color: #ffffff;">
+<!--REMOVE:START--><table width=3D"100%"><tr><td><div =
+style=3D"font-size: 14px;">To view this email as a web page, click <a =
+href=3D"http://url4609.membershiptoolkit.com/ls/click?upn=3DLYmqzTSKcpY5a=
+DMeytfM-2FQqY14fQhaKtH21LQj3DpnYObT717d9z5iglkh19wbNW2BqfPz-2FIUGsRtC5x1i=
+el-2BX9KuMqyxoU8XXo-2FZiR2-2B4CAjAbVr5IoBHSOBbOq7W6INcLNQCbGkDwiBI0dB7X3z=
+Q-3D-3D_hTt_Zn5vtI38bqRJt32aFGYAnKKsT2RsCAqkttCkj0wD2UFwvLmJ0EIw9cSTwXi9W=
+KeGwTdfz5PZQgYEOUzQ7cmjz6pN-2Fx-2BPawltvi27fPQicCdKLaLi8gBDcnCnmRXEdVYM75=
+wfvLdd0kB096ClrQsp-2BawGSPC8F6fJrkyB9CbGweHwE69HNWV3QwCEqefCujVUC0tRj4Cp8=
+jUAwornVV-2FxXcsq66jzHiXV4UFvdeK8aHZyr-2B-2FAwcrd50DNu-2BHEeZmmnumOjhReSa=
+ViWkRY9BkUqrfEvl-2BwuaHK-2FJKpYyXslDa-2F08oi1R1X5dE4Yij4xWnweUEkDJjkUkJ0u=
+JVRLUan3dmyOup44k2hvC925KJOvx-2Bzv9qnjdXmI19tWWl1ueGh">here</a></div></td=
+></tr></table><!--REMOVE:END-->
+<table id=3D"mtk-nl-page" width=3D"100%" border=3D"0" cellspacing=3D"0" =
+cellpadding=3D"0" style=3D"background-color: #eeeeee;" =
+bgcolor=3D"#eeeeee">
+<tbody>
+<tr>
+<td valign=3D"top" width=3D"100%" align=3D"center" style=3D"padding: =
+10px 10px 0;" data-nle-template-section=3D"header">
+<table id=3D"mtk-nl-header" class=3D"mtk-nl-wrapper" width=3D"650" =
+border=3D"0" cellspacing=3D"0" cellpadding=3D"0" =
+style=3D"background-color: #999999;" bgcolor=3D"#999999">
+<tbody>
+<tr>
+<td valign=3D"top" width=3D"100%" style=3D"padding:0px 0px 0px;">
+<table width=3D"100%" border=3D"0" cellspacing=3D"0" cellpadding=3D"0">
+<tr>
+<td valign=3D"top" align=3D"center" width=3D"100%">
+<table class=3D"mtk-nl-wrapper" width=3D"650" border=3D"0" =
+cellspacing=3D"0" cellpadding=3D"0">
+<tr>
+<td valign=3D"top" align=3D"center" width=3D"100%">
+<table width=3D"100%" border=3D"0" cellspacing=3D"0" cellpadding=3D"0">
+<tr>
+<td valign=3D"top" align=3D"center" style=3D"background-color: =
+transparent; padding: 10px 10px 10px;">
+<img  id=3D"nle-block-3197832--img" =
+src=3D"https://tenaflymshsa.membershiptoolkit.com/assets/04963/New_Banner=
+2.jpg" alt=3D"" border=3D"0" width=3D"630" style=3D" width: 100%; =
+max-width: 630px !important; height: auto;">
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<table width=3D"100%" border=3D"0" cellspacing=3D"0" cellpadding=3D"0">
+<tr>
+<td valign=3D"top" align=3D"center" style=3D"background-color: white; =
+padding: 10px 10px 10px;">
+<table width=3D"100%" border=3D"0" cellspacing=3D"0" cellpadding=3D"0">
+<tr>
+<td width=3D"100%" style=3D" font-size: 1px; line-height: 1px; height: =
+1px;" height=3D"1">
+<!--[if (gte mso 9)|(IE)]>&nbsp<![endif]-->
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr>
+<td valign=3D"top" width=3D"100%" align=3D"center" style=3D"padding: 0 =
+10px;" data-nle-template-section=3D"body">
+<table id=3D"mtk-nl-body" class=3D"mtk-nl-wrapper" width=3D"650" =
+border=3D"0" cellspacing=3D"0" cellpadding=3D"0" =
+style=3D"background-color: white;" bgcolor=3D"white">
+<tbody>
+<tr>
+<td valign=3D"top" width=3D"100%" style=3D"padding:10px 0px 10px;">
+<table width=3D"100%" border=3D"0" cellspacing=3D"0" cellpadding=3D"0">
+<tbody>
+<tr>
+<td valign=3D"top" align=3D"center" style=3D"background-color: white; =
+padding: 10px 10px 0px; word-break: break-word;">
+<div id=3D"nle-block-3197805--title-editable" style=3D"position: =
+relative; font-family: Arial, sans-serif; font-size: 30px; color: black; =
+font-weight: bold; font-style: normal; text-align: center; line-height: =
+normal; letter-spacing: normal; padding-bottom: 0px;">
+</div>
+<div id=3D"nle-block-3197805--rich-text-editable" =
+class=3D"mtk-nl-rich-text-editable" style=3D"position: relative; =
+font-family: 'Lucida Sans Unicode', 'Lucida Grande', sans-serif; =
+font-size: 16px; color: #222222; font-weight: normal; font-style: =
+normal; text-align: left; line-height: normal; letter-spacing: normal;">
+<p style=3D"text-align: center;"><span style=3D"font-size: =
+30px;"><strong>REMINDER</strong></span></p><p style=3D"text-align: =
+center;"><strong><span style=3D"font-size: 24px; color: rgb(0, 0, =
+0);">Picture Day - Tomorrow</span></strong></p></div>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr>
+<td valign=3D"top" width=3D"100%" align=3D"center" style=3D"padding: 0 =
+10px 10px;" data-nle-template-section=3D"footer">
+<table id=3D"mtk-nl-footer" class=3D"mtk-nl-wrapper" width=3D"650" =
+border=3D"0" cellspacing=3D"0" cellpadding=3D"0" =
+style=3D"background-color: #999999;" bgcolor=3D"#999999">
+<tbody>
+<tr>
+<td valign=3D"top" width=3D"100%" style=3D"padding:10px 0px 10px;">
+<table width=3D"100%" border=3D"0" cellspacing=3D"0" cellpadding=3D"0">
+<tr>
+<td valign=3D"top" align=3D"center" style=3D"background-color: white; =
+padding: 10px 10px 10px;">
+<table width=3D"100%" border=3D"0" cellspacing=3D"0" cellpadding=3D"0">
+<tr>
+<td width=3D"100%" style=3D" font-size: 1px; line-height: 1px; height: =
+1px;" height=3D"1">
+<!--[if (gte mso 9)|(IE)]>&nbsp<![endif]-->
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<table width=3D"100%" border=3D"0" cellspacing=3D"0" cellpadding=3D"0">
+<tr>
+<td valign=3D"top" align=3D"center" width=3D"100%" style=3D" padding: =
+10px 0px 10px; background-color: black;">
+<table class=3D"mtk-nl-wrapper" width=3D"650" border=3D"0" =
+cellspacing=3D"0" cellpadding=3D"0">
+<tr>
+<td valign=3D"top" align=3D"center" width=3D"100%">
+<table width=3D"100%" border=3D"0" cellspacing=3D"0" cellpadding=3D"0" =
+class=3D"mtk-nl-side-img">
+<tr>
+<th class=3D"mtk-nl-sm-100w" width=3D"10%" valign=3D"top" =
+align=3D"center" style=3D"font-weight: normal;">
+<table width=3D"100%" border=3D"0" cellspacing=3D"0" cellpadding=3D"0">
+<tr>
+<td class=3D"mtk-nl-sm-pad10" valign=3D"top" align=3D"center" =
+style=3D"padding: 0px 5px 0px 10px;">
+<img  id=3D"nle-block-3197813--img" =
+src=3D"https://tenaflymshsa.membershiptoolkit.com/assets/04963/IMG-3652.p=
+ng" alt=3D"" border=3D"0" width=3D"50" style=3D" width: 100%; max-width: =
+50px !important; height: auto;">
+</td>
+</tr>
+</table>
+</th>
+<th class=3D"mtk-nl-sm-100w" width=3D"90%" valign=3D"top" =
+align=3D"center" style=3D"font-weight: normal;">
+<table width=3D"100%" border=3D"0" cellspacing=3D"0" cellpadding=3D"0">
+<tr>
+<td class=3D"mtk-nl-sm-pad10 mtk-nl-sm-padtop10" valign=3D"top" =
+align=3D"center" style=3D"padding: 0px 10px 0px 5px; word-break: =
+break-word;">
+<div id=3D"nle-block-3197813--title-editable" style=3D"position: =
+relative; font-family: Arial, sans-serif; font-size: 24px; color: =
+#e69138; font-weight: bold; font-style: normal; text-align: left; =
+line-height: normal; letter-spacing: normal; padding-bottom: 0px; =
+word-break: break-word;">
+</div>
+<div id=3D"nle-block-3197813--rich-text-editable" =
+class=3D"mtk-nl-rich-text-editable" style=3D"position: relative; =
+font-family: Arial, sans-serif; font-size: 16px; color: #e69138; =
+font-weight: normal; font-style: normal; text-align: left; line-height: =
+normal; letter-spacing: normal;">
+<p style=3D"text-align: center;"><strong><span style=3D"font-size: 30px; =
+color: rgb(230, 145, 56);">Messages from TMS</span></strong></p></div>
+</td>
+</tr>
+</table>
+</th>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<table width=3D"100%" border=3D"0" cellspacing=3D"0" cellpadding=3D"0">
+<tr>
+<td valign=3D"top" align=3D"center" style=3D"background-color: white; =
+padding: 10px 10px 10px;">
+<table width=3D"100%" border=3D"0" cellspacing=3D"0" cellpadding=3D"0">
+<tr>
+<td width=3D"100%" style=3D" border-top: 5px solid white; font-size: =
+1px; line-height: 1px; height: 1px;" height=3D"1">
+<!--[if (gte mso 9)|(IE)]>&nbsp<![endif]-->
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<table width=3D"100%" border=3D"0" cellspacing=3D"0" cellpadding=3D"0">
+<tr>
+<td valign=3D"top" align=3D"center" width=3D"100%" style=3D" padding: =
+10px 0px 10px; background-color: white;">
+<table class=3D"mtk-nl-wrapper" width=3D"650" border=3D"0" =
+cellspacing=3D"0" cellpadding=3D"0">
+<tr>
+<td valign=3D"top" align=3D"center" width=3D"100%">
+<table width=3D"100%" border=3D"0" cellspacing=3D"0" cellpadding=3D"0" =
+class=3D"mtk-nl-side-img">
+<tr>
+<th class=3D"mtk-nl-sm-100w" width=3D"30%" valign=3D"top" =
+align=3D"center" style=3D"font-weight: normal;">
+<table width=3D"100%" border=3D"0" cellspacing=3D"0" cellpadding=3D"0">
+<tr>
+<td class=3D"mtk-nl-sm-pad10" valign=3D"top" align=3D"center" =
+style=3D"padding: 0px 5px 0px 10px;">
+<img  id=3D"nle-block-3197817--img" =
+src=3D"https://tenaflymshsa.membershiptoolkit.com/assets/04963/PIcture_Da=
+y.jpeg" alt=3D"" border=3D"0" width=3D"180" style=3D" width: 100%; =
+max-width: 180px !important; height: auto;">
+</td>
+</tr>
+</table>
+</th>
+<th class=3D"mtk-nl-sm-100w" width=3D"70%" valign=3D"top" =
+align=3D"center" style=3D"font-weight: normal;">
+<table width=3D"100%" border=3D"0" cellspacing=3D"0" cellpadding=3D"0">
+<tr>
+<td class=3D"mtk-nl-sm-pad10 mtk-nl-sm-padtop10" valign=3D"top" =
+align=3D"center" style=3D"padding: 0px 10px 0px 5px; word-break: =
+break-word;">
+<div id=3D"nle-block-3197817--title-editable" style=3D"position: =
+relative; font-family: Arial, sans-serif; font-size: 24px; color: =
+#222222; font-weight: bold; font-style: normal; text-align: left; =
+line-height: normal; letter-spacing: normal; padding-bottom: 0px; =
+word-break: break-word;">
+</div>
+<div id=3D"nle-block-3197817--rich-text-editable" =
+class=3D"mtk-nl-rich-text-editable" style=3D"position: relative; =
+font-family: Arial, sans-serif; font-size: 16px; color: #222222; =
+font-weight: normal; font-style: normal; text-align: left; line-height: =
+normal; letter-spacing: normal;">
+<h1 style=3D"text-align: center;"><span style=3D'font-family: "Comic =
+Sans MS", sans-serif; font-size: 24px; color: rgb(41, 134, 204);'>TMS =
+Picture Day&nbsp;</span></h1><h1 style=3D"text-align: center;"><span =
+style=3D'font-family: "Comic Sans MS", sans-serif; font-size: 24px; =
+color: rgb(41, 134, 204);'>Friday, September =
+23</span></h1><p><br></p><p><strong>There are two ways to =
+order:</strong></p><ul><li>Order on-line at =
+<strong>mylifetouch.com&nbsp;</strong>using <strong>Picture Day ID: =
+EVTPM9VQX</strong></li><li>Students bring in a completed form with the =
+exact payment to hand in on<strong>&nbsp;Picture =
+Day</strong></li></ul><p><br></p><p><a =
+href=3D"http://url4609.membershiptoolkit.com/ls/click?upn=3DiKpa70ntmsIg0=
+j801x7s-2B38HorgEQ0wiPvEaWYNasKVyC8pO-2FaMoXR0VgxEpYrVQ9SrjXXX02fJbt49aXu=
+m6ag-3D-3DdWKI_Zn5vtI38bqRJt32aFGYAnKKsT2RsCAqkttCkj0wD2UFwvLmJ0EIw9cSTwX=
+i9WKeGwTdfz5PZQgYEOUzQ7cmjz6pN-2Fx-2BPawltvi27fPQicCdKLaLi8gBDcnCnmRXEdVY=
+M75wfvLdd0kB096ClrQsp-2BawGSPC8F6fJrkyB9CbGweHwE69HNWV3QwCEqefCujVUmzkVub=
+80NENTCgi1sQrRgtziqaMkZqbq8j5XPYsSvOEb01ncJJ4xLCWK4a3fbHvZWk5-2FnpXdKWOw5=
+7DQn0Q5vbEO1bcJvfp4AqztSbknkZDcRenwZmWQR1bkrQky4hdMV3bMe9hps3R6GjLkX2UzfW=
+gTrhcqFMtLTFmMXcH4R1We7bimpbyXB8nNxbNfXvVm" rel=3D"noopener noreferrer" =
+target=3D"_blank">Click here for more details</a></p></div>
+</td>
+</tr>
+</table>
+</th>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<table width=3D"100%" border=3D"0" cellspacing=3D"0" cellpadding=3D"0">
+<tr>
+<td valign=3D"top" align=3D"center" style=3D"background-color: white; =
+padding: 10px 10px 10px;">
+<table width=3D"100%" border=3D"0" cellspacing=3D"0" cellpadding=3D"0">
+<tr>
+<td width=3D"100%" style=3D" border-top: 5px solid black; font-size: =
+1px; line-height: 1px; height: 1px;" height=3D"1">
+<!--[if (gte mso 9)|(IE)]>&nbsp<![endif]-->
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<table width=3D"100%" border=3D"0" cellspacing=3D"0" cellpadding=3D"0">
+<tbody>
+<tr>
+<td valign=3D"top" align=3D"center" style=3D"background-color: white; =
+padding: 10px 10px 0px; word-break: break-word;">
+<div id=3D"nle-block-3197831--title-editable" style=3D"position: =
+relative; font-family: Arial, sans-serif; font-size: 30px; color: =
+#222222; font-weight: bold; font-style: normal; text-align: center; =
+line-height: normal; letter-spacing: normal; padding-bottom: 0px;">
+</div>
+<div id=3D"nle-block-3197831--rich-text-editable" =
+class=3D"mtk-nl-rich-text-editable" style=3D"position: relative; =
+font-family: Arial, sans-serif; font-size: 16px; color: #222222; =
+font-weight: normal; font-style: normal; text-align: left; line-height: =
+normal; letter-spacing: normal;">
+<p>We hope you found this email alert helpful, and encourage everyone to =
+get involved in the HSA. We can&#39;t make a difference without you! If =
+you have any questions, comments or suggestions, please send us an email =
+at <a =
+href=3D"mailto:TMSHSA17@gmail.com">TMSHSA17@gmail.com</a>.&nbsp;</p><p><b=
+r></p><p style=3D"text-align: center;"><a =
+href=3D"http://url4609.membershiptoolkit.com/ls/click?upn=3DDeRduW2Kd5aFS=
+TMtw5j75d89msS7U9DH-2BEpNjdw251vfD7LKFKyvxo-2FIQwyXFJkAWt-2BJm24O7wvvTEEF=
+RcvqPA-3D-3D5KZN_Zn5vtI38bqRJt32aFGYAnKKsT2RsCAqkttCkj0wD2UFwvLmJ0EIw9cST=
+wXi9WKeGwTdfz5PZQgYEOUzQ7cmjz6pN-2Fx-2BPawltvi27fPQicCdKLaLi8gBDcnCnmRXEd=
+VYM75wfvLdd0kB096ClrQsp-2BawGSPC8F6fJrkyB9CbGweHwE69HNWV3QwCEqefCujVUnRA6=
+NkNPbeA-2FV8u5HDw7wOAEoKEUhNMMlB3YgX4oADpvb-2BDwhXBOT767SZX-2FeV2v5-2BkjD=
+x-2BBwMtG0mzJRKj8hQzWwveyVqOI-2FtEumbX86r4KwLPb9zpJxJJHs0XJuMnmwD-2FGy3JQ=
+iSm7HMevY-2FU-2B8UrZdN3X4z9kS4-2BNReeJpE0OPj6T6pzZUAJJ-2FxSrmuLJ">Tenafly=
+ Middle School HSA&nbsp;</a></p><p style=3D"text-align: center;">10 =
+Sunset Lane,</p><p style=3D"text-align: center;">Tenafly, NJ 07670</p><p =
+style=3D"text-align: center;">201-816-4900</p></div>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+
+
+<!--REMOVE:START--><table width=3D"100%"><tr><td><div id=3D"optout" =
+style=3D"clear: both; width: 100%; display: block; margin-top: 10px; =
+margin-bottom: 10px; border: 1px solid #999; background-color: #eee; =
+font-family: arial; font-size: 8pt; color: #999; padding: 5px;">This =
+message was sent to lihilutan@gmail.com from Tenafly Middle School HSA.  =
+To unsubscribe from this list, click <a =
+href=3D"http://url4609.membershiptoolkit.com/ls/click?upn=3DLYmqzTSKcpY5a=
+DMeytfM-2FQqY14fQhaKtH21LQj3DpnYObT717d9z5iglkh19wbNW5C4wIRvplWFA4gsP-2BI=
+HRxPyRjjLRLHUAbHWlCM17gKPhwJqUbvU85BqUlMDhAY89eGNFLodEjvxKEoVdYiUIiQ-3D-3=
+Djwe3_Zn5vtI38bqRJt32aFGYAnKKsT2RsCAqkttCkj0wD2UFwvLmJ0EIw9cSTwXi9WKeGwTd=
+fz5PZQgYEOUzQ7cmjz6pN-2Fx-2BPawltvi27fPQicCdKLaLi8gBDcnCnmRXEdVYM75wfvLdd=
+0kB096ClrQsp-2BawGSPC8F6fJrkyB9CbGweHwE69HNWV3QwCEqefCujVURwL4V9VFSunGlNm=
+B-2BdHBQWNcTOA-2BLYvVIAvdvSPE8AwbAxAPsP503RSWm06Pjtw3V3ENS4in4DEYM5R6weYn=
+fGVO7tZGzLe6ay2VRh74Nwg-2ByIhOwIPrvctyDCNUsjew2Xz94bcoZ1tiseleApjnH3AAmor=
+pdhp464SFmZIMYWA0lGuDjW45OxmNKH6wTpX6">here</a>.  If you would like to =
+manage your subscriptions, please visit <a =
+href=3D"http://url4609.membershiptoolkit.com/ls/click?upn=3DLYmqzTSKcpY5a=
+DMeytfM-2FQqY14fQhaKtH21LQj3DpnYObT717d9z5iglkh19wbNWTJiQXT4LocTtzvmWe-2F=
+we6opWP-2F376edYTshYRX35ZYA-3DlUk2_Zn5vtI38bqRJt32aFGYAnKKsT2RsCAqkttCkj0=
+wD2UFwvLmJ0EIw9cSTwXi9WKeGwTdfz5PZQgYEOUzQ7cmjz6pN-2Fx-2BPawltvi27fPQicCd=
+KLaLi8gBDcnCnmRXEdVYM75wfvLdd0kB096ClrQsp-2BawGSPC8F6fJrkyB9CbGweHwE69HNW=
+V3QwCEqefCujVUSwqrWonVewx4A6XSu4M0WjcVmefjU-2ByWoyJkNjBBbqUncZi4D-2FeI4-2=
+B6-2Bh62y4rPm0QwNkC0NTdBaB-2Fd-2FYrRzppjhG-2BPu8b2yOgbrbV0443K1B65Irf0lOy=
+UHpFPmRHi9Drl1kUwBjxUjOm-2BxNnMnJNIJi38VPvW60ANbLwCOkMw3oe4EbQrAKu3MQpn4N=
+rnj">https://tenaflymshsa.membershiptoolkit.com/user_subscriptions</a></d=
+iv></td></tr></table><!--REMOVE:END-->
+
+<div style=3D"display:none !important; white-space:nowrap !important; =
+font:15px courier !important; color:#ffffff !important;">- - - - - - - - =
+- - - - - - - - - - - - - - - - - - - - - - - - -</div>
+<img =
+src=3D"http://url4609.membershiptoolkit.com/wf/open?upn=3DJ-2Fm4-2BtnPJ5c=
+Be-2FitORAYql9O5xAzKMpWuTgId1-2FZ85jepBbqVfUJGblGprZNCoKDyyYdpfGS5NQanzhl=
+nWgF6fzWd-2FlWxKAxUrXEaIHhxJy1vaQXllaanyzckQ-2BjoR-2Fq5Vg-2F0niqOM20SAfeg=
+E-2BrZaKkw33Vdoy41GvURUzjqtmF5qSBLrAzkC-2BuAEuRdFb8emxpM75AsjWQFMTndYMHkm=
+VYerrNqN-2BTrJiHo0GyP0B-2Fr-2FsPVZjye5g-2B8WpS8YvOr3VjX6GLJpJtmW6YkJGpNIR=
+W6UOL6p-2Bqrumh2jlH7Co78BAwJ28t4WhNbNTk4YanR-2B3J8l5-2FAodVvSlTI5a2lI1yR-=
+2B1R9w-2Fb2AcaOYQ8uUI-2Be-2BYgqj308KAtKq5MgCtV" alt=3D"" width=3D"1" =
+height=3D"1" border=3D"0" style=3D"height:1px !important;width:1px =
+!important;border-width:0 !important;margin-top:0 =
+!important;margin-bottom:0 !important;margin-right:0 =
+!important;margin-left:0 !important;padding-top:0 =
+!important;padding-bottom:0 !important;padding-right:0 =
+!important;padding-left:0 !important;"/></body>
+</html>
+
+
+------=_NextPart_000_02E7_01D96D65.1935EFF0--
